@@ -28,6 +28,27 @@ IT helpdesk teams generate large volumes of support tickets, but few organizatio
 - At a tuned decision threshold (0.35), the model catches 66% of real breaches, up from 30% at the default threshold, demonstrating the value of tuning models to business needs rather than accepting defaults
 - Findings point toward proactive staffing adjustments during high-risk hours as a more effective lever than reactive ticket prioritization alone
 
+## Visualizations
+
+**SLA Compliance by Priority**
+
+
+![SLA Compliance](chart2_sla_by_priority.png)
+
+
+
+**Feature Importance for SLA Breach Prediction**
+
+
+![Feature Importance](chart8_feature_importance.png)
+
+
+
+**Precision-Recall Trade-off Across Thresholds**
+
+
+![Threshold Trade-off](chart10_threshold_tradeoff.png)
+
 ## Tech Stack
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn (Logistic Regression, Random Forest) · Google Colab
