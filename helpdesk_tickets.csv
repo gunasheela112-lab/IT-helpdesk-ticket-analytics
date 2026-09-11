@@ -1,0 +1,1225 @@
+ticket_id,date_raised,date_resolved,site_type,category,priority,assigned_technician,resolution_hours,sla_target_hours,sla_met,status,satisfaction_score
+TCK-10150,2026-04-21 18:39:00,,Remote/Branch,Hardware,Low,,154.22,72,No,Escalated,4.0
+TCK-10427,2025-09-05 14:07:00,2025-09-06 10:43:00.000000,Corporate Office,network,Medium,J. Alvarez,20.6,24,Yes,Resolved,4.0
+TCK-10544,2025-12-27 05:08:00,2025-12-30 14:39:48.000000,Remote/Branch,Software/Access,Low,L. Costa,81.53,72,No,Resolved,5.0
+TCK-10294,2026-02-15 02:09:00,2026-02-15 12:59:34.348858,Corporate Office,Hardware,High,A. Kumar,10.842874682672674,8,No,Resolved,2.0
+TCK-10071,2025-04-17 04:16:00,2025-04-19 06:02:12.000000,Maritime/Port,VoIP,Medium,S. Priya,49.77,24,No,Resolved,4.0
+TCK-10529,2025-07-15 01:17:00,2025-07-15 03:06:12.000000,Corporate Office,Network,Critical,T. Silva,1.82,4,Yes,Resolved,
+TCK-10613,2025-04-28 00:54:00,,Data Center,Printer,High,K. Nandy,1.04,8,Yes,Escalated,
+TCK-10885,2025-04-14 08:41:00,2025-04-14 12:53:36.000000,Data Center,Hardware,Medium,M. Chen,4.21,24,Yes,Resolved,5.0
+TCK-10595,2026-07-13 05:43:00,2026-07-22 11:32:15.498858,Corporate Office,Hardware,Low,L. Costa,221.82097190486888,72,No,Resolved,4.0
+TCK-11175,2026-08-28 08:03:00,2026-08-29 07:11:24.000000,Remote/Branch,Network,Medium,K. Nandy,23.14,24,Yes,Reopened,3.0
+TCK-10169,2025-02-22 08:55:00,2025-02-22 10:28:00.000000,Corporate Office,Software/Access,High,V. Rao,1.55,8,Yes,Resolved,1.0
+TCK-10415,2026-07-19 08:08:00,2026-07-19 16:37:24.000000,Remote/Branch,printer,Medium,J. Alvarez,8.49,24,Yes,Resolved,2.0
+TCK-10273,2025-02-01 01:30:00,2025-02-02 16:28:48.000000,Remote/Branch,VoIP,Low,T. Silva,38.98,72,Yes,Resolved,3.0
+TCK-11030,2026-06-08 08:10:00,2026-06-08 20:54:24.000000,Maritime/Port,Printer,Medium,K. Nandy,12.74,24,Yes,Resolved,4.0
+TCK-10264,2025-08-10 07:21:00,2025-08-19 10:44:24.000000,Remote/Branch,Software/Access,Low,R. Fernandes,219.39,72,No,Resolved,3.0
+TCK-10033,2026-06-28 00:38:00,2026-06-28 15:57:48.000000,Remote/Branch,Email,Low,K. Nandy,15.33,72,Yes,Resolved,4.0
+TCK-10219,2026-02-12 20:05:00,2026-02-12 20:29:36.000000,Data Center,Hardware,Medium,K. Nandy,0.41,24,Yes,Reopened,5.0
+TCK-10996,2026-04-19 14:22:00,2026-04-20 00:07:36.000000,Remote/Branch,Network,Medium,J. Alvarez,9.76,24,Yes,Resolved,4.0
+TCK-10073,2025-12-18 06:43:00,2025-12-20 04:31:00.000000,Corporate Office,Network,Low,J. Alvarez,45.8,72,Yes,Resolved,4.0
+TCK-10792,2025-06-04 22:42:00,2025-06-12 18:18:36.497714,Maritime/Port,Hardware,Low,S. Priya,187.61013825378456,72,No,Resolved,3.0
+TCK-11088,2026-02-08 21:49:00,2026-02-09 06:37:36.000000,Data Center,Printer,High,R. Fernandes,8.81,8,No,Resolved,2.0
+TCK-10963,2025-01-26 16:52:00,,Data Center,Software/Access,High,K. Nandy,2.45,8,Yes,Escalated,5.0
+TCK-11093,2025-12-18 11:11:00,2025-12-20 01:35:00.000000,Maritime/Port,Email,Low,V. Rao,38.4,72,Yes,Resolved,5.0
+TCK-10478,2025-10-24 01:00:00,,Corporate Office,Hardware,High,J. Alvarez,17.11,8,No,Escalated,5.0
+TCK-10012,2026-01-25 08:29:00,2026-01-25 18:45:48.000000,Corporate Office,Hardware,High,K. Nandy,10.28,8,No,Resolved,4.0
+TCK-10657,2025-02-19 01:06:00,,Corporate Office,Email,Low,,184.7646787082555,72,No,Escalated,3.0
+TCK-10741,2026-07-18 15:03:00,2026-07-21 12:53:24.000000,Corporate Office,Network,Low,S. Priya,69.84,72,Yes,Resolved,4.0
+TCK-10756,2025-07-26 04:21:00,2025-07-26 05:37:12.000000,Corporate Office,Email,Critical,R. Fernandes,1.27,4,Yes,Resolved,4.0
+TCK-11074,2025-08-14 21:44:00,2025-08-15 04:01:24.000000,Corporate Office,Hardware,Low,M. Chen,6.29,72,Yes,Resolved,4.0
+TCK-10797,2025-02-05 16:36:00,2025-02-07 09:09:36.000000,Corporate Office,Network,Low,L. Costa,40.56,72,Yes,Resolved,5.0
+TCK-10330,2026-03-25 14:33:00,2026-03-25 15:51:00.000000,Data Center,Hardware,High,L. Costa,1.3,8,Yes,Reopened,5.0
+TCK-10109,2025-01-06 03:49:00,2025-01-08 00:14:48.000000,Maritime/Port,Network,Medium,T. Silva,44.43,24,No,Reopened,5.0
+TCK-10504,2026-03-10 11:44:00,2026-03-10 13:51:12.000000,Corporate Office,Software/Access,High,S. Priya,2.12,8,Yes,Resolved,1.0
+TCK-10165,2026-07-01 04:17:00,2026-07-04 03:24:12.000000,Maritime/Port,Network,Medium,A. Kumar,71.12,24,No,Resolved,5.0
+TCK-10429,2026-03-05 07:55:00,2026-03-05 17:38:48.000000,Corporate Office,Email,Medium,R. Fernandes,9.73,24,Yes,Resolved,5.0
+TCK-10868,2025-07-12 05:58:00,2025-07-14 01:14:51.624649,Remote/Branch,Printer,Medium,T. Silva,43.281006846962526,24,No,Resolved,5.0
+TCK-10881,2026-07-16 15:58:00,2026-07-17 20:16:36.000000,Data Center,Hardware,Low,M. Chen,28.31,72,Yes,Resolved,4.0
+TCK-10015,2025-09-08 05:29:00,2025-09-08 07:07:24.000000,Corporate Office,Software/Access,High,T. Silva,1.64,8,Yes,Resolved,5.0
+TCK-10948,2025-07-18 09:28:00,2025-07-19 08:12:24.000000,Maritime/Port,Software/Access,High,R. Fernandes,22.74,8,No,Resolved,5.0
+TCK-10229,2026-04-18 20:16:00,2026-04-19 05:59:48.000000,Data Center,Printer,High,V. Rao,9.73,8,No,Resolved,3.0
+TCK-11092,2025-07-11 17:16:00,2025-07-11 17:32:12.000000,Corporate Office,Hardware,High,M. Chen,0.27,8,Yes,Resolved,
+TCK-10387,2025-11-10 14:38:00,2025-11-10 19:09:12.000000,Remote/Branch,Hardware,Medium,T. Silva,4.52,24,Yes,Resolved,5.0
+TCK-11080,2025-09-05 08:13:00,2025-09-05 15:24:24.000000,Corporate Office,Printer,Medium,M. Chen,7.19,24,Yes,Resolved,4.0
+TCK-10208,2026-06-04 08:52:00,2026-06-04 08:53:48.000000,Data Center,Software/Access,High,A. Kumar,0.03,8,Yes,Resolved,4.0
+TCK-10851,2025-03-14 15:56:00,2025-03-16 06:23:36.000000,Corporate Office,Hardware,Low,M. Chen,38.46,72,Yes,Reopened,5.0
+TCK-10888,2025-11-17 13:47:00,2025-11-19 18:51:33.168545,Maritime/Port,Network,Medium,S. Priya,53.075880151279456,24,No,Resolved,
+TCK-10477,2025-02-07 12:50:00,2025-02-10 16:05:00.000000,Remote/Branch,Hardware,Low,V. Rao,75.25,72,No,Resolved,5.0
+TCK-10093,2026-08-14 06:16:00,2026-08-14 06:51:24.000000,Corporate Office,Software/Access,Critical,A. Kumar,0.59,4,Yes,Resolved,4.0
+TCK-10037,2026-05-02 17:10:00,2026-05-03 04:50:12.000000,Remote/Branch,Hardware,Low,J. Alvarez,11.67,72,Yes,Resolved,5.0
+TCK-10811,2026-02-16 01:25:00,2026-02-16 22:30:24.000000,Corporate Office,email,Low,K. Nandy,21.09,72,Yes,Resolved,3.0
+TCK-10268,2025-09-01 18:20:00,2025-09-02 04:55:24.000000,Remote/Branch,Network,High,A. Kumar,10.59,8,No,Resolved,5.0
+TCK-11166,2025-10-30 08:34:00,2025-11-01 14:18:24.000000,Remote/Branch,Printer,Low,K. Nandy,53.74,72,Yes,Resolved,4.0
+TCK-11155,2026-05-02 22:38:00,2026-05-05 07:34:24.000000,Maritime/Port,Software/Access,Medium,R. Fernandes,56.94,24,No,Resolved,3.0
+TCK-10178,2025-01-03 13:28:00,2025-01-05 13:11:12.000000,Corporate Office,VoIP,Medium,D. Iyer,47.72,24,No,Resolved,5.0
+TCK-10157,2025-09-07 09:42:00,2025-09-07 10:01:48.000000,Remote/Branch,security,High,D. Iyer,0.33,8,Yes,Resolved,3.0
+TCK-10800,2026-03-10 02:43:00,2026-03-10 09:17:48.000000,Corporate Office,Network,Medium,T. Silva,6.58,24,Yes,Resolved,2.0
+TCK-10179,2025-02-03 07:18:00,2025-02-06 10:26:24.000000,Maritime/Port,Security,Low,J. Alvarez,75.14,72,No,Resolved,5.0
+TCK-10433,2025-09-04 06:37:00,2025-09-06 06:21:45.982916,Corporate Office,Hardware,Medium,K. Nandy,47.746106365693095,24,No,Resolved,5.0
+TCK-11171,2025-11-26 03:06:00,2025-12-02 17:28:48.000000,Remote/Branch,VoIP,Low,L. Costa,158.38,72,No,Reopened,3.0
+TCK-11051,2025-06-15 03:13:00,2025-06-18 02:49:00.000000,Corporate Office,Hardware,Medium,L. Costa,71.6,24,No,Resolved,5.0
+TCK-11117,2025-03-07 15:35:00,2025-03-07 23:12:27.905755,Data Center,software/access,Critical,A. Kumar,7.624418265221272,4,No,Reopened,3.0
+TCK-10970,2025-06-07 00:29:00,2025-06-07 13:18:34.679413,Remote/Branch,Software/Access,High,K. Nandy,12.826299837046768,8,No,Resolved,5.0
+TCK-10421,2026-07-13 09:41:00,,Corporate Office,Email,Low,J. Alvarez,14.38,72,Yes,Escalated,4.0
+TCK-10524,2025-11-04 12:11:00,2025-11-04 14:20:36.000000,Remote/Branch,Printer,High,L. Costa,2.16,8,Yes,Resolved,4.0
+TCK-10563,2026-08-01 21:02:00,2026-08-02 04:13:24.000000,Maritime/Port,Email,High,R. Fernandes,7.19,8,Yes,Resolved,2.0
+TCK-11053,2025-01-06 02:52:00,2025-01-06 05:34:00.000000,Remote/Branch,Software/Access,Medium,R. Fernandes,2.7,24,Yes,Resolved,
+TCK-10241,2025-04-03 09:20:00,,Remote/Branch,VoIP,Medium,,1.65,24,Yes,Escalated,4.0
+TCK-11075,2026-02-27 11:33:00,2026-02-28 23:34:14.712489,Remote/Branch,Software/Access,Medium,L. Costa,36.020753469291876,24,No,Resolved,2.0
+TCK-11112,2025-10-01 19:41:00,2025-10-02 03:27:48.000000,Remote/Branch,Hardware,Medium,T. Silva,7.78,24,Yes,Resolved,4.0
+TCK-10810,2026-02-17 04:39:00,2026-02-17 16:43:12.000000,Corporate Office,Network,Medium,D. Iyer,12.07,24,Yes,Resolved,5.0
+TCK-11047,2026-02-28 17:50:00,,Data Center,Printer,Medium,L. Costa,2.86,24,Yes,Escalated,5.0
+TCK-10374,2025-12-27 17:21:00,2025-12-27 20:09:36.000000,Data Center,Network,Low,R. Fernandes,2.81,72,Yes,Resolved,2.0
+TCK-10239,2025-05-21 20:06:00,,Corporate Office,Security,Medium,,18.86,24,Yes,Escalated,
+TCK-11139,2025-11-25 00:09:00,2025-11-26 00:22:12.000000,Remote/Branch,Hardware,Medium,A. Kumar,24.22,24,No,Resolved,5.0
+TCK-10816,2025-11-25 08:46:00,2025-11-25 21:15:24.000000,Remote/Branch,Software/Access,High,T. Silva,12.49,8,No,Resolved,4.0
+TCK-10562,2025-02-17 02:43:00,2025-02-17 11:52:36.000000,Maritime/Port,Printer,Low,J. Alvarez,9.16,72,Yes,Resolved,5.0
+TCK-10152,2025-09-22 10:17:00,,Corporate Office,Software/Access,Medium,,2.48,24,Yes,Escalated,1.0
+TCK-10777,2025-06-14 23:04:00,2025-06-15 23:26:48.000000,Remote/Branch,Hardware,Medium,L. Costa,24.38,24,No,Resolved,5.0
+TCK-10105,2025-08-29 21:19:00,2025-08-29 21:48:24.000000,Data Center,Software/Access,High,M. Chen,0.49,8,Yes,Resolved,4.0
+TCK-10148,2026-08-30 08:20:00,2026-08-30 22:41:00.000000,Corporate Office,Security,High,M. Chen,14.35,8,No,Resolved,
+TCK-10565,2026-02-12 02:19:00,2026-02-12 06:37:00.000000,Data Center,Email,Medium,R. Fernandes,4.3,24,Yes,Resolved,3.0
+TCK-10088,2025-10-13 02:49:00,2025-10-13 06:41:48.000000,Remote/Branch,Software/Access,High,J. Alvarez,3.88,8,Yes,Resolved,
+TCK-10187,2026-03-19 23:20:00,2026-03-20 02:21:48.000000,Remote/Branch,Email,Medium,D. Iyer,3.03,24,Yes,Resolved,5.0
+TCK-10186,2026-05-21 14:05:00,,Maritime/Port,VoIP,Medium,D. Iyer,86.65071144116084,24,No,Escalated,
+TCK-10539,2026-07-31 07:47:00,2026-08-06 14:26:36.002730,Corporate Office,Email,Low,R. Fernandes,150.66000075840566,72,No,Resolved,5.0
+TCK-10098,2025-10-30 17:08:00,2025-10-30 17:43:24.000000,Remote/Branch,Network,High,M. Chen,0.59,8,Yes,Resolved,5.0
+TCK-10603,2025-12-30 05:41:00,2026-01-09 23:20:03.477282,Maritime/Port,hardware,Low,D. Iyer,257.65096591162313,72,No,Resolved,5.0
+TCK-10000,2025-04-25 00:47:00,2025-04-25 01:42:48.000000,Corporate Office,Security,High,J. Alvarez,0.93,8,Yes,Resolved,3.0
+TCK-10486,2025-09-12 00:16:00,,Remote/Branch,Hardware,Low,,0.55,72,Yes,Escalated,5.0
+TCK-10921,2025-07-15 22:21:00,2025-07-16 11:56:24.000000,Remote/Branch,Software/Access,Low,S. Priya,13.59,72,Yes,Resolved,2.0
+TCK-10059,2026-06-28 05:03:00,2026-07-05 09:27:56.085743,Corporate Office,Email,Low,L. Costa,172.41557937297944,72,No,Resolved,5.0
+TCK-10953,2025-11-27 19:03:00,2025-11-28 16:58:12.000000,Corporate Office,Email,Low,D. Iyer,21.92,72,Yes,Resolved,5.0
+TCK-11138,2026-04-09 08:44:00,2026-04-09 13:46:24.000000,Maritime/Port,Network,High,D. Iyer,5.04,8,Yes,Resolved,1.0
+TCK-10257,2025-10-14 01:44:00,2025-10-15 18:18:48.000000,Corporate Office,Network,Low,K. Nandy,40.58,72,Yes,Resolved,4.0
+TCK-10182,2026-07-12 07:41:00,2026-07-12 13:17:00.000000,Maritime/Port,Printer,High,R. Fernandes,5.6,8,Yes,Resolved,2.0
+TCK-10927,2025-05-12 03:24:00,2025-05-15 18:55:12.000000,Remote/Branch,Printer,Low,D. Iyer,87.52,72,No,Resolved,
+TCK-10771,2025-02-19 12:28:00,2025-02-26 09:58:00.000000,Remote/Branch,Software/Access,Low,T. Silva,165.5,72,No,Resolved,4.0
+TCK-10986,2025-07-05 21:51:00,2025-07-06 01:51:36.000000,Corporate Office,Printer,Low,D. Iyer,4.01,72,Yes,Resolved,4.0
+TCK-11181,2025-08-25 17:24:00,2025-08-27 00:06:36.000000,Remote/Branch,Software/Access,Low,M. Chen,30.71,72,Yes,Resolved,3.0
+TCK-11061,2025-01-01 05:05:00,2025-01-08 21:25:24.000000,Remote/Branch,Network,Low,J. Alvarez,184.34,72,No,Resolved,4.0
+TCK-10605,2025-04-11 08:14:00,2025-04-12 03:26:00.000000,Corporate Office,Software/Access,Medium,L. Costa,19.2,24,Yes,Resolved,5.0
+TCK-10311,2026-04-17 22:58:00,2026-04-24 12:09:55.877466,Maritime/Port,Hardware,Low,K. Nandy,157.19885485163041,72,No,Resolved,5.0
+TCK-10602,2025-03-29 03:49:00,2025-03-29 19:05:48.000000,Remote/Branch,Network,High,M. Chen,15.28,8,No,Resolved,4.0
+TCK-10835,2025-04-15 00:32:00,2025-04-16 00:14:36.000000,Remote/Branch,Hardware,Low,K. Nandy,23.71,72,Yes,Resolved,2.0
+TCK-10058,2025-11-18 01:03:00,2025-11-18 06:45:00.000000,Maritime/Port,Printer,Low,D. Iyer,5.7,72,Yes,Resolved,1.0
+TCK-10738,2025-06-26 11:13:00,2025-06-27 22:12:24.000000,Remote/Branch,Software/Access,Medium,R. Fernandes,34.99,24,No,Resolved,3.0
+TCK-10566,2026-08-04 12:43:00,2026-08-05 14:55:36.000000,Remote/Branch,Software/Access,Low,L. Costa,26.21,72,Yes,Resolved,5.0
+TCK-10716,2025-05-26 22:17:00,2025-05-28 14:25:34.009412,Remote/Branch,Network,Medium,S. Priya,40.14278039225031,24,No,Resolved,4.0
+TCK-10031,2025-04-19 20:19:00,2025-04-25 07:59:12.000000,Remote/Branch,Email,Low,L. Costa,131.67,72,No,Resolved,4.0
+TCK-10480,2026-07-11 16:31:00,2026-07-11 17:25:36.000000,Corporate Office,VoIP,Medium,R. Fernandes,0.91,24,Yes,Reopened,
+TCK-10904,2025-06-10 16:54:00,2025-06-11 03:39:36.000000,Corporate Office,email,Low,V. Rao,10.76,72,Yes,Resolved,4.0
+TCK-10619,2025-08-08 06:17:00,2025-08-10 06:02:00.000000,Corporate Office,software/access,Medium,S. Priya,47.75,24,No,Resolved,3.0
+TCK-10407,2025-03-30 02:19:00,2025-03-31 06:20:12.000000,Corporate Office,Software/Access,Medium,T. Silva,28.02,24,No,Resolved,5.0
+TCK-10519,2025-11-25 07:19:00,,Corporate Office,Network,Medium,R. Fernandes,26.55,24,No,Escalated,5.0
+TCK-10900,2026-06-22 23:36:00,2026-06-23 23:23:24.000000,Data Center,Network,Low,D. Iyer,23.79,72,Yes,Resolved,3.0
+TCK-10406,2026-01-13 14:51:00,2026-01-13 18:39:36.000000,Maritime/Port,Software/Access,Medium,L. Costa,3.81,24,Yes,Resolved,5.0
+TCK-10765,2026-08-10 12:54:00,2026-08-11 23:34:51.610547,Corporate Office,Security,Medium,D. Iyer,34.68100292974025,24,No,Resolved,
+TCK-10056,2026-05-14 04:12:00,2026-05-14 16:57:36.000000,Corporate Office,Network,Medium,J. Alvarez,12.76,24,Yes,Resolved,5.0
+TCK-11168,2026-01-08 19:15:00,2026-01-10 00:27:36.000000,Data Center,Email,Low,K. Nandy,29.21,72,Yes,Resolved,5.0
+TCK-11101,2026-08-05 01:25:00,2026-08-05 06:07:00.000000,Data Center,Software/Access,Low,S. Priya,4.7,72,Yes,Resolved,5.0
+TCK-10724,2026-04-23 10:26:00,2026-04-23 15:03:12.000000,Corporate Office,Network,High,S. Priya,4.62,8,Yes,Resolved,4.0
+TCK-10011,2025-08-22 09:05:00,2025-08-22 11:03:12.000000,Corporate Office,Network,High,M. Chen,1.97,8,Yes,Resolved,2.0
+TCK-10615,2025-06-13 10:35:00,2025-06-13 14:54:12.000000,Corporate Office,Email,Medium,T. Silva,4.32,24,Yes,Resolved,4.0
+TCK-11164,2025-11-28 23:29:00,2025-11-29 19:00:48.000000,Corporate Office,Printer,Medium,J. Alvarez,19.53,24,Yes,Resolved,4.0
+TCK-10141,2025-11-05 21:38:00,2025-11-08 09:26:00.000000,Data Center,Network,Low,S. Priya,59.8,72,Yes,Resolved,1.0
+TCK-10470,2026-06-28 07:40:00,2026-06-30 07:26:02.141566,Remote/Branch,Software/Access,Medium,M. Chen,47.76726154608035,24,No,Resolved,4.0
+TCK-10628,2026-07-05 22:58:00,2026-07-07 22:13:36.000000,Remote/Branch,Software/Access,Low,R. Fernandes,47.26,72,Yes,Resolved,
+TCK-10630,2026-04-07 19:03:00,2026-04-07 19:09:00.000000,Corporate Office,Software/Access,Critical,K. Nandy,0.1,4,Yes,Resolved,4.0
+TCK-10260,2025-10-10 06:07:00,2025-10-16 02:55:06.274713,Remote/Branch,Software/Access,Low,V. Rao,140.8017429758165,72,No,Resolved,3.0
+TCK-10221,2025-02-06 19:04:00,,Data Center,Hardware,Medium,M. Chen,3.12,24,Yes,Escalated,4.0
+TCK-10766,2025-11-22 19:14:00,2025-11-22 19:27:12.000000,Corporate Office,VoIP,Medium,D. Iyer,0.22,24,Yes,Resolved,4.0
+TCK-10510,2025-05-11 23:14:00,2025-05-13 14:20:36.000000,Corporate Office,Hardware,Low,A. Kumar,39.11,72,Yes,Resolved,5.0
+TCK-10055,2026-04-11 09:27:00,2026-04-12 21:43:12.000000,Corporate Office,Hardware,Medium,L. Costa,36.27,24,No,Resolved,5.0
+TCK-10729,2025-11-03 08:52:00,2025-11-07 05:36:42.775905,Data Center,Software/Access,Medium,R. Fernandes,92.74521552910852,24,No,Resolved,5.0
+TCK-10838,2025-09-25 20:45:00,2025-09-27 16:38:24.000000,Corporate Office,Printer,Low,J. Alvarez,43.89,72,Yes,Resolved,
+TCK-10860,2026-05-04 12:00:00,2026-05-05 11:45:00.000000,Maritime/Port,Software/Access,Low,A. Kumar,23.75,72,Yes,Resolved,5.0
+TCK-10889,2025-02-16 00:54:00,2025-02-16 13:59:24.000000,Corporate Office,Software/Access,High,R. Fernandes,13.09,8,No,Resolved,1.0
+TCK-10460,2025-10-13 17:19:00,2025-10-13 17:29:12.000000,Remote/Branch,VoIP,Medium,M. Chen,0.17,24,Yes,Resolved,4.0
+TCK-10405,2025-08-31 15:01:00,2025-09-13 17:34:36.000000,Maritime/Port,Security,Low,K. Nandy,314.56,72,No,Resolved,4.0
+TCK-10612,2026-04-09 10:04:00,2026-04-14 19:48:37.315542,Remote/Branch,VoIP,Low,J. Alvarez,129.74369876176857,72,No,Resolved,4.0
+TCK-10701,2026-06-06 00:02:00,,Maritime/Port,Software/Access,Low,,66.68,72,Yes,Escalated,2.0
+TCK-10670,2025-05-27 02:33:00,2025-06-01 01:49:08.484512,Data Center,Network,Low,D. Iyer,119.26902347547407,72,No,Resolved,4.0
+TCK-10515,2025-03-10 03:38:00,2025-03-10 08:14:00.000000,Remote/Branch,Network,High,A. Kumar,4.6,8,Yes,Resolved,4.0
+TCK-10845,2025-06-24 21:56:00,2025-06-25 05:06:12.000000,Corporate Office,Software/Access,Low,L. Costa,7.17,72,Yes,Reopened,
+TCK-10588,2026-02-10 10:53:00,2026-02-11 10:37:24.000000,Remote/Branch,Network,Medium,D. Iyer,23.74,24,Yes,Resolved,3.0
+TCK-10309,2026-08-11 12:45:00,2026-08-11 16:42:00.000000,Remote/Branch,Email,Medium,T. Silva,3.95,24,Yes,Resolved,
+TCK-10276,2025-10-09 19:40:00,2025-10-10 01:23:12.000000,Corporate Office,Hardware,Low,D. Iyer,5.72,72,Yes,Resolved,5.0
+TCK-11041,2025-03-27 09:38:00,2025-03-27 14:08:00.000000,Corporate Office,Software/Access,Medium,L. Costa,4.5,24,Yes,Resolved,3.0
+TCK-10674,2026-01-29 11:27:00,,Corporate Office,Software/Access,Medium,K. Nandy,12.12,24,Yes,Escalated,5.0
+TCK-10176,2025-08-01 20:13:00,2025-08-04 08:17:12.000000,Maritime/Port,Software/Access,Medium,J. Alvarez,60.07,24,No,Resolved,3.0
+TCK-10865,2025-03-08 01:19:00,2025-03-08 01:33:24.000000,Data Center,Email,Critical,J. Alvarez,0.24,4,Yes,Resolved,5.0
+TCK-10799,2025-06-21 06:51:00,2025-06-21 07:46:12.000000,Corporate Office,Printer,Low,M. Chen,0.92,72,Yes,Resolved,5.0
+TCK-10720,2025-05-14 07:18:00,2025-05-14 08:57:00.000000,Corporate Office,Security,Medium,J. Alvarez,1.65,24,Yes,Reopened,4.0
+TCK-10502,2025-11-12 23:01:00,2025-11-13 02:42:24.000000,Remote/Branch,Email,Medium,T. Silva,3.69,24,Yes,Resolved,4.0
+TCK-11038,2026-06-27 13:14:00,2026-07-12 07:23:36.000000,Remote/Branch,Hardware,Low,V. Rao,354.16,72,No,Resolved,4.0
+TCK-10993,2026-01-09 10:27:00,2026-01-14 12:39:37.143079,Corporate Office,Security,Low,R. Fernandes,122.2103175219379,72,No,Resolved,1.0
+TCK-10196,2026-02-18 16:52:00,2026-02-18 18:01:00.000000,Data Center,Hardware,Critical,A. Kumar,1.15,4,Yes,Resolved,3.0
+TCK-10919,2026-02-24 03:16:00,,Remote/Branch,Network,Low,D. Iyer,146.72,72,No,Escalated,5.0
+TCK-10739,2026-04-02 04:02:00,,Corporate Office,Printer,Medium,,9.87,24,Yes,Escalated,5.0
+TCK-11105,2026-02-26 03:22:00,2026-02-26 19:11:48.000000,Corporate Office,Security,Medium,D. Iyer,15.83,24,Yes,Resolved,4.0
+TCK-10700,2025-04-16 18:43:00,2025-04-17 20:41:12.000000,Corporate Office,email,Low,S. Priya,25.97,72,Yes,Resolved,4.0
+TCK-10949,2025-03-18 05:11:00,2025-03-21 15:23:36.000000,Corporate Office,Hardware,Low,L. Costa,82.21,72,No,Resolved,4.0
+TCK-10829,2025-07-31 08:41:00,2025-07-31 09:55:24.000000,Data Center,Hardware,Critical,T. Silva,1.24,4,Yes,Resolved,5.0
+TCK-10014,2025-03-15 19:40:00,2025-03-15 21:41:48.000000,Data Center,Hardware,Low,R. Fernandes,2.03,72,Yes,Resolved,4.0
+TCK-10288,2026-08-15 16:13:00,2026-08-16 06:26:48.000000,Remote/Branch,software/access,Medium,R. Fernandes,14.23,24,Yes,Resolved,
+TCK-10956,2025-07-08 16:04:00,2025-07-09 23:44:12.000000,Corporate Office,Printer,Low,L. Costa,31.67,72,Yes,Resolved,4.0
+TCK-10080,2025-02-10 11:13:00,2025-02-10 11:59:48.000000,Data Center,Hardware,High,M. Chen,0.78,8,Yes,Resolved,
+TCK-10833,2026-01-21 11:29:00,2026-01-21 11:39:12.000000,Corporate Office,Network,High,J. Alvarez,0.17,8,Yes,Resolved,4.0
+TCK-10525,2025-08-19 09:54:00,2025-08-19 17:30:00.000000,Corporate Office,Email,Low,R. Fernandes,7.6,72,Yes,Resolved,2.0
+TCK-11199,2025-08-11 23:04:00,2025-08-12 00:51:24.000000,Remote/Branch,Software/Access,Critical,K. Nandy,1.79,4,Yes,Resolved,4.0
+TCK-10897,2026-01-03 19:01:00,2026-01-04 18:53:48.000000,Corporate Office,software/access,High,R. Fernandes,23.88,8,No,Resolved,3.0
+TCK-10862,2026-06-28 06:01:00,2026-06-28 06:58:00.000000,Corporate Office,Software/Access,High,A. Kumar,0.95,8,Yes,Resolved,2.0
+TCK-11145,2026-04-27 05:12:00,2026-04-27 07:51:00.000000,Corporate Office,Network,Critical,J. Alvarez,2.65,4,Yes,Resolved,5.0
+TCK-10924,2025-05-18 15:00:00,2025-05-18 16:39:36.000000,Remote/Branch,Software/Access,High,L. Costa,1.66,8,Yes,Resolved,4.0
+TCK-11046,2026-01-10 19:17:00,2026-01-10 20:50:00.000000,Remote/Branch,Email,Critical,T. Silva,1.55,4,Yes,Resolved,4.0
+TCK-10831,2025-01-09 07:16:00,2025-01-12 11:01:36.000000,Data Center,Hardware,Low,D. Iyer,75.76,72,No,Resolved,
+TCK-10629,2026-05-17 09:08:00,2026-05-17 11:24:48.000000,Remote/Branch,Security,Medium,R. Fernandes,2.28,24,Yes,Resolved,4.0
+TCK-10682,2026-04-28 02:01:00,2026-05-04 03:50:29.161878,Corporate Office,Network,Low,D. Iyer,145.8247671883612,72,No,Reopened,5.0
+TCK-11072,2026-04-15 21:29:00,2026-04-17 01:52:24.000000,Corporate Office,Software/Access,Low,D. Iyer,28.39,72,Yes,Resolved,1.0
+TCK-10936,2026-03-04 21:47:00,2026-03-04 22:21:48.000000,Corporate Office,Hardware,High,L. Costa,0.58,8,Yes,Resolved,4.0
+TCK-10399,2025-08-08 19:18:00,2025-08-09 13:13:12.000000,Corporate Office,Hardware,Low,V. Rao,17.92,72,Yes,Resolved,3.0
+TCK-10732,2025-03-05 07:08:00,2025-03-05 13:38:00.000000,Corporate Office,Software/Access,Medium,M. Chen,6.5,24,Yes,Resolved,4.0
+TCK-10381,2025-12-06 08:07:00,2025-12-08 22:35:12.000000,Data Center,hardware,Low,K. Nandy,62.47,72,Yes,Resolved,2.0
+TCK-10133,2025-12-25 07:41:00,2025-12-26 23:43:24.000000,Data Center,Printer,Low,S. Priya,40.04,72,Yes,Resolved,
+TCK-10243,2025-10-07 05:16:00,2025-10-07 07:01:36.000000,Data Center,Network,Medium,V. Rao,1.76,24,Yes,Resolved,4.0
+TCK-10386,2025-11-25 03:05:00,2025-11-26 10:51:12.000000,Corporate Office,Software/Access,Low,K. Nandy,31.77,72,Yes,Resolved,
+TCK-11028,2026-04-28 15:10:00,2026-05-01 20:46:00.000000,Remote/Branch,Email,Low,M. Chen,77.6,72,No,Resolved,4.0
+TCK-11141,2026-03-25 23:00:00,2026-03-27 18:30:37.722985,Remote/Branch,Hardware,Medium,M. Chen,43.51047860689116,24,No,Resolved,2.0
+TCK-10137,2025-06-21 19:38:00,2025-06-22 09:14:00.000000,Data Center,Software/Access,Low,S. Priya,13.6,72,Yes,Resolved,5.0
+TCK-10785,2025-03-31 09:52:00,2025-04-03 06:39:24.000000,Corporate Office,Email,Low,D. Iyer,68.79,72,Yes,Resolved,3.0
+TCK-10278,2026-06-02 19:27:00,2026-06-04 05:23:24.000000,Corporate Office,Email,Low,S. Priya,33.94,72,Yes,Resolved,3.0
+TCK-10714,2025-01-02 21:24:00,2025-01-03 00:36:36.000000,Remote/Branch,Network,Medium,J. Alvarez,3.21,24,Yes,Resolved,3.0
+TCK-10994,2025-09-10 07:45:00,2025-09-10 12:00:00.000000,Corporate Office,Software/Access,Medium,T. Silva,4.25,24,Yes,Resolved,5.0
+TCK-10725,2025-08-01 14:19:00,2025-08-06 21:13:36.000000,Maritime/Port,Network,Low,V. Rao,126.91,72,No,Resolved,5.0
+TCK-11109,2025-05-29 05:40:00,2025-05-29 20:34:36.000000,Maritime/Port,Email,Low,K. Nandy,14.91,72,Yes,Resolved,5.0
+TCK-10115,2025-09-11 20:17:00,2025-09-13 10:26:36.000000,Remote/Branch,Software/Access,Medium,L. Costa,38.16,24,No,Resolved,5.0
+TCK-10884,2025-06-02 02:49:00,2025-06-02 11:42:32.002669,Corporate Office,security,Critical,L. Costa,8.89222296349554,4,No,Resolved,5.0
+TCK-10222,2025-10-22 07:47:00,2025-10-26 21:08:36.000000,Remote/Branch,Email,Low,S. Priya,109.36,72,No,Resolved,3.0
+TCK-10022,2026-08-22 13:57:00,2026-08-22 15:10:48.000000,Corporate Office,Network,Medium,D. Iyer,1.23,24,Yes,Resolved,3.0
+TCK-10711,2025-07-20 23:57:00,2025-07-21 14:18:00.000000,Remote/Branch,Software/Access,High,L. Costa,14.35,8,No,Resolved,4.0
+TCK-10439,2025-10-14 19:43:00,2025-10-15 05:59:48.000000,Data Center,Software/Access,Medium,D. Iyer,10.28,24,Yes,Resolved,
+TCK-10302,2025-11-12 01:14:00,2025-11-12 06:49:24.000000,Maritime/Port,Printer,High,T. Silva,5.59,8,Yes,Resolved,4.0
+TCK-11121,2025-05-15 16:53:00,2025-05-16 23:18:55.944543,Corporate Office,Hardware,Medium,R. Fernandes,30.432206817612382,24,No,Resolved,5.0
+TCK-10669,2025-05-21 12:49:00,2025-05-24 17:49:00.000000,Corporate Office,Email,Low,R. Fernandes,77.0,72,No,Resolved,4.0
+TCK-10908,2026-03-31 18:28:00,2026-03-31 22:55:00.000000,Corporate Office,Hardware,Critical,S. Priya,4.45,4,No,Resolved,5.0
+TCK-11190,2026-01-20 17:59:00,2026-01-21 08:24:48.000000,Corporate Office,VoIP,Low,J. Alvarez,14.43,72,Yes,Resolved,4.0
+TCK-10517,2025-08-28 17:13:00,2025-08-31 15:10:36.000000,Corporate Office,Software/Access,Low,A. Kumar,-1.0,72,Yes,Resolved,2.0
+TCK-10718,2025-03-28 18:06:00,2025-03-29 23:50:24.000000,Corporate Office,Software/Access,Medium,L. Costa,29.74,24,No,Resolved,5.0
+TCK-10223,2025-04-11 20:45:00,,Corporate Office,Security,Low,S. Priya,34.22,72,Yes,Escalated,3.0
+TCK-10384,2026-06-16 08:51:00,2026-06-16 15:08:24.000000,Remote/Branch,Network,High,S. Priya,6.29,8,Yes,Resolved,3.0
+TCK-10024,2025-02-18 03:09:00,2025-02-18 12:48:36.000000,Remote/Branch,Network,High,R. Fernandes,9.66,8,No,Resolved,4.0
+TCK-10004,2026-07-13 13:14:00,2026-07-15 00:14:36.000000,Remote/Branch,Hardware,Low,V. Rao,35.01,72,Yes,Resolved,2.0
+TCK-10992,2025-11-10 22:37:00,2025-11-11 02:32:12.000000,Remote/Branch,Network,High,R. Fernandes,3.92,8,Yes,Resolved,2.0
+TCK-10458,2026-04-16 17:21:00,2026-04-18 02:21:36.000000,Maritime/Port,Security,Medium,L. Costa,33.01,24,No,Reopened,3.0
+TCK-10465,2025-05-30 09:02:00,2025-05-30 12:42:48.000000,Remote/Branch,Hardware,High,J. Alvarez,3.68,8,Yes,Resolved,4.0
+TCK-11024,2026-06-09 01:57:00,,Remote/Branch,Network,Low,D. Iyer,14.55,72,Yes,Escalated,
+TCK-10312,2025-04-19 07:27:00,,Corporate Office,Software/Access,High,D. Iyer,4.83,8,Yes,Escalated,4.0
+TCK-10357,2026-01-31 02:23:00,,Remote/Branch,email,Low,M. Chen,195.45172543059167,72,No,Escalated,2.0
+TCK-10110,2026-06-15 14:03:00,2026-06-16 02:01:48.000000,Corporate Office,Network,Medium,L. Costa,11.98,24,Yes,Reopened,4.0
+TCK-10263,2025-07-30 02:53:00,2025-07-30 20:26:00.000000,Corporate Office,Hardware,Medium,L. Costa,17.55,24,Yes,Reopened,4.0
+TCK-10199,2025-02-22 06:17:00,2025-02-23 23:56:36.000000,Remote/Branch,Hardware,Low,L. Costa,41.66,72,Yes,Reopened,5.0
+TCK-11060,2025-06-23 21:02:00,2025-06-24 07:37:24.000000,Data Center,Network,Medium,K. Nandy,10.59,24,Yes,Resolved,
+TCK-10815,2025-08-22 04:19:00,,Maritime/Port,Network,Medium,,28.85,24,No,Escalated,3.0
+TCK-11132,2025-07-13 13:56:00,2025-07-14 21:31:24.000000,Corporate Office,Network,Low,L. Costa,31.59,72,Yes,Resolved,5.0
+TCK-10225,2025-10-28 11:23:00,2025-10-28 23:06:48.000000,Corporate Office,Security,Low,T. Silva,11.73,72,Yes,Resolved,5.0
+TCK-10789,2026-07-12 12:11:00,2026-07-12 18:32:36.000000,Corporate Office,Software/Access,Low,K. Nandy,6.36,72,Yes,Resolved,4.0
+TCK-10568,2025-12-21 01:06:00,2025-12-21 03:54:36.000000,Remote/Branch,VoIP,Critical,T. Silva,2.81,4,Yes,Resolved,
+TCK-11107,2025-10-19 11:20:00,2025-10-20 06:09:12.000000,Corporate Office,Hardware,Low,L. Costa,18.82,72,Yes,Resolved,5.0
+TCK-10136,2026-08-01 06:29:00,2026-08-01 10:47:00.000000,Corporate Office,Security,Low,J. Alvarez,4.3,72,Yes,Resolved,5.0
+TCK-10753,2026-05-20 17:19:00,2026-05-21 05:50:12.000000,Remote/Branch,Printer,High,R. Fernandes,12.52,8,No,Resolved,4.0
+TCK-10368,2025-07-11 21:42:00,2025-07-12 12:08:24.000000,Data Center,Hardware,Medium,S. Priya,14.44,24,Yes,Resolved,5.0
+TCK-10403,2025-06-11 22:45:00,,Data Center,Network,Critical,,4.64,4,No,Escalated,4.0
+TCK-10591,2025-07-25 15:20:00,2025-07-30 00:48:12.000000,Remote/Branch,Hardware,Low,R. Fernandes,105.47,72,No,Resolved,5.0
+TCK-10232,2025-11-03 20:27:00,2025-11-04 01:51:36.000000,Corporate Office,Security,Critical,J. Alvarez,5.41,4,No,Resolved,4.0
+TCK-11035,2026-06-29 16:48:00,2026-06-29 22:50:27.020974,Corporate Office,Network,Critical,S. Priya,6.040839159413756,4,No,Resolved,1.0
+TCK-10398,2026-07-30 03:16:00,2026-07-30 21:14:48.000000,Corporate Office,Software/Access,Medium,J. Alvarez,17.98,24,Yes,Resolved,4.0
+TCK-10514,2026-03-06 19:49:00,2026-03-07 01:26:12.000000,Corporate Office,hardware,High,A. Kumar,5.62,8,Yes,Resolved,4.0
+TCK-11090,2025-01-09 00:43:00,2025-01-10 10:11:12.000000,Corporate Office,Network,Low,M. Chen,33.47,72,Yes,Resolved,4.0
+TCK-10163,2026-06-22 19:18:00,2026-06-23 05:16:48.000000,Remote/Branch,Printer,Low,S. Priya,9.98,72,Yes,Resolved,5.0
+TCK-10874,2026-01-25 03:35:00,2026-01-25 04:08:36.000000,Corporate Office,VoIP,Critical,J. Alvarez,0.56,4,Yes,Resolved,5.0
+TCK-10578,2026-04-05 17:35:00,2026-04-08 19:49:24.000000,Corporate Office,Network,Low,L. Costa,74.24,72,No,Resolved,2.0
+TCK-11073,2026-05-09 03:16:00,2026-05-10 20:58:00.000000,Remote/Branch,Email,Medium,S. Priya,41.7,24,No,Resolved,5.0
+TCK-10401,2026-04-01 02:51:00,2026-04-02 08:53:24.000000,Remote/Branch,Software/Access,Medium,K. Nandy,30.04,24,No,Reopened,4.0
+TCK-10633,2026-03-02 22:53:00,2026-03-07 00:29:00.000000,Corporate Office,Hardware,Low,V. Rao,97.6,72,No,Resolved,1.0
+TCK-10308,2026-04-16 02:55:00,2026-04-20 01:50:48.000000,Remote/Branch,Security,Low,K. Nandy,94.93,72,No,Resolved,3.0
+TCK-11007,2026-08-03 21:55:00,2026-08-04 03:46:00.000000,Corporate Office,Email,High,R. Fernandes,5.85,8,Yes,Resolved,3.0
+TCK-10905,2025-06-19 02:48:00,2025-06-19 03:17:24.000000,Corporate Office,Email,High,V. Rao,0.49,8,Yes,Resolved,3.0
+TCK-10512,2026-01-24 07:15:00,2026-01-25 16:08:24.000000,Remote/Branch,Security,Medium,V. Rao,32.89,24,No,Resolved,
+TCK-10212,2025-09-02 18:24:00,2025-09-02 23:34:12.000000,Data Center,Email,High,M. Chen,5.17,8,Yes,Resolved,4.0
+TCK-11029,2025-05-27 18:52:00,2025-06-03 14:26:12.000000,Maritime/Port,Software/Access,Low,R. Fernandes,163.57,72,No,Resolved,4.0
+TCK-10117,2025-08-29 08:21:00,2025-08-29 14:06:36.000000,Remote/Branch,Software/Access,High,K. Nandy,5.76,8,Yes,Resolved,3.0
+TCK-10122,2025-01-21 18:24:00,2025-01-24 22:44:46.799050,Corporate Office,VoIP,Medium,V. Rao,76.34633306938875,24,No,Resolved,3.0
+TCK-10396,2025-11-18 20:17:00,2025-11-19 08:15:48.000000,Maritime/Port,Hardware,High,M. Chen,11.98,8,No,Resolved,5.0
+TCK-11052,2025-12-13 17:39:00,2025-12-14 03:09:00.000000,Corporate Office,Software/Access,High,A. Kumar,9.5,8,No,Reopened,4.0
+TCK-10457,2026-05-05 16:24:00,2026-05-05 18:25:12.000000,Corporate Office,Software/Access,Critical,K. Nandy,2.02,4,Yes,Resolved,5.0
+TCK-10343,2026-06-24 01:42:00,,Remote/Branch,voip,Low,,128.36,72,No,Escalated,3.0
+TCK-10978,2026-03-25 12:25:00,2026-03-25 12:34:00.000000,Corporate Office,Software/Access,Medium,A. Kumar,0.15,24,Yes,Resolved,5.0
+TCK-10434,2025-10-16 15:38:00,2025-10-19 02:29:00.000000,Maritime/Port,Network,Medium,V. Rao,58.85,24,No,Resolved,3.0
+TCK-10759,2025-03-16 11:45:00,2025-03-16 20:33:00.000000,Maritime/Port,hardware,High,T. Silva,8.8,8,No,Resolved,5.0
+TCK-10958,2025-08-07 21:21:00,2025-08-09 15:01:12.000000,Remote/Branch,Network,Low,K. Nandy,41.67,72,Yes,Resolved,4.0
+TCK-10683,2025-09-26 06:02:00,2025-09-26 07:48:48.000000,Maritime/Port,Software/Access,High,A. Kumar,1.78,8,Yes,Resolved,
+TCK-10723,2026-08-22 03:09:00,2026-08-22 09:37:48.000000,Maritime/Port,Software/Access,High,S. Priya,6.48,8,Yes,Resolved,3.0
+TCK-10292,2025-10-07 22:48:00,2025-10-08 00:03:00.000000,Remote/Branch,Software/Access,Medium,J. Alvarez,1.25,24,Yes,Resolved,5.0
+TCK-10160,2025-09-15 07:07:00,2025-09-15 08:29:48.000000,Corporate Office,VoIP,High,M. Chen,1.38,8,Yes,Resolved,4.0
+TCK-10432,2026-05-25 00:05:00,2026-05-25 01:09:12.000000,Corporate Office,Hardware,Critical,T. Silva,1.07,4,Yes,Resolved,4.0
+TCK-10794,2025-03-04 12:52:00,2025-03-11 00:30:24.000000,Remote/Branch,Network,Low,L. Costa,155.64,72,No,Reopened,5.0
+TCK-10767,2026-05-24 04:21:00,2026-05-25 15:19:12.000000,Maritime/Port,Hardware,Medium,S. Priya,34.97,24,No,Resolved,4.0
+TCK-11020,2025-05-02 21:14:00,2025-05-03 00:18:12.000000,Corporate Office,Hardware,High,T. Silva,3.07,8,Yes,Resolved,5.0
+TCK-10113,2026-06-01 13:53:00,2026-06-01 18:33:12.000000,Data Center,Software/Access,Low,L. Costa,4.67,72,Yes,Resolved,2.0
+TCK-10705,2025-03-21 18:23:00,,Corporate Office,Security,Low,,178.65,72,No,Escalated,3.0
+TCK-10542,2025-09-09 15:35:00,2025-09-10 02:46:24.000000,Corporate Office,Email,Medium,K. Nandy,11.19,24,Yes,Resolved,5.0
+TCK-10596,2026-04-18 22:13:00,2026-04-20 16:20:12.000000,Remote/Branch,Network,Medium,V. Rao,42.12,24,No,Resolved,5.0
+TCK-10375,2026-04-21 22:30:00,2026-04-22 04:48:00.000000,Corporate Office,VoIP,Medium,R. Fernandes,6.3,24,Yes,Resolved,5.0
+TCK-10909,2026-04-03 10:07:00,2026-04-03 23:04:36.000000,Corporate Office,Email,Low,V. Rao,12.96,72,Yes,Resolved,5.0
+TCK-10201,2025-09-03 22:10:00,,Data Center,Security,Low,J. Alvarez,66.28,72,Yes,Escalated,
+TCK-10796,2025-08-30 15:19:00,,Corporate Office,Network,Medium,S. Priya,12.64,24,Yes,Escalated,3.0
+TCK-10078,2025-06-02 17:02:00,2025-06-02 19:41:00.000000,Maritime/Port,Software/Access,Medium,K. Nandy,2.65,24,Yes,Resolved,4.0
+TCK-10931,2026-06-09 09:53:00,2026-06-10 06:34:24.000000,Corporate Office,Network,Medium,L. Costa,20.69,24,Yes,Resolved,4.0
+TCK-11096,2026-08-13 21:14:00,2026-08-13 23:44:36.000000,Remote/Branch,Software/Access,High,S. Priya,2.51,8,Yes,Resolved,5.0
+TCK-11186,2026-06-01 10:42:00,2026-06-01 14:26:24.000000,Data Center,VoIP,High,R. Fernandes,3.74,8,Yes,Resolved,4.0
+TCK-10336,2025-11-14 20:44:00,2025-11-14 20:51:48.000000,Corporate Office,Software/Access,High,T. Silva,0.13,8,Yes,Resolved,5.0
+TCK-10774,2026-08-15 20:48:00,2026-08-15 21:05:24.000000,Corporate Office,Email,Critical,M. Chen,0.29,4,Yes,Resolved,4.0
+TCK-10215,2025-02-07 04:32:00,2025-02-07 17:54:48.000000,Corporate Office,Printer,Low,D. Iyer,13.38,72,Yes,Reopened,3.0
+TCK-10784,2026-05-18 04:03:00,2026-05-22 19:31:07.149776,Maritime/Port,Network,Low,K. Nandy,111.46865271561347,72,No,Resolved,5.0
+TCK-11089,2025-05-04 22:33:00,2025-05-08 00:51:36.000000,Maritime/Port,Hardware,Low,V. Rao,74.31,72,No,Resolved,3.0
+TCK-10363,2025-10-23 07:19:00,2025-10-25 06:44:35.892370,Data Center,Hardware,Medium,S. Priya,47.426636769558485,24,No,Resolved,1.0
+TCK-10743,2026-07-11 00:24:00,2026-07-11 06:49:12.000000,Corporate Office,Hardware,High,K. Nandy,6.42,8,Yes,Resolved,5.0
+TCK-10890,2025-06-24 10:22:00,2025-06-30 17:40:00.000000,Remote/Branch,Software/Access,Low,V. Rao,151.3,72,No,Resolved,2.0
+TCK-10111,2025-05-05 14:08:00,2025-05-06 14:54:12.000000,Corporate Office,VoIP,Low,V. Rao,24.77,72,Yes,Resolved,4.0
+TCK-10541,2025-07-20 10:14:00,2025-07-20 14:39:12.000000,Corporate Office,Software/Access,High,T. Silva,4.42,8,Yes,Resolved,1.0
+TCK-10459,2025-09-28 19:30:00,2025-09-30 18:54:00.000000,Data Center,Email,Low,M. Chen,47.4,72,Yes,Resolved,3.0
+TCK-11146,2025-01-13 03:49:00,2025-01-16 02:31:36.000000,Corporate Office,Software/Access,Low,M. Chen,70.71,72,Yes,Resolved,
+TCK-10893,2025-10-06 12:44:00,,Corporate Office,Security,Critical,,0.75,4,Yes,Escalated,2.0
+TCK-10687,2025-03-22 16:58:00,2025-03-23 03:39:24.000000,Remote/Branch,Network,Low,M. Chen,10.69,72,Yes,Reopened,4.0
+TCK-10043,2025-03-02 07:04:00,,Maritime/Port,Software/Access,Medium,A. Kumar,23.09,24,Yes,Escalated,5.0
+TCK-10412,2025-02-26 03:33:00,2025-03-05 07:25:12.000000,Corporate Office,VoIP,Low,R. Fernandes,171.87,72,No,Resolved,1.0
+TCK-10761,2026-03-24 20:31:00,2026-03-25 08:01:00.000000,Data Center,Printer,Medium,K. Nandy,11.5,24,Yes,Resolved,4.0
+TCK-10795,2026-07-03 21:55:00,2026-07-04 21:40:00.000000,Remote/Branch,VoIP,Low,V. Rao,23.75,72,Yes,Resolved,4.0
+TCK-10812,2025-02-20 23:30:00,2025-02-22 05:58:12.000000,Corporate Office,Email,Medium,J. Alvarez,30.47,24,No,Resolved,5.0
+TCK-11058,2025-07-26 21:59:00,2025-07-30 10:43:24.000000,Remote/Branch,Network,Medium,L. Costa,84.74,24,No,Resolved,5.0
+TCK-10112,2026-07-27 19:20:00,2026-07-28 09:59:36.000000,Corporate Office,Network,Medium,V. Rao,14.66,24,Yes,Resolved,3.0
+TCK-10371,2025-02-14 20:24:00,2025-02-14 21:06:36.000000,Remote/Branch,Email,Medium,K. Nandy,0.71,24,Yes,Resolved,3.0
+TCK-10017,2025-02-27 07:52:00,2025-02-27 15:08:12.000000,Remote/Branch,Printer,High,A. Kumar,7.27,8,Yes,Resolved,4.0
+TCK-10740,2025-09-09 20:18:00,2025-09-09 21:01:48.000000,Data Center,Email,High,V. Rao,0.73,8,Yes,Resolved,3.0
+TCK-10107,2025-03-16 14:26:00,2025-03-17 02:39:48.000000,Corporate Office,network,Low,D. Iyer,12.23,72,Yes,Resolved,3.0
+TCK-11014,2026-01-23 11:37:00,2026-01-25 01:47:48.000000,Remote/Branch,Network,Low,S. Priya,38.18,72,Yes,Resolved,5.0
+TCK-10269,2025-02-23 04:47:00,2025-02-24 18:55:24.000000,Remote/Branch,network,Low,T. Silva,38.14,72,Yes,Resolved,2.0
+TCK-10394,2025-06-07 21:28:00,2025-06-09 07:46:00.000000,Maritime/Port,Hardware,Low,K. Nandy,34.3,72,Yes,Resolved,3.0
+TCK-11115,2025-05-09 23:15:00,2025-05-09 23:18:00.000000,Corporate Office,Hardware,High,J. Alvarez,0.05,8,Yes,Resolved,5.0
+TCK-10658,2025-06-11 14:29:00,,Data Center,Network,Medium,,15.23,24,Yes,Escalated,5.0
+TCK-10040,2026-01-18 14:57:00,2026-01-19 17:14:24.000000,Corporate Office,Network,Medium,L. Costa,26.29,24,No,Reopened,4.0
+TCK-10650,2026-03-01 12:28:00,2026-03-02 06:51:24.000000,Data Center,Hardware,High,S. Priya,18.39,8,No,Resolved,
+TCK-10092,2025-11-18 13:38:00,2025-11-18 18:30:12.000000,Remote/Branch,Printer,Critical,L. Costa,4.87,4,No,Resolved,4.0
+TCK-11037,2026-03-18 16:26:00,2026-03-19 16:24:12.000000,Corporate Office,Software/Access,Low,K. Nandy,23.97,72,Yes,Resolved,5.0
+TCK-10607,2026-01-19 12:29:00,2026-01-19 17:31:24.000000,Remote/Branch,Email,Medium,D. Iyer,5.04,24,Yes,Reopened,4.0
+TCK-10079,2025-06-01 13:08:00,2025-06-08 16:47:36.000000,Corporate Office,Software/Access,Low,A. Kumar,171.66,72,No,Reopened,5.0
+TCK-10856,2025-07-01 10:40:00,2025-07-03 04:41:16.661681,Remote/Branch,Email,Medium,A. Kumar,42.02129491145844,24,No,Resolved,1.0
+TCK-10977,2025-11-05 19:05:00,2025-11-06 05:04:24.000000,Corporate Office,VoIP,High,J. Alvarez,9.99,8,No,Resolved,
+TCK-10758,2025-05-26 03:54:00,2025-05-29 08:49:12.000000,Corporate Office,Security,Low,L. Costa,76.92,72,No,Resolved,5.0
+TCK-10523,2026-01-26 16:20:00,2026-01-26 18:13:24.000000,Corporate Office,Hardware,Medium,T. Silva,1.89,24,Yes,Resolved,5.0
+TCK-10156,2025-01-18 02:18:00,2025-01-18 09:03:36.000000,Corporate Office,Hardware,High,M. Chen,6.76,8,Yes,Resolved,4.0
+TCK-10793,2025-12-19 17:26:00,2025-12-19 22:53:00.000000,Remote/Branch,Network,Critical,D. Iyer,5.45,4,No,Resolved,4.0
+TCK-10087,2025-08-22 07:01:00,2025-08-22 23:02:12.000000,Remote/Branch,Software/Access,Medium,M. Chen,16.02,24,Yes,Resolved,4.0
+TCK-10511,2025-11-02 14:43:00,2025-11-06 23:37:36.000000,Remote/Branch,Email,Low,L. Costa,104.91,72,No,Reopened,5.0
+TCK-10231,2025-06-11 02:28:00,2025-06-11 03:38:48.000000,Corporate Office,Software/Access,Critical,K. Nandy,1.18,4,Yes,Resolved,
+TCK-10291,2026-07-25 00:38:00,2026-07-26 14:12:54.453096,Remote/Branch,Printer,Medium,J. Alvarez,37.5817925266849,24,No,Resolved,3.0
+TCK-11065,2025-12-23 11:52:00,2025-12-23 12:01:00.000000,Remote/Branch,Printer,High,J. Alvarez,0.15,8,Yes,Resolved,5.0
+TCK-10254,2026-07-05 04:24:00,,Remote/Branch,Hardware,High,V. Rao,5.7,8,Yes,Escalated,3.0
+TCK-10804,2025-01-13 22:39:00,2025-01-15 21:07:12.000000,Corporate Office,Printer,Low,D. Iyer,46.47,72,Yes,Resolved,
+TCK-10895,2025-06-13 03:26:00,2025-06-15 00:27:12.000000,Corporate Office,Email,Low,D. Iyer,45.02,72,Yes,Resolved,1.0
+TCK-10663,2025-08-28 13:41:00,2025-08-28 14:02:36.000000,Remote/Branch,VoIP,Medium,S. Priya,0.36,24,Yes,Resolved,5.0
+TCK-10435,2025-01-09 03:27:00,2025-01-11 18:52:48.000000,Remote/Branch,Software/Access,Low,R. Fernandes,63.43,72,Yes,Resolved,
+TCK-10707,2026-02-15 02:56:00,2026-02-15 03:10:24.000000,Remote/Branch,Software/Access,High,V. Rao,0.24,8,Yes,Reopened,5.0
+TCK-10409,2025-03-17 04:20:00,,Corporate Office,Printer,Medium,S. Priya,27.39,24,No,Escalated,2.0
+TCK-10734,2025-09-23 02:01:00,2025-09-24 21:15:24.000000,Remote/Branch,Hardware,Medium,S. Priya,43.24,24,No,Resolved,5.0
+TCK-11196,2025-02-08 14:22:00,2025-02-11 15:26:48.000000,Remote/Branch,Network,Medium,R. Fernandes,73.08,24,No,Resolved,1.0
+TCK-11192,2025-10-19 19:01:00,2025-10-23 08:59:48.000000,Maritime/Port,Hardware,Low,L. Costa,85.98,72,No,Resolved,4.0
+TCK-10390,2025-02-28 02:42:00,2025-03-01 08:23:24.000000,Corporate Office,Network,Medium,T. Silva,-1.0,24,No,Resolved,4.0
+TCK-10496,2025-03-21 18:07:00,2025-03-27 02:27:24.000000,Corporate Office,Hardware,Low,A. Kumar,128.34,72,No,Resolved,2.0
+TCK-10248,2025-09-26 18:24:00,2025-09-26 18:43:48.000000,Maritime/Port,Network,Critical,K. Nandy,0.33,4,Yes,Resolved,
+TCK-10937,2026-03-09 00:33:00,2026-03-17 23:39:45.534562,Corporate Office,Network,Low,S. Priya,215.11264848956677,72,No,Reopened,5.0
+TCK-10132,2025-03-25 15:01:00,,Corporate Office,Network,Low,,96.22194036176238,72,No,Escalated,4.0
+TCK-10190,2025-06-29 15:33:00,2025-07-01 02:01:12.000000,Remote/Branch,security,Medium,V. Rao,34.47,24,No,Resolved,
+TCK-10801,2025-06-01 19:16:00,,Corporate Office,Hardware,Low,K. Nandy,0.26,72,Yes,Escalated,4.0
+TCK-10359,2025-05-21 01:18:00,2025-05-26 20:20:24.000000,Corporate Office,Hardware,Low,V. Rao,139.04,72,No,Resolved,4.0
+TCK-10228,2025-09-04 15:58:00,2025-09-08 07:34:36.000000,Remote/Branch,Network,Low,D. Iyer,87.61,72,No,Resolved,
+TCK-10287,2025-02-22 09:38:00,2025-02-22 14:17:00.000000,Data Center,Printer,Low,J. Alvarez,4.65,72,Yes,Resolved,4.0
+TCK-10920,2025-05-04 12:13:00,2025-05-04 22:58:00.000000,Corporate Office,Printer,Medium,V. Rao,10.75,24,Yes,Resolved,2.0
+TCK-10852,2026-01-26 16:19:00,2026-01-27 11:33:06.937190,Maritime/Port,hardware,High,T. Silva,19.235260330490426,8,No,Resolved,5.0
+TCK-11013,2025-09-27 18:34:00,2025-09-27 19:23:12.000000,Remote/Branch,VoIP,Critical,D. Iyer,0.82,4,Yes,Resolved,3.0
+TCK-10886,2025-10-31 08:29:00,2025-11-02 01:08:52.107495,Corporate Office,Network,Medium,A. Kumar,40.66447430405385,24,No,Resolved,4.0
+TCK-11179,2025-09-30 16:02:00,2025-09-30 16:36:48.000000,Remote/Branch,Security,Critical,S. Priya,0.58,4,Yes,Resolved,4.0
+TCK-11011,2026-04-11 01:02:00,2026-04-17 15:23:36.000000,Corporate Office,Software/Access,Low,K. Nandy,158.36,72,No,Resolved,1.0
+TCK-10726,2025-05-03 02:10:00,2025-05-03 04:09:24.000000,Corporate Office,Printer,High,J. Alvarez,1.99,8,Yes,Resolved,4.0
+TCK-10102,2025-11-26 14:28:00,2025-11-26 19:25:00.000000,Data Center,Network,Medium,V. Rao,4.95,24,Yes,Resolved,3.0
+TCK-10306,2026-06-30 22:14:00,2026-07-03 15:44:36.000000,Remote/Branch,Software/Access,Low,L. Costa,65.51,72,Yes,Resolved,
+TCK-11076,2025-09-27 07:18:00,2025-09-27 11:51:00.000000,Maritime/Port,Network,High,S. Priya,4.55,8,Yes,Reopened,
+TCK-10665,2025-08-20 16:43:00,2025-08-30 02:31:23.042432,Corporate Office,Printer,Low,V. Rao,225.80640067544033,72,No,Resolved,5.0
+TCK-10584,2025-05-30 02:10:00,,Data Center,Printer,Critical,T. Silva,0.59,4,Yes,Escalated,
+TCK-10454,2025-06-05 13:44:00,,Data Center,Network,Low,,185.77,72,No,Escalated,5.0
+TCK-10400,2025-05-19 02:28:00,2025-05-19 12:59:12.000000,Maritime/Port,Software/Access,Low,R. Fernandes,10.52,72,Yes,Resolved,4.0
+TCK-10134,2025-02-11 00:15:00,2025-02-12 03:40:12.000000,Corporate Office,Software/Access,Low,M. Chen,27.42,72,Yes,Resolved,4.0
+TCK-11045,2026-08-23 08:16:00,2026-08-23 13:34:36.000000,Remote/Branch,Email,Low,L. Costa,5.31,72,Yes,Resolved,4.0
+TCK-10616,2025-08-26 12:40:00,2025-08-28 01:16:36.000000,Remote/Branch,Software/Access,Low,R. Fernandes,36.61,72,Yes,Resolved,5.0
+TCK-10378,2025-11-20 09:32:00,2025-11-20 12:25:24.000000,Data Center,hardware,High,T. Silva,2.89,8,Yes,Resolved,4.0
+TCK-11082,2025-05-03 02:43:00,2025-05-03 02:56:12.000000,Corporate Office,Printer,High,V. Rao,0.22,8,Yes,Resolved,2.0
+TCK-10140,2025-07-23 02:37:00,2025-07-23 03:09:24.000000,Corporate Office,Printer,Critical,M. Chen,0.54,4,Yes,Resolved,4.0
+TCK-10763,2025-08-17 21:37:00,,Remote/Branch,Email,Low,,68.58,72,Yes,Escalated,5.0
+TCK-10528,2025-03-22 14:54:00,2025-03-23 20:59:08.058557,Corporate Office,Network,Medium,K. Nandy,30.085571821402812,24,No,Resolved,4.0
+TCK-10168,2026-04-26 15:28:00,2026-04-27 15:23:12.000000,Corporate Office,Email,Low,K. Nandy,23.92,72,Yes,Resolved,5.0
+TCK-10226,2026-06-28 13:36:00,2026-06-28 15:20:24.000000,Corporate Office,Security,Medium,R. Fernandes,1.74,24,Yes,Resolved,3.0
+TCK-10571,2026-04-07 15:14:00,2026-04-08 10:52:24.000000,Maritime/Port,Printer,Medium,K. Nandy,19.64,24,Yes,Resolved,5.0
+TCK-10181,2026-08-27 21:51:00,2026-08-27 22:48:36.000000,Remote/Branch,Network,High,M. Chen,0.96,8,Yes,Resolved,5.0
+TCK-10341,2025-05-21 04:04:00,2025-05-22 17:37:00.000000,Maritime/Port,Network,Medium,J. Alvarez,37.55,24,No,Resolved,4.0
+TCK-10002,2026-03-09 01:01:00,2026-03-09 04:48:24.000000,Corporate Office,Software/Access,High,S. Priya,3.79,8,Yes,Resolved,4.0
+TCK-10315,2025-04-27 16:32:00,,Remote/Branch,Software/Access,Medium,,6.79,24,Yes,Escalated,5.0
+TCK-10438,2025-03-17 12:32:00,2025-03-17 12:59:36.000000,Remote/Branch,Network,Medium,V. Rao,0.46,24,Yes,Resolved,2.0
+TCK-10488,2025-01-12 08:41:00,2025-01-14 15:18:48.000000,Maritime/Port,Network,Medium,K. Nandy,54.63,24,No,Resolved,3.0
+TCK-10827,2025-04-03 09:01:00,2025-04-05 00:43:57.990288,Corporate Office,Software/Access,Medium,T. Silva,39.71610841337058,24,No,Resolved,4.0
+TCK-10647,2026-02-26 01:17:00,2026-02-26 05:00:12.000000,Corporate Office,Network,High,R. Fernandes,3.72,8,Yes,Reopened,2.0
+TCK-11197,2026-01-11 18:15:00,,Maritime/Port,Printer,Low,M. Chen,1.86,72,Yes,Escalated,5.0
+TCK-10349,2026-04-18 09:49:00,2026-04-18 18:20:48.000000,Maritime/Port,VoIP,Medium,T. Silva,8.53,24,Yes,Resolved,4.0
+TCK-10280,2025-08-09 13:28:00,2025-08-10 01:06:24.000000,Remote/Branch,Security,Low,M. Chen,11.64,72,Yes,Resolved,
+TCK-10712,2025-09-09 04:00:00,2025-09-10 22:25:32.228207,Data Center,Security,Medium,T. Silva,42.42561894625463,24,No,Resolved,4.0
+TCK-10634,2025-03-26 18:01:00,2025-03-26 19:23:12.000000,Data Center,Network,High,M. Chen,1.37,8,Yes,Resolved,4.0
+TCK-10313,2025-03-22 12:55:00,2025-03-23 03:16:00.000000,Data Center,Email,Low,J. Alvarez,14.35,72,Yes,Resolved,5.0
+TCK-10162,2026-05-11 08:46:00,2026-05-11 14:38:48.000000,Corporate Office,Software/Access,High,D. Iyer,5.88,8,Yes,Resolved,5.0
+TCK-11150,2026-07-17 16:07:00,2026-07-17 16:46:36.000000,Maritime/Port,VoIP,Medium,J. Alvarez,0.66,24,Yes,Resolved,
+TCK-11133,2025-09-13 05:45:00,2025-09-13 06:42:00.000000,Remote/Branch,Hardware,Critical,T. Silva,0.95,4,Yes,Resolved,4.0
+TCK-10943,2026-06-08 22:18:00,2026-06-08 22:30:36.000000,Corporate Office,Printer,High,A. Kumar,0.21,8,Yes,Resolved,
+TCK-10610,2025-12-18 14:50:00,2025-12-18 17:14:36.000000,Remote/Branch,Network,Critical,M. Chen,2.41,4,Yes,Resolved,3.0
+TCK-11195,2026-06-08 17:36:00,2026-06-08 19:25:48.000000,Data Center,Network,Critical,D. Iyer,1.83,4,Yes,Resolved,4.0
+TCK-10256,2025-04-12 15:39:00,2025-04-13 11:53:24.000000,Remote/Branch,Software/Access,Medium,T. Silva,20.24,24,Yes,Resolved,5.0
+TCK-10063,2026-08-02 16:20:00,2026-08-03 04:29:00.000000,Data Center,VoIP,High,J. Alvarez,12.15,8,No,Resolved,4.0
+TCK-10207,2025-05-20 02:17:00,2025-05-25 02:50:36.000000,Corporate Office,Software/Access,Low,T. Silva,120.56,72,No,Resolved,3.0
+TCK-10557,2025-02-02 02:25:00,2025-02-02 02:52:36.000000,Corporate Office,Network,Medium,T. Silva,0.46,24,Yes,Resolved,4.0
+TCK-10976,2025-03-16 11:59:00,2025-03-20 18:32:36.000000,Maritime/Port,Printer,Low,L. Costa,102.56,72,No,Reopened,5.0
+TCK-10782,2026-07-08 08:42:00,2026-07-08 20:12:36.000000,Corporate Office,Network,Low,J. Alvarez,11.51,72,Yes,Resolved,4.0
+TCK-10332,2025-12-13 21:38:00,2025-12-18 11:40:24.000000,Corporate Office,Network,Low,A. Kumar,110.04,72,No,Resolved,4.0
+TCK-10046,2025-09-06 15:51:00,2025-09-07 01:59:24.000000,Corporate Office,VoIP,Medium,T. Silva,10.14,24,Yes,Resolved,5.0
+TCK-10340,2025-07-04 06:21:00,,Data Center,Network,Medium,V. Rao,8.54,24,Yes,Escalated,
+TCK-10155,2025-09-04 22:30:00,2025-09-05 09:52:48.000000,Corporate Office,Email,Low,V. Rao,11.38,72,Yes,Resolved,4.0
+TCK-11129,2025-05-20 11:18:00,2025-05-20 12:31:48.000000,Data Center,Printer,High,V. Rao,1.23,8,Yes,Resolved,4.0
+TCK-10710,2025-09-06 14:23:00,,Data Center,Network,High,,7.28,8,Yes,Escalated,4.0
+TCK-10576,2025-04-04 00:19:00,2025-04-13 21:43:36.000000,Corporate Office,Network,Low,V. Rao,237.41,72,No,Resolved,5.0
+TCK-10123,2025-12-27 09:48:00,2025-12-27 14:09:36.000000,Corporate Office,Network,High,T. Silva,4.36,8,Yes,Resolved,5.0
+TCK-11015,2026-01-21 07:33:00,2026-01-21 08:33:00.000000,Remote/Branch,Network,Critical,T. Silva,1.0,4,Yes,Resolved,4.0
+TCK-10823,2025-07-23 08:23:00,2025-07-23 21:27:48.000000,Corporate Office,Hardware,Medium,V. Rao,13.08,24,Yes,Resolved,3.0
+TCK-10808,2025-12-19 13:16:00,2025-12-22 14:23:12.000000,Remote/Branch,VoIP,Low,T. Silva,73.12,72,No,Resolved,4.0
+TCK-10689,2025-03-09 09:44:00,,Data Center,Network,Medium,T. Silva,0.7,24,Yes,Escalated,4.0
+TCK-10855,2025-07-04 02:31:00,2025-07-07 09:48:24.000000,Corporate Office,Hardware,Low,K. Nandy,79.29,72,No,Resolved,3.0
+TCK-10769,2025-12-10 14:00:00,2025-12-10 17:45:36.000000,Corporate Office,Email,Medium,J. Alvarez,3.76,24,Yes,Resolved,5.0
+TCK-10627,2025-05-22 18:24:00,2025-05-22 21:06:36.000000,Corporate Office,Software/Access,Low,T. Silva,2.71,72,Yes,Reopened,5.0
+TCK-10162,2026-05-11 08:46:00,2026-05-11 14:38:48.000000,Corporate Office,Software/Access,High,D. Iyer,5.88,8,Yes,Resolved,5.0
+TCK-10742,2025-05-21 13:12:00,2025-05-23 10:42:00.000000,Remote/Branch,Network,Low,L. Costa,45.5,72,Yes,Resolved,3.0
+TCK-11034,2025-07-01 15:57:00,2025-07-02 09:13:48.000000,Remote/Branch,Network,Medium,D. Iyer,17.28,24,Yes,Resolved,4.0
+TCK-10975,2025-03-06 23:37:00,2025-03-07 04:32:12.000000,Remote/Branch,Hardware,Critical,A. Kumar,4.92,4,No,Resolved,4.0
+TCK-10721,2026-02-07 22:53:00,2026-02-11 21:20:00.000000,Remote/Branch,Network,Low,K. Nandy,94.45,72,No,Resolved,4.0
+TCK-11091,2025-04-14 10:23:00,2025-04-14 15:44:36.000000,Remote/Branch,Printer,High,D. Iyer,5.36,8,Yes,Resolved,3.0
+TCK-10498,2025-12-02 16:28:00,2025-12-03 11:43:00.000000,Remote/Branch,Hardware,Low,S. Priya,19.25,72,Yes,Resolved,3.0
+TCK-10395,2025-03-20 18:08:00,2025-03-22 00:07:24.000000,Corporate Office,VoIP,Medium,L. Costa,29.99,24,No,Resolved,2.0
+TCK-10487,2025-10-01 10:19:00,2025-10-05 04:29:12.000000,Maritime/Port,Software/Access,Low,D. Iyer,90.17,72,No,Resolved,4.0
+TCK-10481,2026-04-25 08:12:00,2026-04-25 09:19:48.000000,Remote/Branch,Hardware,High,S. Priya,1.13,8,Yes,Resolved,4.0
+TCK-11187,2026-03-30 11:57:00,2026-03-30 15:46:12.000000,Corporate Office,Email,High,K. Nandy,3.82,8,Yes,Resolved,5.0
+TCK-10696,2025-01-31 10:51:00,2025-01-31 18:02:24.000000,Remote/Branch,Security,Medium,T. Silva,7.19,24,Yes,Resolved,2.0
+TCK-10809,2026-08-09 19:30:00,2026-08-11 14:19:48.000000,Remote/Branch,Security,Medium,A. Kumar,42.83,24,No,Resolved,5.0
+TCK-10531,2026-07-27 06:30:00,2026-07-27 07:31:48.000000,Data Center,Printer,Medium,M. Chen,1.03,24,Yes,Resolved,4.0
+TCK-10096,2025-12-05 19:20:00,2025-12-06 12:29:00.000000,Corporate Office,Network,Low,S. Priya,17.15,72,Yes,Resolved,3.0
+TCK-11114,2026-04-07 13:10:00,,Corporate Office,Software/Access,Medium,R. Fernandes,14.69,24,Yes,Escalated,4.0
+TCK-11000,2025-02-01 18:37:00,2025-02-02 15:34:00.000000,Data Center,Hardware,High,T. Silva,20.95,8,No,Resolved,3.0
+TCK-10379,2026-07-11 15:16:00,2026-07-12 00:05:48.000000,Remote/Branch,Security,High,A. Kumar,8.83,8,No,Resolved,2.0
+TCK-10325,2026-06-04 12:29:00,2026-06-04 13:27:48.000000,Corporate Office,VoIP,Medium,D. Iyer,0.98,24,Yes,Reopened,2.0
+TCK-11123,2026-07-08 08:35:00,,Maritime/Port,Email,Low,,162.04,72,No,Escalated,2.0
+TCK-10444,2026-06-12 04:20:00,,Maritime/Port,Printer,Low,D. Iyer,82.04,72,No,Escalated,5.0
+TCK-11172,2025-02-14 04:11:00,2025-02-14 18:23:36.000000,Remote/Branch,Software/Access,Medium,A. Kumar,14.21,24,Yes,Resolved,5.0
+TCK-10545,2026-07-10 20:03:00,2026-07-11 21:50:23.001250,Corporate Office,Network,High,L. Costa,25.789722569311365,8,No,Resolved,4.0
+TCK-10999,2025-03-20 23:04:00,2025-03-21 00:23:12.000000,Corporate Office,Network,Critical,A. Kumar,1.32,4,Yes,Reopened,5.0
+TCK-10045,2025-08-08 17:08:00,2025-08-09 02:44:00.000000,Corporate Office,Software/Access,Medium,D. Iyer,9.6,24,Yes,Resolved,1.0
+TCK-10430,2026-08-15 23:20:00,2026-08-17 07:41:36.000000,Corporate Office,Network,High,M. Chen,32.36,8,No,Resolved,
+TCK-10651,2025-04-06 12:32:00,,Data Center,Network,Medium,J. Alvarez,28.98,24,No,Escalated,3.0
+TCK-10345,2025-06-19 23:28:00,2025-06-21 00:14:48.000000,Corporate Office,Software/Access,Medium,A. Kumar,24.78,24,No,Resolved,5.0
+TCK-11127,2026-03-29 09:23:00,2026-03-29 09:47:36.000000,Corporate Office,Software/Access,Critical,T. Silva,0.41,4,Yes,Reopened,4.0
+TCK-11157,2025-12-13 20:03:00,2025-12-14 01:33:00.000000,Remote/Branch,Network,Medium,A. Kumar,5.5,24,Yes,Resolved,4.0
+TCK-10237,2026-05-24 09:49:00,2026-05-24 15:40:36.000000,Remote/Branch,Network,Critical,M. Chen,5.86,4,No,Resolved,3.0
+TCK-10205,2026-05-10 15:15:00,2026-05-10 17:31:12.000000,Remote/Branch,Hardware,Medium,V. Rao,2.27,24,Yes,Resolved,4.0
+TCK-10008,2025-02-14 23:29:00,,Corporate Office,Hardware,Low,L. Costa,21.43,72,Yes,Escalated,4.0
+TCK-11176,2025-03-14 00:59:00,,Data Center,Network,Medium,M. Chen,29.88,24,No,Escalated,3.0
+TCK-10522,2026-03-14 17:31:00,2026-03-17 21:40:36.000000,Maritime/Port,Hardware,Medium,A. Kumar,76.16,24,No,Resolved,5.0
+TCK-10166,2026-07-21 09:44:00,,Maritime/Port,Software/Access,High,R. Fernandes,2.31,8,Yes,Escalated,5.0
+TCK-10331,2026-01-08 11:58:00,2026-01-08 19:11:48.000000,Corporate Office,Software/Access,Medium,J. Alvarez,7.23,24,Yes,Reopened,
+TCK-10094,2025-01-02 16:59:00,2025-01-03 00:15:48.000000,Corporate Office,Network,Low,L. Costa,7.28,72,Yes,Resolved,
+TCK-10744,2026-05-12 11:58:00,2026-05-18 05:15:24.000000,Remote/Branch,security,Low,D. Iyer,137.29,72,No,Resolved,4.0
+TCK-10203,2025-04-27 14:07:00,2025-04-27 18:04:00.000000,Remote/Branch,VoIP,Medium,R. Fernandes,3.95,24,Yes,Resolved,5.0
+TCK-10691,2025-04-29 14:39:00,2025-05-01 03:40:06.482190,Remote/Branch,Email,Medium,D. Iyer,37.01846727498146,24,No,Resolved,5.0
+TCK-10493,2026-01-18 13:44:00,2026-01-19 10:32:36.000000,Corporate Office,Email,Medium,L. Costa,20.81,24,Yes,Resolved,4.0
+TCK-11051,2025-06-15 03:13:00,2025-06-18 02:49:00.000000,Corporate Office,Hardware,Medium,L. Costa,71.6,24,No,Resolved,5.0
+TCK-10659,2026-03-15 06:44:00,2026-03-15 15:30:48.000000,Corporate Office,Network,High,R. Fernandes,8.78,8,No,Resolved,3.0
+TCK-10925,2026-07-21 13:53:00,,Corporate Office,Network,Medium,,51.04,24,No,Escalated,4.0
+TCK-10600,2026-02-15 17:32:00,2026-02-17 11:05:00.000000,Corporate Office,Software/Access,Low,T. Silva,41.55,72,Yes,Resolved,2.0
+TCK-10462,2026-05-16 10:30:00,2026-05-17 01:57:36.000000,Remote/Branch,Network,Medium,K. Nandy,15.46,24,Yes,Resolved,5.0
+TCK-11008,2026-05-11 11:02:00,2026-05-11 20:54:48.000000,Corporate Office,Network,Medium,M. Chen,9.88,24,Yes,Resolved,
+TCK-10822,2025-09-13 01:29:00,2025-09-13 03:20:00.000000,Remote/Branch,security,Medium,A. Kumar,1.85,24,Yes,Resolved,5.0
+TCK-10307,2025-12-29 02:25:00,2025-12-29 03:00:24.000000,Remote/Branch,VoIP,Low,A. Kumar,0.59,72,Yes,Resolved,3.0
+TCK-10376,2025-03-06 22:49:00,2025-03-08 20:15:52.391505,Corporate Office,Network,Medium,V. Rao,45.44788652922742,24,No,Resolved,5.0
+TCK-10844,2026-05-03 21:22:00,2026-05-04 16:05:12.000000,Corporate Office,VoIP,Medium,L. Costa,18.72,24,Yes,Resolved,1.0
+TCK-10274,2025-04-21 15:45:00,2025-04-22 02:04:48.355287,Remote/Branch,Hardware,Critical,V. Rao,10.330098690967393,4,No,Resolved,5.0
+TCK-11017,2025-01-07 16:56:00,2025-01-07 20:35:36.000000,Remote/Branch,Network,Medium,R. Fernandes,3.66,24,Yes,Resolved,
+TCK-11134,2025-08-14 08:05:00,2025-08-15 01:34:24.000000,Remote/Branch,Network,Medium,T. Silva,17.49,24,Yes,Resolved,4.0
+TCK-11156,2025-04-02 07:10:00,2025-04-02 17:05:26.628673,Maritime/Port,Printer,Critical,V. Rao,9.924063520246655,4,No,Resolved,3.0
+TCK-11079,2025-07-14 15:47:00,2025-07-14 17:06:12.000000,Corporate Office,Hardware,High,M. Chen,1.32,8,Yes,Resolved,2.0
+TCK-11190,2026-01-20 17:59:00,2026-01-21 08:24:48.000000,Corporate Office,VoIP,Low,J. Alvarez,14.43,72,Yes,Resolved,4.0
+TCK-10887,2025-06-28 01:54:00,2025-06-28 03:42:00.000000,Corporate Office,Hardware,Critical,J. Alvarez,1.8,4,Yes,Resolved,
+TCK-10328,2025-03-05 14:06:00,2025-03-05 23:37:48.000000,Corporate Office,printer,Low,K. Nandy,9.53,72,Yes,Resolved,4.0
+TCK-10408,2026-05-06 16:26:00,2026-05-07 02:31:24.000000,Data Center,VoIP,High,T. Silva,10.09,8,No,Resolved,
+TCK-10626,2026-01-18 22:09:00,2026-01-22 07:16:12.000000,Data Center,Printer,Low,L. Costa,81.12,72,No,Resolved,5.0
+TCK-10903,2026-07-26 19:03:00,2026-07-27 04:02:24.000000,Remote/Branch,Printer,Medium,A. Kumar,8.99,24,Yes,Resolved,4.0
+TCK-10350,2026-03-05 05:52:00,2026-03-06 14:49:00.000000,Remote/Branch,Software/Access,Medium,M. Chen,32.95,24,No,Resolved,
+TCK-10754,2025-04-03 01:14:00,2025-04-03 06:59:36.000000,Corporate Office,Network,Medium,D. Iyer,5.76,24,Yes,Resolved,4.0
+TCK-10503,2025-01-04 23:13:00,2025-01-27 12:26:49.931184,Maritime/Port,Security,Low,D. Iyer,541.2305364401051,72,No,Resolved,5.0
+TCK-10329,2025-03-28 16:41:00,2025-03-31 12:31:01.460720,Maritime/Port,Network,Medium,R. Fernandes,67.8337390887942,24,No,Reopened,2.0
+TCK-10344,2025-05-15 19:24:00,2025-05-23 02:22:48.000000,Maritime/Port,Network,Low,R. Fernandes,174.98,72,No,Resolved,5.0
+TCK-10461,2025-11-01 09:45:00,2025-11-01 23:51:36.000000,Maritime/Port,Network,Medium,M. Chen,14.11,24,Yes,Resolved,5.0
+TCK-10153,2025-10-10 17:00:00,2025-10-10 19:25:12.000000,Corporate Office,Printer,High,L. Costa,2.42,8,Yes,Resolved,5.0
+TCK-10715,2026-06-27 07:26:00,2026-06-28 00:06:48.000000,Corporate Office,Network,Medium,V. Rao,16.68,24,Yes,Resolved,4.0
+TCK-11067,2025-09-25 05:26:00,2025-10-01 10:08:00.000000,Maritime/Port,Network,Low,L. Costa,148.7,72,No,Resolved,3.0
+TCK-10614,2025-06-18 23:15:00,2025-06-20 07:30:36.000000,Corporate Office,Network,Low,L. Costa,32.26,72,Yes,Resolved,5.0
+TCK-10091,2025-09-29 01:06:00,2025-10-01 05:54:36.000000,Data Center,Printer,Low,D. Iyer,52.81,72,Yes,Resolved,4.0
+TCK-10397,2025-01-27 23:11:00,2025-01-28 07:56:36.000000,Corporate Office,Security,Medium,V. Rao,8.76,24,Yes,Resolved,4.0
+TCK-10590,2025-05-20 09:20:00,2025-05-20 09:32:36.000000,Corporate Office,Printer,Critical,D. Iyer,0.21,4,Yes,Resolved,4.0
+TCK-10593,2025-09-06 10:24:00,,Corporate Office,Network,High,J. Alvarez,5.5,8,Yes,Escalated,
+TCK-10894,2025-06-20 03:08:00,2025-06-21 06:47:00.000000,Corporate Office,hardware,Medium,A. Kumar,27.65,24,No,Resolved,5.0
+TCK-10955,2025-03-16 22:20:00,2025-03-17 01:36:48.000000,Data Center,Software/Access,Medium,L. Costa,3.28,24,Yes,Resolved,2.0
+TCK-10821,2025-01-30 05:12:00,2025-01-30 07:43:12.000000,Corporate Office,Software/Access,High,M. Chen,2.52,8,Yes,Resolved,5.0
+TCK-10240,2026-03-28 01:37:00,2026-03-28 19:48:24.000000,Remote/Branch,Printer,Medium,K. Nandy,18.19,24,Yes,Resolved,5.0
+TCK-10499,2026-08-21 15:05:00,2026-08-27 07:55:24.000000,Data Center,Hardware,Low,L. Costa,136.84,72,No,Resolved,4.0
+TCK-10951,2025-06-14 18:54:00,2025-06-18 07:49:38.016352,Maritime/Port,VoIP,Low,J. Alvarez,84.92722676439844,72,No,Resolved,4.0
+TCK-10926,2026-06-05 05:44:00,2026-06-05 12:12:12.000000,Corporate Office,Network,High,D. Iyer,6.47,8,Yes,Resolved,5.0
+TCK-10270,2025-03-07 15:28:00,2025-03-08 14:03:24.000000,Maritime/Port,Software/Access,Low,K. Nandy,22.59,72,Yes,Resolved,4.0
+TCK-10840,2026-02-18 21:20:00,2026-02-18 23:45:48.000000,Corporate Office,Network,Critical,R. Fernandes,2.43,4,Yes,Resolved,2.0
+TCK-10781,2025-07-14 13:44:00,2025-07-14 15:53:36.000000,Remote/Branch,Hardware,High,L. Costa,2.16,8,Yes,Resolved,3.0
+TCK-11178,2026-03-02 11:50:00,,Data Center,Software/Access,Low,A. Kumar,22.07,72,Yes,Escalated,3.0
+TCK-10277,2025-11-29 12:38:00,2025-11-30 04:29:36.000000,Data Center,Security,Medium,L. Costa,15.86,24,Yes,Resolved,4.0
+TCK-10052,2026-07-08 00:05:00,2026-07-08 00:45:12.000000,Corporate Office,Hardware,High,M. Chen,0.67,8,Yes,Resolved,1.0
+TCK-10195,2025-04-01 10:16:00,2025-04-03 11:26:12.000000,Corporate Office,Network,Low,K. Nandy,49.17,72,Yes,Resolved,5.0
+TCK-10899,2025-03-06 08:41:00,2025-03-13 04:31:23.851960,Corporate Office,Software/Access,Low,K. Nandy,163.83995887767855,72,No,Resolved,4.0
+TCK-10690,2025-09-02 01:15:00,2025-09-09 19:21:00.000000,Remote/Branch,Hardware,Low,S. Priya,186.1,72,No,Resolved,5.0
+TCK-10025,2026-03-09 19:04:00,2026-03-09 19:49:00.000000,Data Center,Network,High,T. Silva,0.75,8,Yes,Resolved,1.0
+TCK-10512,2026-01-24 07:15:00,2026-01-25 16:08:24.000000,Remote/Branch,Security,Medium,V. Rao,32.89,24,No,Resolved,
+TCK-11057,2025-02-28 05:40:00,2025-03-07 02:49:00.000000,Corporate Office,Hardware,Low,V. Rao,165.15,72,No,Resolved,3.0
+TCK-10300,2025-08-09 16:07:00,2025-08-11 01:16:00.000000,Corporate Office,Software/Access,Medium,K. Nandy,33.15,24,No,Resolved,3.0
+TCK-10185,2025-11-08 22:25:00,2025-11-11 18:17:48.000000,Remote/Branch,VoIP,Low,J. Alvarez,67.88,72,Yes,Resolved,3.0
+TCK-10316,2025-12-24 11:46:00,2025-12-27 16:47:12.000000,Data Center,Network,Low,R. Fernandes,77.02,72,No,Resolved,5.0
+TCK-10382,2026-02-14 23:28:00,2026-02-15 02:41:48.000000,Corporate Office,Hardware,Critical,T. Silva,3.23,4,Yes,Resolved,4.0
+TCK-10158,2026-07-21 16:22:00,2026-07-21 22:18:24.000000,Remote/Branch,Network,Medium,T. Silva,5.94,24,Yes,Resolved,5.0
+TCK-10640,2025-09-11 09:55:00,2025-09-11 10:59:48.000000,Corporate Office,Network,Critical,A. Kumar,1.08,4,Yes,Reopened,5.0
+TCK-10210,2026-04-03 17:30:00,,Corporate Office,Software/Access,Medium,K. Nandy,1.72,24,Yes,Escalated,3.0
+TCK-10686,2026-07-05 19:09:00,2026-07-10 19:26:54.336683,Remote/Branch,Software/Access,Low,J. Alvarez,120.2984268563086,72,No,Resolved,4.0
+TCK-11135,2026-06-14 19:51:00,2026-06-16 21:07:48.000000,Corporate Office,network,Medium,J. Alvarez,49.28,24,No,Resolved,4.0
+TCK-10013,2025-12-30 06:42:00,2025-12-30 10:04:12.000000,Corporate Office,Email,High,J. Alvarez,3.37,8,Yes,Resolved,4.0
+TCK-10010,2026-01-06 18:12:00,2026-01-07 15:59:24.585985,Corporate Office,Network,High,S. Priya,21.790162773487566,8,No,Resolved,2.0
+TCK-10824,2025-05-07 21:01:00,2025-05-08 01:22:00.000000,Corporate Office,Software/Access,Critical,M. Chen,4.35,4,No,Resolved,
+TCK-10348,2026-04-26 06:23:00,2026-04-26 13:02:00.000000,Data Center,Email,High,D. Iyer,6.65,8,Yes,Resolved,3.0
+TCK-10180,2026-04-10 02:43:00,2026-04-11 17:49:00.000000,Corporate Office,voip,Low,M. Chen,39.1,72,Yes,Resolved,4.0
+TCK-10877,2025-05-21 13:53:00,2025-05-21 17:53:00.000000,Maritime/Port,Printer,Medium,S. Priya,4.0,24,Yes,Resolved,4.0
+TCK-11039,2026-01-26 11:37:00,2026-01-29 04:09:54.601409,Remote/Branch,Network,Medium,D. Iyer,64.5485003912658,24,No,Resolved,5.0
+TCK-10032,2025-06-06 11:48:00,2025-06-06 14:34:12.000000,Corporate Office,Network,Medium,R. Fernandes,2.77,24,Yes,Resolved,4.0
+TCK-10534,2025-07-29 12:58:00,2025-07-30 00:51:24.000000,Corporate Office,Software/Access,Medium,M. Chen,11.89,24,Yes,Resolved,
+TCK-10023,2025-08-13 04:32:00,2025-09-05 01:03:04.726376,Maritime/Port,Network,Low,V. Rao,548.517979548828,72,No,Resolved,5.0
+TCK-10708,2025-11-15 10:05:00,2025-11-16 20:02:36.000000,Corporate Office,VoIP,Low,L. Costa,33.96,72,Yes,Resolved,
+TCK-10646,2025-10-01 16:57:00,2025-10-07 06:30:00.000000,Remote/Branch,Network,Low,S. Priya,133.55,72,No,Resolved,5.0
+TCK-11068,2025-03-16 16:18:00,,Corporate Office,Security,Low,,21.91,72,Yes,Escalated,5.0
+TCK-10366,2026-06-12 18:15:00,2026-06-12 18:55:48.000000,Data Center,Network,High,R. Fernandes,0.68,8,Yes,Resolved,2.0
+TCK-10521,2026-07-25 18:56:00,,Corporate Office,Hardware,High,R. Fernandes,2.46,8,Yes,Escalated,
+TCK-11044,2025-11-20 13:23:00,2025-11-21 20:58:24.000000,Remote/Branch,Software/Access,Low,S. Priya,31.59,72,Yes,Resolved,4.0
+TCK-11137,2025-07-06 04:18:00,2025-07-06 11:22:12.000000,Remote/Branch,Network,Medium,S. Priya,7.07,24,Yes,Resolved,3.0
+TCK-10945,2025-02-25 00:47:00,,Corporate Office,Software/Access,Low,J. Alvarez,8.06,72,Yes,Escalated,5.0
+TCK-10985,2025-07-08 07:39:00,,Corporate Office,Hardware,High,,0.33,8,Yes,Escalated,2.0
+TCK-11189,2025-11-28 19:15:00,2025-11-28 21:16:12.000000,Corporate Office,Email,Medium,D. Iyer,2.02,24,Yes,Resolved,5.0
+TCK-10959,2025-08-12 19:33:00,2025-08-13 05:58:12.000000,Data Center,Network,Medium,V. Rao,10.42,24,Yes,Resolved,5.0
+TCK-10041,2025-09-11 07:04:00,2025-09-11 15:30:58.172236,Corporate Office,Software/Access,Critical,K. Nandy,8.449492287711822,4,No,Resolved,5.0
+TCK-10362,2026-07-16 23:38:00,2026-07-17 02:53:36.000000,Corporate Office,Email,Medium,L. Costa,3.26,24,Yes,Resolved,1.0
+TCK-10636,2026-04-14 18:47:00,2026-04-15 07:15:12.000000,Remote/Branch,Software/Access,Medium,V. Rao,12.47,24,Yes,Resolved,
+TCK-10135,2025-06-06 07:08:00,2025-06-06 07:26:36.000000,Maritime/Port,Hardware,Medium,V. Rao,0.31,24,Yes,Resolved,
+TCK-10780,2026-03-21 05:03:00,2026-03-22 13:36:00.000000,Corporate Office,Email,Low,S. Priya,32.55,72,Yes,Resolved,3.0
+TCK-10188,2025-04-04 07:43:00,2025-04-04 11:11:48.000000,Maritime/Port,Network,High,D. Iyer,3.48,8,Yes,Resolved,5.0
+TCK-10266,2026-07-08 08:51:00,2026-07-08 09:43:12.000000,Corporate Office,Email,High,R. Fernandes,0.87,8,Yes,Reopened,4.0
+TCK-10995,2026-01-04 04:43:00,2026-01-07 11:17:12.000000,Corporate Office,Hardware,Low,K. Nandy,78.57,72,No,Resolved,3.0
+TCK-10106,2025-05-31 00:02:00,2025-06-03 04:05:36.000000,Corporate Office,Email,Medium,M. Chen,76.06,24,No,Resolved,4.0
+TCK-10560,2025-12-06 18:54:00,2025-12-07 02:20:24.000000,Remote/Branch,Software/Access,High,S. Priya,7.44,8,Yes,Resolved,5.0
+TCK-10121,2026-03-07 12:57:00,2026-03-10 19:36:36.000000,Maritime/Port,Software/Access,Low,D. Iyer,78.66,72,No,Reopened,4.0
+TCK-10681,2026-08-06 13:23:00,2026-08-06 17:00:12.000000,Data Center,Hardware,Medium,L. Costa,3.62,24,Yes,Resolved,2.0
+TCK-10051,2025-09-13 02:28:00,2025-09-13 13:32:00.778746,Remote/Branch,Hardware,Critical,L. Costa,11.066882984937408,4,No,Resolved,4.0
+TCK-10476,2025-02-08 05:26:00,2025-02-08 08:51:48.000000,Corporate Office,Email,Critical,R. Fernandes,3.43,4,Yes,Resolved,5.0
+TCK-10902,2025-09-12 15:22:00,,Remote/Branch,Network,High,T. Silva,7.11,8,Yes,Escalated,2.0
+TCK-10830,2025-01-10 15:58:00,2025-01-10 18:37:00.000000,Data Center,Network,Critical,R. Fernandes,2.65,4,Yes,Resolved,3.0
+TCK-10597,2025-03-12 13:43:00,2025-03-12 13:55:36.000000,Remote/Branch,Hardware,High,V. Rao,0.21,8,Yes,Resolved,3.0
+TCK-11162,2026-05-12 22:28:00,2026-05-16 22:41:12.000000,Remote/Branch,Printer,Low,L. Costa,96.22,72,No,Resolved,1.0
+TCK-10103,2026-06-08 15:50:00,2026-06-09 10:36:48.000000,Corporate Office,network,Low,R. Fernandes,18.78,72,Yes,Resolved,2.0
+TCK-10979,2026-07-01 07:08:00,2026-07-04 18:39:48.000000,Corporate Office,Network,Low,T. Silva,83.53,72,No,Resolved,5.0
+TCK-11160,2026-03-26 23:12:00,2026-03-28 06:42:00.000000,Data Center,Email,Low,A. Kumar,31.5,72,Yes,Resolved,4.0
+TCK-10834,2025-11-06 21:33:00,2025-11-07 08:36:00.000000,Remote/Branch,Hardware,Medium,D. Iyer,11.05,24,Yes,Resolved,
+TCK-10847,2026-07-27 05:43:00,2026-07-27 09:12:24.000000,Data Center,VoIP,High,K. Nandy,3.49,8,Yes,Resolved,5.0
+TCK-10242,2025-05-16 17:56:00,2025-05-17 05:08:36.000000,Corporate Office,Hardware,Medium,K. Nandy,11.21,24,Yes,Resolved,4.0
+TCK-10581,2025-03-28 23:57:00,2025-03-29 13:30:36.000000,Data Center,Network,Medium,L. Costa,13.56,24,Yes,Resolved,
+TCK-10962,2025-04-27 12:16:00,2025-05-02 19:21:24.000000,Data Center,Network,Medium,L. Costa,127.09,24,No,Resolved,
+TCK-10299,2026-03-11 15:38:00,2026-03-16 11:09:48.000000,Remote/Branch,Email,Low,V. Rao,115.53,72,No,Resolved,3.0
+TCK-10424,2025-12-15 19:09:00,2025-12-16 18:07:12.000000,Corporate Office,Software/Access,Low,K. Nandy,22.97,72,Yes,Resolved,
+TCK-10930,2026-04-09 04:08:00,,Corporate Office,VoIP,Medium,,1.89,24,Yes,Escalated,
+TCK-10296,2025-06-11 11:19:00,2025-06-11 13:35:12.000000,Corporate Office,VoIP,Medium,K. Nandy,2.27,24,Yes,Resolved,2.0
+TCK-10183,2025-05-26 02:03:00,2025-05-27 15:48:36.000000,Data Center,Hardware,Low,R. Fernandes,37.76,72,Yes,Resolved,2.0
+TCK-10385,2025-03-22 13:38:00,2025-03-24 17:21:12.000000,Corporate Office,Hardware,Low,R. Fernandes,51.72,72,Yes,Resolved,1.0
+TCK-10532,2025-12-07 09:58:00,2025-12-07 21:16:36.000000,Corporate Office,Hardware,Low,A. Kumar,11.31,72,Yes,Resolved,4.0
+TCK-10762,2026-07-30 22:56:00,2026-07-31 06:36:12.000000,Corporate Office,Email,Medium,D. Iyer,7.67,24,Yes,Resolved,5.0
+TCK-10861,2026-01-18 00:57:00,2026-01-20 21:32:24.000000,Corporate Office,VoIP,Medium,K. Nandy,68.59,24,No,Resolved,4.0
+TCK-11098,2025-06-03 15:51:00,2025-06-04 14:41:24.000000,Remote/Branch,Printer,Medium,A. Kumar,22.84,24,Yes,Resolved,2.0
+TCK-10819,2025-02-27 16:50:00,,Maritime/Port,Network,High,R. Fernandes,13.182772258977604,8,No,Escalated,
+TCK-10737,2026-02-09 15:01:00,2026-02-09 15:46:36.000000,Corporate Office,Software/Access,Critical,T. Silva,0.76,4,Yes,Resolved,2.0
+TCK-10728,2025-09-12 11:25:00,,Remote/Branch,Printer,High,L. Costa,13.766404424317958,8,No,Escalated,3.0
+TCK-10752,2026-08-01 04:36:00,,Data Center,Hardware,Low,,185.12,72,No,Escalated,4.0
+TCK-10356,2026-03-01 01:25:00,2026-03-03 03:11:12.000000,Corporate Office,Hardware,Medium,L. Costa,49.77,24,No,Reopened,5.0
+TCK-10483,2025-12-12 09:36:00,,Maritime/Port,Email,High,M. Chen,1.59,8,Yes,Escalated,5.0
+TCK-10530,2025-02-10 02:12:00,2025-02-10 04:58:48.000000,Data Center,Software/Access,Medium,D. Iyer,2.78,24,Yes,Resolved,4.0
+TCK-10358,2025-04-12 22:41:00,2025-04-13 01:13:24.000000,Data Center,Software/Access,High,K. Nandy,2.54,8,Yes,Resolved,5.0
+TCK-10620,2026-07-04 05:23:00,2026-07-04 10:46:24.000000,Corporate Office,Software/Access,High,K. Nandy,5.39,8,Yes,Resolved,4.0
+TCK-10365,2025-04-24 15:38:00,2025-04-25 11:53:12.600466,Corporate Office,Network,High,L. Costa,20.25350012953048,8,No,Resolved,5.0
+TCK-10494,2026-07-05 21:52:00,2026-07-06 18:04:36.000000,Data Center,Email,Low,M. Chen,20.21,72,Yes,Resolved,5.0
+TCK-10409,2025-03-17 04:20:00,,Corporate Office,Printer,Medium,S. Priya,27.39,24,No,Escalated,2.0
+TCK-10492,2025-05-17 15:09:00,2025-05-18 13:59:24.000000,Corporate Office,Software/Access,Low,V. Rao,22.84,72,Yes,Resolved,4.0
+TCK-11070,2026-08-12 08:44:00,2026-08-12 11:24:12.000000,Remote/Branch,Printer,Medium,V. Rao,2.67,24,Yes,Resolved,
+TCK-11154,2025-09-06 00:02:00,2025-09-17 05:50:36.000000,Remote/Branch,Network,Low,D. Iyer,269.81,72,No,Resolved,
+TCK-10533,2025-07-14 23:07:00,2025-07-14 23:46:36.000000,Maritime/Port,Network,Medium,V. Rao,0.66,24,Yes,Resolved,5.0
+TCK-10892,2025-07-07 03:25:00,2025-07-07 06:43:00.000000,Corporate Office,Network,Medium,T. Silva,3.3,24,Yes,Resolved,4.0
+TCK-10548,2026-06-02 14:23:00,2026-06-04 18:47:36.000000,Maritime/Port,Software/Access,Low,A. Kumar,52.41,72,Yes,Resolved,
+TCK-10751,2026-01-03 18:01:00,2026-01-04 14:29:12.000000,Data Center,Hardware,Medium,K. Nandy,20.47,24,Yes,Resolved,3.0
+TCK-10704,2025-09-12 13:58:00,2025-09-13 17:42:24.000000,Remote/Branch,Network,Medium,K. Nandy,27.74,24,No,Resolved,5.0
+TCK-10974,2026-02-03 21:07:00,2026-02-08 15:36:53.560298,Remote/Branch,Software/Access,Low,L. Costa,114.49821119390091,72,No,Resolved,5.0
+TCK-10070,2026-06-26 00:42:00,2026-06-27 07:31:48.000000,Corporate Office,Security,Medium,L. Costa,30.83,24,No,Resolved,5.0
+TCK-10719,2026-02-08 02:37:00,2026-02-13 03:53:35.189702,Corporate Office,Network,Low,D. Iyer,121.27644158393284,72,No,Resolved,3.0
+TCK-11023,2025-02-14 04:36:00,2025-02-15 00:05:24.000000,Corporate Office,Network,Medium,D. Iyer,19.49,24,Yes,Resolved,
+TCK-10426,2025-05-14 11:32:00,2025-05-14 13:29:36.000000,Remote/Branch,Network,High,L. Costa,1.96,8,Yes,Resolved,5.0
+TCK-10846,2025-04-10 15:08:00,2025-04-10 15:20:36.000000,Corporate Office,VoIP,Medium,J. Alvarez,0.21,24,Yes,Resolved,1.0
+TCK-11033,2026-06-01 21:26:00,2026-06-04 22:08:00.000000,Remote/Branch,Hardware,Low,R. Fernandes,72.7,72,No,Reopened,
+TCK-10520,2026-06-18 07:26:00,2026-06-19 03:53:36.000000,Corporate Office,Hardware,Low,J. Alvarez,20.46,72,Yes,Resolved,4.0
+TCK-10676,2025-10-19 22:01:00,2025-10-20 22:38:12.000000,Remote/Branch,Email,Medium,J. Alvarez,24.62,24,No,Resolved,4.0
+TCK-10351,2025-05-22 08:03:00,2025-05-22 09:00:00.000000,Corporate Office,Email,High,V. Rao,0.95,8,Yes,Resolved,3.0
+TCK-10497,2026-06-02 06:36:00,2026-06-02 07:56:24.000000,Data Center,Network,Critical,L. Costa,1.34,4,Yes,Resolved,5.0
+TCK-10417,2026-08-18 04:10:00,2026-08-18 06:08:12.000000,Maritime/Port,Network,Critical,D. Iyer,1.97,4,Yes,Resolved,2.0
+TCK-10642,2025-08-31 06:51:00,2025-09-03 07:10:12.000000,Corporate Office,Security,Low,D. Iyer,72.32,72,No,Resolved,5.0
+TCK-10837,2025-12-11 08:40:00,2025-12-11 18:23:12.000000,Corporate Office,Email,Medium,K. Nandy,9.72,24,Yes,Resolved,4.0
+TCK-10748,2025-06-13 03:15:00,2025-06-16 17:02:24.000000,Remote/Branch,Hardware,Medium,M. Chen,85.79,24,No,Resolved,4.0
+TCK-10655,2026-05-22 08:20:00,2026-05-22 21:21:48.000000,Remote/Branch,VoIP,Low,J. Alvarez,13.03,72,Yes,Resolved,4.0
+TCK-10702,2026-04-29 11:24:00,2026-04-29 13:15:36.000000,Remote/Branch,Printer,Medium,R. Fernandes,1.86,24,Yes,Resolved,3.0
+TCK-10849,2025-12-06 11:16:00,2025-12-06 13:08:12.000000,Remote/Branch,Hardware,Critical,D. Iyer,1.87,4,Yes,Resolved,5.0
+TCK-10360,2025-05-23 22:30:00,2025-05-24 15:07:12.000000,Maritime/Port,hardware,High,V. Rao,16.62,8,No,Resolved,1.0
+TCK-11036,2025-05-14 19:34:00,2025-05-15 12:44:12.000000,Remote/Branch,Software/Access,Medium,A. Kumar,17.17,24,Yes,Resolved,3.0
+TCK-10472,2025-05-21 00:35:00,2025-05-21 08:09:48.000000,Data Center,VoIP,High,R. Fernandes,7.58,8,Yes,Resolved,5.0
+TCK-10482,2026-04-15 20:16:00,,Data Center,Hardware,Critical,R. Fernandes,9.66730654293999,4,No,Escalated,4.0
+TCK-10601,2026-01-04 22:57:00,2026-01-11 21:14:24.000000,Remote/Branch,Hardware,Low,L. Costa,166.29,72,No,Resolved,4.0
+TCK-10297,2026-08-05 19:05:00,2026-08-05 19:46:24.000000,Remote/Branch,VoIP,Medium,A. Kumar,0.69,24,Yes,Resolved,5.0
+TCK-10867,2025-05-18 10:57:00,2025-05-19 15:16:48.000000,Data Center,Software/Access,Medium,V. Rao,28.33,24,No,Resolved,1.0
+TCK-10224,2025-11-03 00:02:00,2025-11-03 14:52:24.000000,Maritime/Port,Software/Access,Medium,K. Nandy,14.84,24,Yes,Resolved,3.0
+TCK-10653,2025-04-06 23:29:00,2025-04-07 05:08:00.000000,Maritime/Port,Network,Low,K. Nandy,5.65,72,Yes,Resolved,4.0
+TCK-10095,2025-07-21 11:27:00,,Remote/Branch,Network,Low,S. Priya,47.62,72,Yes,Escalated,5.0
+TCK-11062,2025-12-28 21:25:00,2025-12-29 02:46:00.000000,Data Center,Email,Medium,T. Silva,5.35,24,Yes,Resolved,3.0
+TCK-10211,2026-07-11 12:29:00,2026-07-11 21:54:48.000000,Corporate Office,Email,High,K. Nandy,9.43,8,No,Resolved,
+TCK-10361,2025-03-23 00:16:00,,Maritime/Port,Email,Low,,28.85,72,Yes,Escalated,5.0
+TCK-11006,2026-06-11 04:28:00,2026-06-11 05:59:12.000000,Maritime/Port,Software/Access,Medium,R. Fernandes,1.52,24,Yes,Resolved,
+TCK-10301,2025-10-18 21:43:00,2025-10-19 00:19:36.000000,Corporate Office,Network,High,D. Iyer,2.61,8,Yes,Resolved,
+TCK-10354,2026-06-10 04:53:00,2026-06-15 21:18:00.941180,Corporate Office,Email,Low,T. Silva,136.41692810569307,72,No,Resolved,5.0
+TCK-10589,2025-12-04 14:21:00,2025-12-04 23:11:24.000000,Remote/Branch,Network,Low,T. Silva,8.84,72,Yes,Resolved,
+TCK-10369,2026-01-05 02:33:00,2026-01-05 19:33:36.000000,Data Center,Software/Access,Medium,L. Costa,17.01,24,Yes,Resolved,3.0
+TCK-10966,2025-06-21 17:34:00,2025-06-22 22:36:24.000000,Corporate Office,Network,Medium,A. Kumar,29.04,24,No,Resolved,3.0
+TCK-11016,2025-12-20 15:50:00,2025-12-21 14:29:36.000000,Corporate Office,Software/Access,Low,V. Rao,22.66,72,Yes,Resolved,5.0
+TCK-10666,2025-12-18 03:55:00,2025-12-18 13:24:24.000000,Corporate Office,Email,Medium,T. Silva,9.49,24,Yes,Resolved,4.0
+TCK-10891,2025-10-02 23:05:00,2025-10-03 00:44:00.000000,Corporate Office,Hardware,Medium,K. Nandy,1.65,24,Yes,Resolved,4.0
+TCK-10053,2026-05-13 15:13:00,2026-05-13 15:24:24.000000,Corporate Office,Printer,High,T. Silva,0.19,8,Yes,Resolved,4.0
+TCK-10048,2026-04-24 23:03:00,2026-04-25 07:31:14.681205,Remote/Branch,Email,Critical,S. Priya,8.470744779074813,4,No,Resolved,3.0
+TCK-10694,2025-09-23 05:23:00,2025-09-23 05:46:24.000000,Data Center,Hardware,Critical,R. Fernandes,0.39,4,Yes,Resolved,
+TCK-10972,2026-08-12 07:58:00,,Data Center,Network,Low,J. Alvarez,119.23,72,No,Escalated,4.0
+TCK-10645,2026-07-06 05:20:00,2026-07-06 05:44:00.000000,Maritime/Port,Network,Medium,J. Alvarez,0.4,24,Yes,Resolved,5.0
+TCK-10295,2026-06-28 06:24:00,2026-06-28 11:22:48.000000,Remote/Branch,VoIP,Low,T. Silva,4.98,72,Yes,Resolved,5.0
+TCK-10585,2025-11-03 15:50:00,2025-11-04 12:36:12.000000,Data Center,Email,Medium,S. Priya,20.77,24,Yes,Resolved,4.0
+TCK-10271,2025-04-22 14:32:00,2025-04-23 06:32:00.000000,Data Center,Printer,Medium,M. Chen,16.0,24,Yes,Reopened,3.0
+TCK-10916,2025-08-16 00:21:00,2025-08-16 02:35:24.000000,Corporate Office,Hardware,Low,K. Nandy,2.24,72,Yes,Resolved,
+TCK-10445,2026-02-07 19:47:00,2026-02-08 07:24:48.000000,Data Center,Hardware,Low,J. Alvarez,11.63,72,Yes,Resolved,3.0
+TCK-11110,2026-08-09 12:54:00,2026-08-16 05:51:20.217391,Data Center,Security,Low,S. Priya,160.95561594187902,72,No,Resolved,4.0
+TCK-10007,2026-01-25 03:22:00,2026-01-25 04:16:00.000000,Maritime/Port,Software/Access,Critical,K. Nandy,0.9,4,Yes,Resolved,1.0
+TCK-10119,2025-06-06 22:13:00,2025-06-07 03:13:00.000000,Maritime/Port,hardware,High,S. Priya,5.0,8,Yes,Resolved,
+TCK-11128,2025-11-07 00:00:00,,Corporate Office,Software/Access,Medium,,35.23,24,No,Escalated,4.0
+TCK-11113,2026-04-01 11:47:00,2026-04-01 15:35:36.000000,Maritime/Port,Hardware,Low,D. Iyer,3.81,72,Yes,Resolved,2.0
+TCK-10672,2025-06-05 13:39:00,2025-06-05 15:01:48.000000,Maritime/Port,Software/Access,Medium,V. Rao,1.38,24,Yes,Resolved,2.0
+TCK-10850,2025-05-01 15:03:00,,Remote/Branch,Printer,Low,D. Iyer,47.46,72,Yes,Escalated,2.0
+TCK-10468,2026-07-30 22:17:00,2026-07-31 15:17:36.000000,Maritime/Port,Software/Access,Medium,R. Fernandes,17.01,24,Yes,Resolved,5.0
+TCK-10138,2025-06-17 09:06:00,2025-06-22 04:33:39.679340,Corporate Office,Network,Low,D. Iyer,115.46102203884138,72,No,Resolved,5.0
+TCK-10540,2026-07-21 18:37:00,2026-07-22 11:53:12.000000,Remote/Branch,Hardware,Low,T. Silva,17.27,72,Yes,Resolved,2.0
+TCK-10018,2026-02-15 08:04:00,2026-02-15 21:05:12.000000,Remote/Branch,Printer,Low,M. Chen,13.02,72,Yes,Resolved,4.0
+TCK-10383,2025-07-11 15:44:00,,Remote/Branch,Network,Medium,V. Rao,22.54,24,Yes,Escalated,5.0
+TCK-11064,2026-07-17 09:46:00,2026-07-17 11:04:00.000000,Corporate Office,Network,Medium,L. Costa,1.3,24,Yes,Resolved,
+TCK-10323,2026-04-18 14:02:00,2026-04-18 15:36:48.000000,Remote/Branch,Software/Access,Medium,A. Kumar,1.58,24,Yes,Resolved,5.0
+TCK-10813,2025-01-21 10:52:00,,Maritime/Port,Hardware,Medium,J. Alvarez,11.56,24,Yes,Escalated,5.0
+TCK-11054,2026-03-22 02:04:00,2026-03-22 08:37:00.000000,Corporate Office,Network,High,J. Alvarez,6.55,8,Yes,Resolved,4.0
+TCK-10872,2025-02-19 19:03:00,2025-02-19 23:39:36.000000,Corporate Office,Software/Access,Medium,S. Priya,4.61,24,Yes,Resolved,2.0
+TCK-10997,2025-04-22 05:41:00,,Corporate Office,email,Low,,143.1766582829998,72,No,Escalated,4.0
+TCK-10355,2025-08-16 14:56:00,2025-08-16 18:41:00.000000,Corporate Office,Email,Medium,K. Nandy,3.75,24,Yes,Resolved,3.0
+TCK-10671,2025-06-18 14:22:00,2025-06-25 03:30:24.000000,Data Center,Network,Low,M. Chen,157.14,72,No,Resolved,2.0
+TCK-10879,2025-07-24 08:53:00,2025-07-26 17:45:48.000000,Corporate Office,Hardware,Low,L. Costa,56.88,72,Yes,Resolved,4.0
+TCK-10623,2025-04-27 11:22:00,2025-04-28 02:10:00.000000,Corporate Office,Email,Medium,V. Rao,14.8,24,Yes,Resolved,
+TCK-10988,2025-03-10 08:06:00,2025-03-10 12:31:12.000000,Corporate Office,Printer,Medium,M. Chen,4.42,24,Yes,Resolved,3.0
+TCK-10471,2026-02-28 10:45:00,2026-03-15 03:33:00.000000,Maritime/Port,Network,Low,V. Rao,352.8,72,No,Resolved,
+TCK-10624,2025-11-01 19:37:00,,Remote/Branch,Hardware,High,S. Priya,6.78,8,Yes,Escalated,4.0
+TCK-10270,2025-03-07 15:28:00,2025-03-08 14:03:24.000000,Maritime/Port,Software/Access,Low,K. Nandy,22.59,72,Yes,Resolved,4.0
+TCK-11183,2026-07-26 13:47:00,,Corporate Office,Network,Low,S. Priya,281.78,72,No,Escalated,5.0
+TCK-10420,2026-03-03 19:40:00,2026-03-08 02:50:48.000000,Corporate Office,Software/Access,Low,A. Kumar,103.18,72,No,Resolved,4.0
+TCK-10416,2025-04-06 16:41:00,2025-04-07 00:09:48.000000,Data Center,Hardware,Low,R. Fernandes,7.48,72,Yes,Resolved,5.0
+TCK-10661,2026-01-05 08:05:00,2026-01-06 08:37:24.000000,Remote/Branch,Printer,Low,K. Nandy,24.54,72,Yes,Resolved,4.0
+TCK-11130,2026-05-19 15:19:00,2026-05-20 03:04:00.000000,Corporate Office,Network,Low,A. Kumar,11.75,72,Yes,Resolved,2.0
+TCK-10826,2025-12-25 11:10:00,2025-12-26 03:29:12.000000,Data Center,Hardware,Medium,J. Alvarez,16.32,24,Yes,Resolved,3.0
+TCK-10969,2026-03-22 20:52:00,2026-03-25 03:32:12.000000,Maritime/Port,Network,Medium,S. Priya,54.67,24,No,Resolved,5.0
+TCK-10249,2025-08-28 15:01:00,,Corporate Office,hardware,Low,D. Iyer,30.51,72,Yes,Escalated,4.0
+TCK-10870,2026-08-27 16:10:00,2026-08-27 18:26:12.000000,Data Center,Hardware,Critical,S. Priya,2.27,4,Yes,Resolved,4.0
+TCK-10505,2025-03-03 02:59:00,2025-03-05 12:27:30.858816,Remote/Branch,hardware,Medium,V. Rao,57.47523855994624,24,No,Reopened,3.0
+TCK-10443,2025-12-08 15:33:00,2025-12-08 20:55:48.000000,Data Center,Hardware,Medium,V. Rao,5.38,24,Yes,Resolved,4.0
+TCK-10118,2025-03-24 04:09:00,2025-03-24 08:52:12.000000,Corporate Office,Network,High,M. Chen,4.72,8,Yes,Resolved,4.0
+TCK-10875,2025-06-06 06:44:00,2025-06-08 06:58:24.000000,Data Center,Network,Low,A. Kumar,48.24,72,Yes,Resolved,5.0
+TCK-10509,2025-12-23 03:11:00,2025-12-23 03:16:24.000000,Corporate Office,Network,High,L. Costa,0.09,8,Yes,Resolved,3.0
+TCK-10818,2026-02-21 23:31:00,2026-02-24 05:35:48.000000,Remote/Branch,Software/Access,Medium,L. Costa,54.08,24,No,Resolved,4.0
+TCK-10735,2026-03-31 04:05:00,2026-04-01 03:08:36.000000,Remote/Branch,Software/Access,Low,K. Nandy,23.06,72,Yes,Resolved,4.0
+TCK-10452,2026-01-25 04:52:00,2026-02-02 02:06:57.205299,Maritime/Port,Software/Access,Low,M. Chen,189.24922369409666,72,No,Resolved,
+TCK-10928,2025-11-26 16:56:00,2025-11-26 18:43:24.000000,Remote/Branch,Hardware,Critical,T. Silva,1.79,4,Yes,Resolved,3.0
+TCK-10440,2025-04-10 12:23:00,2025-04-10 16:37:24.000000,Data Center,Security,Medium,K. Nandy,4.24,24,Yes,Resolved,5.0
+TCK-10338,2025-12-03 04:42:00,,Corporate Office,Printer,High,L. Costa,12.549914753447904,8,No,Escalated,5.0
+TCK-10126,2025-01-30 12:21:00,2025-01-30 16:09:36.000000,Remote/Branch,Email,Medium,T. Silva,3.81,24,Yes,Resolved,
+TCK-10422,2026-02-20 09:29:00,2026-02-20 23:42:12.000000,Remote/Branch,Software/Access,Low,S. Priya,14.22,72,Yes,Resolved,5.0
+TCK-10508,2026-01-22 12:05:00,2026-01-22 14:54:12.000000,Corporate Office,Software/Access,Medium,L. Costa,2.82,24,Yes,Resolved,5.0
+TCK-10798,2025-05-31 03:48:00,2025-06-06 00:28:12.000000,Corporate Office,VoIP,Low,V. Rao,140.67,72,No,Resolved,
+TCK-11004,2026-05-29 16:05:00,2026-05-29 17:39:12.000000,Maritime/Port,Email,High,T. Silva,1.57,8,Yes,Resolved,
+TCK-10220,2026-07-01 12:20:00,2026-07-01 23:40:24.000000,Remote/Branch,Software/Access,High,V. Rao,11.34,8,No,Resolved,
+TCK-10290,2025-10-13 18:14:00,,Corporate Office,printer,Low,T. Silva,10.34,72,Yes,Escalated,4.0
+TCK-10114,2025-06-12 23:55:00,2025-06-13 11:33:24.000000,Maritime/Port,Hardware,High,V. Rao,11.64,8,No,Resolved,5.0
+TCK-10843,2025-12-18 23:45:00,2025-12-19 06:57:00.000000,Corporate Office,network,High,M. Chen,7.2,8,Yes,Resolved,4.0
+TCK-10973,2026-04-07 20:25:00,,Corporate Office,Network,Medium,T. Silva,1.64,24,Yes,Escalated,3.0
+TCK-10247,2025-01-15 08:34:00,2025-01-20 08:26:48.000000,Corporate Office,Network,Low,S. Priya,119.88,72,No,Resolved,3.0
+TCK-10275,2025-03-24 10:38:00,2025-03-26 02:09:17.709006,Maritime/Port,Software/Access,Medium,R. Fernandes,39.521585835122615,24,No,Resolved,4.0
+TCK-10309,2026-08-11 12:45:00,2026-08-11 16:42:00.000000,Remote/Branch,Email,Medium,T. Silva,3.95,24,Yes,Resolved,
+TCK-10027,2025-01-12 21:46:00,2025-01-13 00:09:24.000000,Corporate Office,Email,Medium,S. Priya,2.39,24,Yes,Reopened,
+TCK-10450,2026-08-16 18:14:00,2026-08-19 15:03:48.000000,Corporate Office,Printer,Low,A. Kumar,68.83,72,Yes,Resolved,5.0
+TCK-10579,2025-01-27 02:22:00,2025-02-03 19:04:52.640648,Corporate Office,VoIP,Low,L. Costa,184.71462240232788,72,No,Resolved,2.0
+TCK-10159,2026-07-18 10:22:00,2026-07-18 20:11:12.000000,Corporate Office,Network,High,V. Rao,9.82,8,No,Resolved,
+TCK-10839,2026-06-14 07:57:00,,Data Center,Network,Low,A. Kumar,50.2,72,Yes,Escalated,4.0
+TCK-10261,2025-08-06 20:40:00,2025-08-07 08:01:36.000000,Corporate Office,Network,Medium,D. Iyer,11.36,24,Yes,Resolved,2.0
+TCK-10442,2026-05-28 01:02:00,2026-05-29 01:37:24.000000,Remote/Branch,Network,Low,A. Kumar,24.59,72,Yes,Resolved,5.0
+TCK-11012,2026-06-18 20:53:00,2026-06-19 03:27:12.000000,Remote/Branch,VoIP,Low,J. Alvarez,6.57,72,Yes,Resolved,5.0
+TCK-10448,2025-04-23 13:37:00,2025-04-25 16:25:00.000000,Corporate Office,network,Low,J. Alvarez,50.8,72,Yes,Resolved,4.0
+TCK-10859,2026-03-21 20:27:00,2026-03-22 10:02:24.000000,Data Center,Software/Access,Medium,T. Silva,13.59,24,Yes,Reopened,2.0
+TCK-11077,2025-12-17 02:35:00,2025-12-17 02:49:24.000000,Remote/Branch,Printer,Critical,R. Fernandes,0.24,4,Yes,Resolved,5.0
+TCK-11103,2025-04-09 14:47:00,2025-04-14 21:14:36.000000,Remote/Branch,Security,Low,K. Nandy,126.46,72,No,Resolved,3.0
+TCK-10592,2025-11-23 09:47:00,2025-11-27 10:24:48.000000,Corporate Office,email,Low,V. Rao,96.63,72,No,Resolved,3.0
+TCK-10317,2025-05-30 08:12:00,2025-05-30 14:19:48.000000,Remote/Branch,Software/Access,Medium,R. Fernandes,6.13,24,Yes,Resolved,4.0
+TCK-10414,2026-06-16 09:54:00,2026-06-19 04:43:48.000000,Remote/Branch,Email,Low,S. Priya,66.83,72,Yes,Resolved,5.0
+TCK-10217,2025-01-16 23:09:00,2025-01-17 23:25:48.000000,Maritime/Port,Security,Medium,T. Silva,24.28,24,No,Resolved,2.0
+TCK-10465,2025-05-30 09:02:00,2025-05-30 12:42:48.000000,Remote/Branch,Hardware,High,J. Alvarez,3.68,8,Yes,Resolved,4.0
+TCK-10983,2026-07-15 02:19:00,,Corporate Office,Software/Access,Low,,67.67,72,Yes,Escalated,5.0
+TCK-10164,2025-10-31 07:23:00,2025-10-31 09:06:48.000000,Maritime/Port,network,High,R. Fernandes,1.73,8,Yes,Reopened,4.0
+TCK-10570,2026-02-11 10:01:00,2026-02-11 12:58:00.000000,Corporate Office,Network,Low,J. Alvarez,2.95,72,Yes,Resolved,4.0
+TCK-10772,2026-02-28 15:56:00,2026-03-02 03:07:24.000000,Maritime/Port,Hardware,Low,T. Silva,35.19,72,Yes,Resolved,3.0
+TCK-11173,2026-05-13 06:06:00,2026-05-13 06:36:00.000000,Data Center,Software/Access,Medium,A. Kumar,0.5,24,Yes,Resolved,5.0
+TCK-10006,2025-06-09 06:48:00,2025-06-10 19:21:00.000000,Data Center,Software/Access,Low,K. Nandy,36.55,72,Yes,Reopened,
+TCK-10967,2025-08-04 21:40:00,2025-08-04 22:47:48.000000,Corporate Office,Hardware,Critical,M. Chen,1.13,4,Yes,Resolved,
+TCK-11049,2025-11-11 18:22:00,2025-11-11 19:01:00.000000,Corporate Office,Hardware,High,T. Silva,0.65,8,Yes,Resolved,4.0
+TCK-10858,2025-06-12 15:50:00,2025-06-12 21:09:12.000000,Data Center,Printer,High,S. Priya,5.32,8,Yes,Resolved,5.0
+TCK-11118,2026-02-11 16:48:00,2026-02-11 17:48:00.000000,Corporate Office,Email,Medium,S. Priya,1.0,24,Yes,Reopened,4.0
+TCK-11159,2025-08-27 10:35:00,2025-08-27 15:50:36.000000,Remote/Branch,Software/Access,High,K. Nandy,5.26,8,Yes,Resolved,
+TCK-10083,2025-07-01 13:01:00,2025-07-02 09:11:12.000000,Corporate Office,Software/Access,Medium,R. Fernandes,20.17,24,Yes,Reopened,5.0
+TCK-10411,2025-07-06 04:27:00,2025-07-06 05:21:00.000000,Data Center,Email,High,L. Costa,0.9,8,Yes,Resolved,4.0
+TCK-11102,2025-03-03 06:52:00,2025-03-03 20:40:00.000000,Remote/Branch,Software/Access,Low,J. Alvarez,13.8,72,Yes,Reopened,3.0
+TCK-10305,2026-05-25 23:27:00,,Remote/Branch,Network,Medium,R. Fernandes,38.22,24,No,Escalated,4.0
+TCK-10910,2025-01-19 03:25:00,2025-01-19 13:42:28.700027,Corporate Office,Hardware,Critical,T. Silva,10.291305562943514,4,No,Resolved,5.0
+TCK-10131,2025-12-12 12:17:00,,Remote/Branch,Network,Critical,T. Silva,1.78,4,Yes,Escalated,4.0
+TCK-10678,2025-02-25 07:31:00,2025-02-27 00:34:00.000000,Maritime/Port,Email,Low,T. Silva,41.05,72,Yes,Resolved,5.0
+TCK-10558,2026-05-03 01:40:00,2026-05-03 21:04:36.000000,Remote/Branch,Software/Access,Low,A. Kumar,19.41,72,Yes,Resolved,1.0
+TCK-10989,2026-05-14 10:22:00,2026-05-18 14:00:24.000000,Remote/Branch,VoIP,Low,R. Fernandes,99.64,72,No,Resolved,5.0
+TCK-10609,2026-03-02 02:07:00,2026-03-02 02:23:48.000000,Corporate Office,hardware,Critical,R. Fernandes,0.28,4,Yes,Resolved,3.0
+TCK-10028,2026-07-04 08:49:00,2026-07-04 12:02:48.000000,Corporate Office,Printer,High,K. Nandy,3.23,8,Yes,Resolved,5.0
+TCK-10935,2025-12-27 17:30:00,2025-12-28 01:38:24.000000,Remote/Branch,Hardware,Low,D. Iyer,8.14,72,Yes,Resolved,
+TCK-10832,2025-11-09 22:45:00,2025-11-10 03:03:36.000000,Corporate Office,Software/Access,High,J. Alvarez,4.31,8,Yes,Resolved,2.0
+TCK-10631,2026-05-12 04:12:00,,Remote/Branch,Hardware,High,,5.07,8,Yes,Escalated,4.0
+TCK-10473,2026-05-03 15:41:00,2026-05-03 19:08:00.000000,Remote/Branch,Network,High,M. Chen,3.45,8,Yes,Resolved,
+TCK-10553,2025-09-04 06:39:00,2025-09-04 10:39:00.000000,Corporate Office,Network,High,L. Costa,4.0,8,Yes,Resolved,1.0
+TCK-10755,2026-06-24 15:00:00,,Remote/Branch,Printer,Low,K. Nandy,49.44,72,Yes,Escalated,5.0
+TCK-10238,2025-12-27 07:40:00,2025-12-28 11:57:24.000000,Remote/Branch,hardware,Medium,M. Chen,28.29,24,No,Resolved,5.0
+TCK-10805,2026-03-06 03:26:00,,Maritime/Port,Email,Medium,R. Fernandes,1.06,24,Yes,Escalated,3.0
+TCK-10367,2025-01-02 19:22:00,,Maritime/Port,Email,High,,4.22,8,Yes,Escalated,4.0
+TCK-10990,2025-08-29 03:18:00,2025-09-01 05:50:29.706184,Data Center,Security,Medium,D. Iyer,74.54158505099414,24,No,Resolved,4.0
+TCK-10635,2025-10-09 07:34:00,,Remote/Branch,Security,Low,,123.5,72,No,Escalated,5.0
+TCK-11198,2025-11-04 02:36:00,2025-11-06 09:19:12.000000,Data Center,Hardware,Medium,T. Silva,54.72,24,No,Resolved,1.0
+TCK-11025,2025-06-20 08:59:00,2025-06-20 09:54:48.000000,Remote/Branch,Software/Access,Critical,R. Fernandes,0.93,4,Yes,Resolved,4.0
+TCK-10649,2026-02-07 15:09:00,2026-02-09 09:25:48.000000,Remote/Branch,Hardware,Low,D. Iyer,42.28,72,Yes,Resolved,5.0
+TCK-10076,2025-09-26 05:47:00,2025-09-26 08:17:36.000000,Corporate Office,Software/Access,Critical,V. Rao,2.51,4,Yes,Resolved,5.0
+TCK-10594,2026-02-07 11:07:00,2026-02-07 21:50:48.000000,Corporate Office,Software/Access,Medium,D. Iyer,10.73,24,Yes,Resolved,
+TCK-10679,2026-05-27 20:38:00,2026-05-27 22:20:36.000000,Corporate Office,network,High,S. Priya,1.71,8,Yes,Resolved,1.0
+TCK-11083,2026-07-09 01:54:00,2026-07-10 17:51:00.000000,Remote/Branch,Network,Medium,V. Rao,39.95,24,No,Resolved,
+TCK-10192,2026-04-27 11:26:00,2026-04-29 16:15:12.000000,Remote/Branch,Security,Low,K. Nandy,52.82,72,Yes,Reopened,2.0
+TCK-10279,2025-04-28 20:41:00,2025-05-01 17:19:24.000000,Corporate Office,VoIP,Medium,L. Costa,68.64,24,No,Resolved,2.0
+TCK-11120,2025-09-11 23:18:00,2025-09-12 04:30:00.000000,Maritime/Port,Printer,Low,V. Rao,5.2,72,Yes,Resolved,5.0
+TCK-10193,2025-04-18 05:21:00,2025-04-18 15:53:24.000000,Corporate Office,Email,Low,T. Silva,10.54,72,Yes,Resolved,4.0
+TCK-10652,2026-01-13 14:31:00,2026-01-13 15:29:48.000000,Corporate Office,VoIP,Critical,K. Nandy,0.98,4,Yes,Resolved,4.0
+TCK-10668,2025-04-15 03:20:00,2025-04-17 12:27:12.000000,Remote/Branch,Network,Low,K. Nandy,57.12,72,Yes,Resolved,5.0
+TCK-10643,2026-03-15 05:39:00,2026-03-16 04:00:36.000000,Corporate Office,Security,Low,R. Fernandes,22.36,72,Yes,Resolved,4.0
+TCK-10947,2026-07-14 23:38:00,2026-07-18 12:21:12.000000,Remote/Branch,Security,Low,M. Chen,84.72,72,No,Resolved,5.0
+TCK-10692,2025-06-29 03:00:00,2025-06-29 07:39:00.000000,Remote/Branch,Hardware,High,R. Fernandes,4.65,8,Yes,Resolved,2.0
+TCK-10882,2026-05-08 10:15:00,2026-05-09 05:18:49.813250,Maritime/Port,Software/Access,High,A. Kumar,19.063837013847223,8,No,Resolved,4.0
+TCK-10446,2026-06-04 16:34:00,2026-06-06 03:17:48.000000,Data Center,Email,Medium,V. Rao,34.73,24,No,Resolved,5.0
+TCK-10265,2025-01-03 08:54:00,2025-01-03 22:13:48.000000,Remote/Branch,Network,Medium,R. Fernandes,13.33,24,Yes,Resolved,5.0
+TCK-10245,2026-04-25 02:09:00,2026-04-27 00:32:24.000000,Data Center,Network,Low,M. Chen,46.39,72,Yes,Resolved,4.0
+TCK-10281,2026-04-10 12:26:00,2026-04-18 05:02:00.000000,Corporate Office,Email,Low,S. Priya,184.6,72,No,Resolved,5.0
+TCK-10061,2025-08-29 12:07:00,2025-09-02 07:32:12.000000,Remote/Branch,hardware,Low,D. Iyer,91.42,72,No,Resolved,5.0
+TCK-11022,2026-08-28 05:41:00,2026-08-28 17:57:49.722951,Remote/Branch,Network,High,T. Silva,12.28047859739501,8,No,Resolved,3.0
+TCK-10364,2026-03-06 20:50:00,2026-03-08 03:29:36.000000,Maritime/Port,Printer,Medium,D. Iyer,30.66,24,No,Resolved,3.0
+TCK-11151,2025-11-02 06:23:00,2025-11-02 23:23:00.000000,Corporate Office,Network,Medium,A. Kumar,17.0,24,Yes,Resolved,4.0
+TCK-10583,2025-06-23 04:17:00,2025-06-24 08:20:00.000000,Remote/Branch,Software/Access,Medium,J. Alvarez,28.05,24,No,Resolved,4.0
+TCK-10757,2025-11-28 01:01:00,2025-12-02 02:32:48.000000,Remote/Branch,Software/Access,Low,R. Fernandes,97.53,72,No,Resolved,5.0
+TCK-10030,2025-09-27 16:48:00,2025-10-05 17:42:00.000000,Remote/Branch,Hardware,Low,R. Fernandes,192.9,72,No,Resolved,5.0
+TCK-10128,2026-02-08 18:36:00,,Data Center,Software/Access,Low,A. Kumar,226.81958921842303,72,No,Escalated,5.0
+TCK-11140,2025-01-23 05:06:00,2025-01-23 05:52:12.000000,Data Center,Hardware,Critical,J. Alvarez,0.77,4,Yes,Resolved,2.0
+TCK-10146,2026-06-19 20:17:00,2026-06-19 21:10:24.000000,Data Center,Printer,High,D. Iyer,0.89,8,Yes,Resolved,4.0
+TCK-10124,2026-03-06 17:47:00,2026-03-07 06:35:36.000000,Maritime/Port,Hardware,High,L. Costa,12.81,8,No,Resolved,2.0
+TCK-10641,2025-12-23 02:28:00,2025-12-23 04:51:24.000000,Corporate Office,Email,High,S. Priya,2.39,8,Yes,Reopened,
+TCK-10447,2025-11-03 15:52:00,2025-11-03 17:14:12.000000,Remote/Branch,Security,Medium,A. Kumar,1.37,24,Yes,Reopened,4.0
+TCK-10154,2025-03-29 07:46:00,2025-03-29 13:52:36.000000,Corporate Office,Printer,Medium,T. Silva,6.11,24,Yes,Resolved,1.0
+TCK-11158,2025-06-07 22:34:00,2025-06-08 13:42:24.000000,Data Center,Software/Access,Low,S. Priya,15.14,72,Yes,Resolved,4.0
+TCK-10191,2025-07-05 18:27:00,2025-07-07 09:38:24.000000,Remote/Branch,Network,High,V. Rao,39.19,8,No,Resolved,4.0
+TCK-10161,2026-07-03 22:11:00,2026-07-04 17:19:24.000000,Corporate Office,Network,High,M. Chen,19.14,8,No,Resolved,4.0
+TCK-10760,2025-12-11 09:20:00,2025-12-11 09:41:00.000000,Remote/Branch,Hardware,High,R. Fernandes,0.35,8,Yes,Resolved,5.0
+TCK-10556,2025-08-20 09:43:00,,Maritime/Port,Hardware,High,S. Priya,15.87,8,No,Escalated,5.0
+TCK-10286,2025-05-06 13:22:00,2025-05-06 13:39:24.000000,Maritime/Port,VoIP,Critical,T. Silva,0.29,4,Yes,Resolved,4.0
+TCK-10298,2025-02-20 21:05:00,2025-02-20 23:01:24.000000,Remote/Branch,Hardware,Critical,J. Alvarez,1.94,4,Yes,Resolved,5.0
+TCK-10066,2026-07-31 03:04:00,2026-08-01 04:27:24.000000,Corporate Office,Hardware,Medium,L. Costa,25.39,24,No,Resolved,5.0
+TCK-10543,2026-05-16 23:41:00,2026-05-17 17:20:00.000000,Data Center,Network,High,V. Rao,17.65,8,No,Resolved,5.0
+TCK-10346,2025-09-01 14:39:00,2025-09-02 03:09:00.000000,Data Center,Security,Medium,J. Alvarez,12.5,24,Yes,Reopened,4.0
+TCK-10090,2025-01-29 03:56:00,2025-01-30 18:39:12.000000,Corporate Office,Network,Low,J. Alvarez,38.72,72,Yes,Resolved,
+TCK-10021,2025-09-10 23:35:00,2025-09-11 01:41:36.000000,Corporate Office,Security,Critical,L. Costa,2.11,4,Yes,Resolved,4.0
+TCK-10878,2025-05-01 09:07:00,2025-05-01 10:26:12.000000,Remote/Branch,Software/Access,Critical,S. Priya,1.32,4,Yes,Resolved,5.0
+TCK-10854,2026-08-07 14:09:00,2026-08-08 20:29:24.000000,Remote/Branch,network,Low,K. Nandy,30.34,72,Yes,Resolved,3.0
+TCK-10803,2025-11-30 08:33:00,2025-11-30 14:50:24.000000,Remote/Branch,Software/Access,High,V. Rao,6.29,8,Yes,Resolved,3.0
+TCK-10143,2026-01-15 02:32:00,2026-01-20 13:59:11.588737,Corporate Office,Email,Low,K. Nandy,131.45321909360746,72,No,Resolved,5.0
+TCK-10049,2025-12-14 03:15:00,2025-12-21 00:03:36.000000,Data Center,Network,Low,M. Chen,164.81,72,No,Reopened,
+TCK-10436,2026-01-10 12:23:00,2026-01-10 15:01:24.000000,Corporate Office,Email,Medium,A. Kumar,2.64,24,Yes,Resolved,5.0
+TCK-10069,2026-07-11 22:19:00,,Corporate Office,Email,Low,,68.42,72,Yes,Escalated,2.0
+TCK-10604,2026-02-14 10:50:00,2026-02-16 06:14:36.000000,Corporate Office,Hardware,Low,T. Silva,43.41,72,Yes,Reopened,
+TCK-10437,2026-08-07 17:12:00,2026-08-08 13:42:36.000000,Corporate Office,Hardware,Low,K. Nandy,20.51,72,Yes,Resolved,3.0
+TCK-10282,2025-11-17 21:16:00,2025-11-18 04:39:24.000000,Remote/Branch,Hardware,Medium,K. Nandy,7.39,24,Yes,Resolved,3.0
+TCK-10968,2026-03-11 03:13:00,2026-03-11 19:26:12.000000,Corporate Office,Security,Medium,L. Costa,16.22,24,Yes,Resolved,
+TCK-10303,2025-02-26 00:13:00,2025-02-26 01:02:12.000000,Remote/Branch,Email,High,J. Alvarez,0.82,8,Yes,Resolved,4.0
+TCK-10082,2025-06-08 07:55:00,2025-06-16 10:29:12.000000,Maritime/Port,Network,Low,R. Fernandes,194.57,72,No,Resolved,5.0
+TCK-10314,2025-08-15 10:49:00,2025-08-17 01:27:58.599234,Corporate Office,software/access,Medium,R. Fernandes,38.64961089827515,24,No,Resolved,
+TCK-10310,2026-02-19 00:20:00,2026-02-19 13:33:12.000000,Remote/Branch,Network,High,R. Fernandes,13.22,8,No,Resolved,3.0
+TCK-10044,2025-03-14 16:15:00,2025-03-14 18:45:36.000000,Remote/Branch,Printer,Low,J. Alvarez,2.51,72,Yes,Resolved,4.0
+TCK-11104,2026-01-04 17:35:00,2026-01-05 13:41:36.000000,Corporate Office,Software/Access,High,J. Alvarez,20.11,8,No,Resolved,5.0
+TCK-11043,2025-05-01 16:00:00,,Corporate Office,network,High,T. Silva,11.85,8,No,Escalated,
+TCK-10173,2025-08-20 16:24:00,2025-08-20 22:19:12.000000,Corporate Office,Network,Medium,V. Rao,5.92,24,Yes,Resolved,3.0
+TCK-10621,2025-04-27 08:42:00,2025-04-30 07:04:12.000000,Corporate Office,Network,Medium,V. Rao,70.37,24,No,Resolved,5.0
+TCK-10776,2025-04-18 02:21:00,2025-04-18 06:22:48.000000,Maritime/Port,Network,Low,R. Fernandes,4.03,72,Yes,Resolved,4.0
+TCK-10957,2026-07-11 17:25:00,,Data Center,Network,Critical,S. Priya,9.24,4,No,Escalated,4.0
+TCK-10428,2025-05-25 03:03:00,,Remote/Branch,Printer,Medium,J. Alvarez,7.82,24,Yes,Escalated,5.0
+TCK-10911,2026-07-17 00:52:00,,Maritime/Port,Security,Low,S. Priya,112.36,72,No,Escalated,4.0
+TCK-11095,2026-02-15 08:28:00,,Corporate Office,Software/Access,Low,,12.07,72,Yes,Escalated,5.0
+TCK-11108,2026-04-03 02:24:00,,Maritime/Port,Security,Low,D. Iyer,38.13,72,Yes,Escalated,2.0
+TCK-10108,2026-01-29 15:25:00,2026-01-29 19:04:00.000000,Corporate Office,Network,High,M. Chen,3.65,8,Yes,Resolved,
+TCK-10142,2026-08-03 01:22:00,2026-08-03 03:28:00.000000,Corporate Office,Network,Medium,L. Costa,2.1,24,Yes,Resolved,
+TCK-10259,2026-01-12 17:57:00,2026-01-13 18:44:49.755536,Data Center,Hardware,High,K. Nandy,24.797154315633,8,No,Resolved,2.0
+TCK-10577,2025-10-04 03:08:00,,Maritime/Port,Software/Access,Low,S. Priya,46.11,72,Yes,Escalated,4.0
+TCK-10085,2025-04-21 12:55:00,2025-04-23 23:55:00.000000,Maritime/Port,Security,Medium,A. Kumar,59.0,24,No,Resolved,5.0
+TCK-10253,2025-02-08 09:31:00,,Remote/Branch,Security,Medium,S. Priya,106.31391452677438,24,No,Escalated,3.0
+TCK-10020,2026-02-10 20:29:00,2026-02-10 22:06:48.000000,Corporate Office,Hardware,Critical,R. Fernandes,1.63,4,Yes,Resolved,5.0
+TCK-10853,2025-06-04 04:12:00,2025-06-04 08:01:48.000000,Corporate Office,Hardware,High,K. Nandy,3.83,8,Yes,Resolved,
+TCK-10074,2025-09-15 01:05:00,,Maritime/Port,Hardware,Low,,14.23,72,Yes,Escalated,5.0
+TCK-10574,2025-03-26 08:09:00,,Corporate Office,network,Critical,T. Silva,3.3,4,Yes,Escalated,5.0
+TCK-10573,2025-03-29 19:18:00,2025-03-30 03:11:24.000000,Maritime/Port,Software/Access,Critical,M. Chen,7.89,4,No,Resolved,2.0
+TCK-10717,2025-08-26 16:26:00,2025-08-26 16:39:12.000000,Maritime/Port,Software/Access,Critical,K. Nandy,0.22,4,Yes,Resolved,1.0
+TCK-11026,2026-02-20 19:36:00,2026-02-21 14:10:12.000000,Corporate Office,Printer,Low,A. Kumar,18.57,72,Yes,Resolved,
+TCK-10489,2025-03-05 21:07:00,2025-03-07 06:07:00.000000,Remote/Branch,Software/Access,Medium,V. Rao,33.0,24,No,Resolved,3.0
+TCK-11144,2025-05-30 01:17:00,2025-06-01 00:22:08.410513,Corporate Office,Hardware,Medium,T. Silva,47.08566958705241,24,No,Resolved,3.0
+TCK-10086,2025-08-16 06:52:00,2025-08-18 07:45:24.000000,Corporate Office,Software/Access,Low,V. Rao,48.89,72,Yes,Reopened,3.0
+TCK-10372,2025-01-17 11:50:00,2025-01-17 23:36:48.000000,Corporate Office,Software/Access,Low,S. Priya,11.78,72,Yes,Resolved,5.0
+TCK-10200,2025-10-22 14:56:00,2025-10-23 14:09:12.000000,Corporate Office,Network,Low,V. Rao,23.22,72,Yes,Resolved,5.0
+TCK-10267,2025-01-27 04:00:00,2025-01-27 08:16:48.000000,Corporate Office,Security,Critical,K. Nandy,4.28,4,No,Resolved,
+TCK-11122,2026-01-01 10:55:00,2026-01-04 11:41:48.000000,Maritime/Port,VoIP,Low,V. Rao,-1.0,72,No,Resolved,3.0
+TCK-10418,2025-12-12 18:02:00,2025-12-13 05:33:22.750540,Data Center,VoIP,High,A. Kumar,11.522986261061098,8,No,Resolved,4.0
+TCK-10745,2026-02-02 08:11:00,2026-02-05 00:54:48.000000,Remote/Branch,Email,Medium,A. Kumar,64.73,24,No,Reopened,5.0
+TCK-10733,2026-01-17 21:40:00,2026-01-18 03:04:36.000000,Remote/Branch,Network,High,S. Priya,5.41,8,Yes,Resolved,5.0
+TCK-11194,2025-11-19 00:49:00,2025-11-19 01:11:48.000000,Corporate Office,Security,High,J. Alvarez,0.38,8,Yes,Resolved,2.0
+TCK-10971,2025-03-17 01:11:00,2025-03-17 03:36:48.000000,Corporate Office,Email,Medium,J. Alvarez,2.43,24,Yes,Resolved,4.0
+TCK-10393,2026-01-11 11:24:00,2026-01-13 05:42:03.172597,Maritime/Port,Software/Access,Medium,D. Iyer,42.30088127686717,24,No,Resolved,
+TCK-11085,2026-05-18 05:48:00,2026-05-18 08:35:24.000000,Remote/Branch,Software/Access,Medium,L. Costa,2.79,24,Yes,Resolved,5.0
+TCK-10016,2026-07-25 07:43:00,2026-07-30 20:47:12.000000,Corporate Office,Network,Low,K. Nandy,133.07,72,No,Resolved,5.0
+TCK-10222,2025-10-22 07:47:00,2025-10-26 21:08:36.000000,Remote/Branch,Email,Low,S. Priya,109.36,72,No,Resolved,3.0
+TCK-10998,2025-10-15 04:57:00,2025-10-15 06:27:00.000000,Remote/Branch,Hardware,High,L. Costa,1.5,8,Yes,Resolved,4.0
+TCK-10116,2025-09-02 08:28:00,2025-09-02 10:23:12.000000,Maritime/Port,Network,High,S. Priya,1.92,8,Yes,Reopened,2.0
+TCK-10961,2025-09-07 01:43:00,,Remote/Branch,Hardware,Low,K. Nandy,86.12,72,No,Escalated,4.0
+TCK-10304,2025-05-21 08:18:00,2025-05-21 15:46:48.000000,Maritime/Port,Security,Low,K. Nandy,7.48,72,Yes,Resolved,5.0
+TCK-10606,2026-07-26 18:44:00,2026-08-05 12:42:48.000000,Maritime/Port,Email,Low,D. Iyer,233.98,72,No,Resolved,1.0
+TCK-11174,2026-02-02 21:31:00,2026-02-06 11:43:00.000000,Data Center,Hardware,Low,L. Costa,86.2,72,No,Resolved,4.0
+TCK-10648,2025-05-16 07:09:00,2025-05-16 13:54:00.000000,Corporate Office,Software/Access,Medium,K. Nandy,6.75,24,Yes,Resolved,1.0
+TCK-10388,2026-03-31 11:28:00,,Data Center,VoIP,High,A. Kumar,9.98,8,No,Escalated,4.0
+TCK-10072,2026-07-21 04:17:00,2026-07-21 04:33:48.000000,Data Center,printer,Low,J. Alvarez,0.28,72,Yes,Resolved,4.0
+TCK-10954,2025-11-05 15:50:00,,Data Center,VoIP,Medium,D. Iyer,13.15,24,Yes,Escalated,5.0
+TCK-10898,2026-05-15 03:56:00,2026-05-15 10:02:00.000000,Remote/Branch,Software/Access,High,T. Silva,6.1,8,Yes,Resolved,4.0
+TCK-11180,2025-03-21 06:33:00,2025-03-22 08:54:00.000000,Corporate Office,Security,Low,S. Priya,26.35,72,Yes,Resolved,4.0
+TCK-10402,2025-03-08 17:34:00,2025-03-08 19:32:12.000000,Remote/Branch,Software/Access,Low,J. Alvarez,1.97,72,Yes,Resolved,4.0
+TCK-10923,2026-04-07 14:42:00,2026-04-07 15:03:00.000000,Corporate Office,Hardware,Medium,D. Iyer,0.35,24,Yes,Resolved,5.0
+TCK-10561,2025-02-13 07:13:00,2025-02-13 08:31:36.000000,Remote/Branch,Software/Access,High,D. Iyer,1.31,8,Yes,Resolved,4.0
+TCK-10730,2026-02-19 14:35:00,2026-02-23 12:03:48.000000,Corporate Office,Network,Low,L. Costa,93.48,72,No,Reopened,5.0
+TCK-10675,2025-09-11 08:41:00,2025-09-12 07:18:12.000000,Remote/Branch,Security,Low,S. Priya,22.62,72,Yes,Resolved,3.0
+TCK-10764,2025-10-29 04:11:00,2025-10-29 05:45:12.000000,Corporate Office,Printer,High,A. Kumar,1.57,8,Yes,Resolved,5.0
+TCK-10184,2026-08-06 09:28:00,,Corporate Office,Email,Low,S. Priya,22.09,72,Yes,Escalated,4.0
+TCK-10550,2026-07-19 13:00:00,2026-07-22 23:01:12.000000,Remote/Branch,Hardware,Low,A. Kumar,82.02,72,No,Resolved,3.0
+TCK-10857,2025-10-08 06:48:00,2025-10-14 21:44:24.000000,Remote/Branch,Email,Low,R. Fernandes,158.94,72,No,Resolved,4.0
+TCK-11167,2026-06-03 12:46:00,2026-06-09 14:15:24.000000,Data Center,Network,Low,R. Fernandes,145.49,72,No,Resolved,4.0
+TCK-10736,2026-04-18 01:10:00,2026-04-19 04:31:00.000000,Data Center,Hardware,Low,D. Iyer,27.35,72,Yes,Resolved,5.0
+TCK-10174,2025-11-01 18:27:00,2025-11-01 19:48:00.000000,Corporate Office,Network,Critical,J. Alvarez,1.35,4,Yes,Resolved,5.0
+TCK-11071,2026-07-31 15:49:00,2026-08-01 08:37:00.000000,Maritime/Port,Hardware,Medium,M. Chen,16.8,24,Yes,Resolved,4.0
+TCK-10145,2026-04-16 22:09:00,2026-04-17 06:13:48.000000,Corporate Office,Network,Low,T. Silva,8.08,72,Yes,Resolved,4.0
+TCK-10419,2026-08-14 08:41:00,2026-08-14 10:50:36.000000,Corporate Office,Hardware,High,M. Chen,2.16,8,Yes,Reopened,5.0
+TCK-11032,2025-04-22 00:12:00,,Corporate Office,Hardware,Medium,,7.27,24,Yes,Escalated,4.0
+TCK-10806,2026-08-26 18:48:00,,Data Center,network,High,S. Priya,3.41,8,Yes,Escalated,4.0
+TCK-10933,2025-10-25 21:22:00,2025-10-26 18:41:12.000000,Remote/Branch,Hardware,High,R. Fernandes,21.32,8,No,Resolved,2.0
+TCK-10934,2025-07-02 16:34:00,2025-07-03 07:53:12.000000,Remote/Branch,Printer,Low,K. Nandy,15.32,72,Yes,Reopened,5.0
+TCK-10587,2025-07-20 14:06:00,2025-07-23 01:13:12.000000,Corporate Office,Security,Low,R. Fernandes,59.12,72,Yes,Resolved,4.0
+TCK-10516,2025-02-19 07:47:00,2025-02-19 11:55:24.000000,Maritime/Port,Network,High,A. Kumar,4.14,8,Yes,Resolved,1.0
+TCK-10913,2026-04-13 10:23:00,2026-04-13 10:35:36.000000,Corporate Office,VoIP,High,A. Kumar,0.21,8,Yes,Resolved,4.0
+TCK-10230,2025-01-10 14:57:00,2025-01-13 20:56:24.000000,Corporate Office,Hardware,Low,J. Alvarez,77.99,72,No,Resolved,1.0
+TCK-10218,2025-06-08 02:30:00,,Corporate Office,Hardware,Medium,J. Alvarez,23.87,24,Yes,Escalated,5.0
+TCK-11040,2025-05-18 08:30:00,2025-05-18 08:40:48.000000,Data Center,Software/Access,Critical,M. Chen,0.18,4,Yes,Resolved,4.0
+TCK-10575,2025-06-07 23:24:00,2025-06-08 13:45:36.000000,Corporate Office,Hardware,Low,K. Nandy,14.36,72,Yes,Resolved,4.0
+TCK-10569,2025-03-19 10:38:00,2025-03-20 14:50:00.000000,Corporate Office,Software/Access,Low,D. Iyer,28.2,72,Yes,Reopened,4.0
+TCK-10189,2025-01-22 21:52:00,2025-01-22 21:53:12.000000,Corporate Office,VoIP,High,J. Alvarez,0.02,8,Yes,Resolved,
+TCK-10880,2026-01-02 22:26:00,,Remote/Branch,Software/Access,Low,J. Alvarez,11.56,72,Yes,Escalated,3.0
+TCK-10065,2025-11-04 14:20:00,2025-11-04 22:57:38.455855,Corporate Office,Hardware,Critical,S. Priya,8.627348848679198,4,No,Reopened,
+TCK-10747,2026-04-29 16:22:00,2026-04-29 18:38:48.000000,Corporate Office,Printer,Medium,D. Iyer,2.28,24,Yes,Resolved,5.0
+TCK-10507,2026-03-07 11:57:00,2026-03-07 18:40:12.000000,Remote/Branch,Printer,Medium,T. Silva,6.72,24,Yes,Resolved,5.0
+TCK-10883,2025-04-02 03:53:00,2025-04-03 16:08:36.000000,Remote/Branch,hardware,Low,D. Iyer,36.26,72,Yes,Resolved,5.0
+TCK-10255,2026-07-08 13:37:00,2026-07-08 20:32:12.000000,Remote/Branch,Hardware,High,R. Fernandes,6.92,8,Yes,Resolved,
+TCK-10660,2025-11-06 05:55:00,2025-11-18 05:09:05.652533,Corporate Office,Security,Low,J. Alvarez,287.23490348137886,72,No,Reopened,5.0
+TCK-10582,2025-09-06 18:33:00,2025-09-06 22:22:48.000000,Data Center,Hardware,High,R. Fernandes,3.83,8,Yes,Resolved,4.0
+TCK-10175,2025-03-03 19:47:00,2025-03-03 22:48:48.000000,Corporate Office,Security,High,S. Priya,3.03,8,Yes,Resolved,5.0
+TCK-10551,2025-10-09 17:18:00,,Remote/Branch,Hardware,Medium,,23.13,24,Yes,Escalated,5.0
+TCK-10214,2026-01-26 12:42:00,2026-01-26 13:01:12.000000,Remote/Branch,Software/Access,High,R. Fernandes,0.32,8,Yes,Resolved,3.0
+TCK-10334,2026-01-31 09:16:00,2026-01-31 13:44:12.000000,Data Center,Network,Medium,D. Iyer,4.47,24,Yes,Resolved,5.0
+TCK-10177,2025-06-10 07:11:00,2025-06-11 15:19:48.021965,Maritime/Port,Email,Medium,L. Costa,32.1466727681322,24,No,Resolved,3.0
+TCK-10081,2025-12-29 17:56:00,2025-12-29 20:28:24.000000,Remote/Branch,Security,High,T. Silva,2.54,8,Yes,Resolved,
+TCK-10289,2025-08-18 03:22:00,2025-08-18 15:08:12.000000,Maritime/Port,Security,High,L. Costa,11.77,8,No,Resolved,4.0
+TCK-10956,2025-07-08 16:04:00,2025-07-09 23:44:12.000000,Corporate Office,Printer,Low,L. Costa,31.67,72,Yes,Resolved,4.0
+TCK-10373,2025-04-17 18:47:00,2025-04-18 02:24:12.000000,Corporate Office,Software/Access,Low,K. Nandy,7.62,72,Yes,Resolved,3.0
+TCK-10727,2025-02-11 06:53:00,2025-02-11 14:54:48.000000,Maritime/Port,Network,High,K. Nandy,8.03,8,No,Resolved,4.0
+TCK-10526,2025-03-01 17:26:00,2025-03-01 21:10:24.000000,Corporate Office,Network,High,T. Silva,3.74,8,Yes,Resolved,3.0
+TCK-10252,2025-11-06 20:26:00,,Corporate Office,Security,Medium,,13.45,24,Yes,Escalated,1.0
+TCK-10586,2025-09-10 23:40:00,2025-09-16 11:13:36.000000,Maritime/Port,Hardware,Low,V. Rao,131.56,72,No,Resolved,2.0
+TCK-11050,2025-05-02 23:14:00,2025-05-03 16:44:00.000000,Corporate Office,Printer,High,V. Rao,17.5,8,No,Resolved,4.0
+TCK-11136,2026-06-29 08:26:00,2026-06-30 06:11:36.000000,Corporate Office,VoIP,Medium,M. Chen,21.76,24,Yes,Resolved,5.0
+TCK-10908,2026-03-31 18:28:00,2026-03-31 22:55:00.000000,Corporate Office,Hardware,Critical,S. Priya,4.45,4,No,Resolved,5.0
+TCK-11131,2025-10-27 19:14:00,2025-10-27 21:16:24.000000,Corporate Office,VoIP,High,A. Kumar,2.04,8,Yes,Resolved,5.0
+TCK-10484,2026-02-20 13:32:00,2026-02-27 22:55:03.228124,Corporate Office,Hardware,Low,K. Nandy,177.3842300344987,72,No,Reopened,
+TCK-10235,2025-10-30 00:53:00,,Corporate Office,email,Medium,,1.61,24,Yes,Escalated,5.0
+TCK-10410,2026-06-14 11:08:00,2026-06-17 04:48:48.000000,Maritime/Port,Software/Access,Medium,L. Costa,65.68,24,No,Resolved,1.0
+TCK-10171,2025-02-24 04:09:00,2025-02-24 10:16:12.000000,Maritime/Port,Hardware,High,D. Iyer,6.12,8,Yes,Resolved,4.0
+TCK-10841,2026-05-25 09:16:00,2026-05-25 21:30:24.000000,Remote/Branch,Security,Medium,T. Silva,12.24,24,Yes,Resolved,5.0
+TCK-10820,2026-06-03 12:08:00,2026-06-03 15:33:12.000000,Remote/Branch,Software/Access,Medium,L. Costa,3.42,24,Yes,Resolved,1.0
+TCK-10019,2026-08-04 22:20:00,2026-08-05 21:54:48.000000,Remote/Branch,Printer,Low,M. Chen,23.58,72,Yes,Resolved,
+TCK-10236,2026-08-03 21:49:00,2026-08-04 14:37:00.000000,Remote/Branch,Security,Medium,A. Kumar,16.8,24,Yes,Resolved,
+TCK-10500,2025-02-26 14:08:00,2025-02-26 14:22:24.000000,Corporate Office,Network,Critical,L. Costa,0.24,4,Yes,Resolved,4.0
+TCK-10202,2026-07-20 13:05:00,2026-07-20 13:41:36.000000,Remote/Branch,VoIP,Medium,M. Chen,0.61,24,Yes,Resolved,
+TCK-10704,2025-09-12 13:58:00,2025-09-13 17:42:24.000000,Remote/Branch,Network,Medium,K. Nandy,27.74,24,No,Resolved,5.0
+TCK-10836,2025-10-17 09:43:00,,Remote/Branch,Security,Critical,S. Priya,3.64,4,Yes,Escalated,
+TCK-10825,2026-04-02 05:55:00,2026-04-03 10:25:36.000000,Remote/Branch,Network,Medium,V. Rao,28.51,24,No,Resolved,4.0
+TCK-10464,2026-01-24 12:52:00,2026-01-26 14:53:12.000000,Remote/Branch,Hardware,Medium,K. Nandy,50.02,24,No,Resolved,5.0
+TCK-10922,2025-02-17 20:53:00,2025-02-19 02:58:24.000000,Remote/Branch,Printer,Low,D. Iyer,30.09,72,Yes,Resolved,5.0
+TCK-10617,2026-03-19 12:01:00,2026-03-20 04:26:12.000000,Corporate Office,Email,Medium,D. Iyer,16.42,24,Yes,Reopened,4.0
+TCK-11149,2025-11-16 10:10:00,2025-11-17 01:36:24.000000,Corporate Office,Network,Medium,A. Kumar,15.44,24,Yes,Resolved,5.0
+TCK-10667,2026-05-05 02:14:00,2026-05-05 16:49:47.985292,Data Center,Hardware,High,T. Silva,14.596662581194614,8,No,Resolved,4.0
+TCK-10441,2026-01-10 04:12:00,2026-01-10 04:16:48.000000,Remote/Branch,Software/Access,Critical,D. Iyer,0.08,4,Yes,Resolved,5.0
+TCK-10538,2025-11-24 06:23:00,2025-11-24 09:17:00.000000,Corporate Office,Network,High,K. Nandy,2.9,8,Yes,Resolved,5.0
+TCK-11116,2025-03-23 06:10:00,2025-03-27 06:53:12.000000,Data Center,Network,Low,T. Silva,96.72,72,No,Reopened,
+TCK-10786,2025-04-10 00:13:00,2025-04-10 17:16:36.000000,Remote/Branch,Software/Access,Low,R. Fernandes,17.06,72,Yes,Reopened,5.0
+TCK-10787,2025-03-25 15:54:00,2025-03-27 09:23:24.000000,Corporate Office,Printer,Low,S. Priya,41.49,72,Yes,Resolved,5.0
+TCK-10871,2025-02-08 12:56:00,2025-02-08 14:58:24.000000,Corporate Office,Hardware,Critical,J. Alvarez,2.04,4,Yes,Resolved,2.0
+TCK-10698,2026-05-24 14:32:00,2026-05-25 02:45:32.625327,Corporate Office,VoIP,Critical,K. Nandy,12.225729257479852,4,No,Resolved,4.0
+TCK-11142,2025-01-16 15:13:00,2025-01-17 05:35:12.000000,Data Center,software/access,Medium,K. Nandy,14.37,24,Yes,Resolved,5.0
+TCK-10625,2025-11-17 03:15:00,2025-11-17 06:39:00.000000,Corporate Office,VoIP,Low,J. Alvarez,3.4,72,Yes,Resolved,4.0
+TCK-10406,2026-01-13 14:51:00,2026-01-13 18:39:36.000000,Maritime/Port,Software/Access,Medium,L. Costa,3.81,24,Yes,Resolved,5.0
+TCK-10960,2025-01-10 03:42:00,2025-01-10 07:09:36.000000,Corporate Office,VoIP,Medium,K. Nandy,3.46,24,Yes,Resolved,4.0
+TCK-10054,2025-06-18 12:00:00,2025-06-18 22:28:48.000000,Data Center,Network,Medium,T. Silva,10.48,24,Yes,Resolved,4.0
+TCK-10501,2026-08-01 01:35:00,2026-08-13 00:32:36.000000,Remote/Branch,Email,Low,V. Rao,286.96,72,No,Resolved,3.0
+TCK-10337,2025-03-28 09:35:00,2025-03-29 22:42:12.000000,Corporate Office,Hardware,Low,T. Silva,37.12,72,Yes,Resolved,4.0
+TCK-10869,2025-08-18 23:08:00,2025-08-22 14:23:00.000000,Maritime/Port,Hardware,Medium,M. Chen,87.25,24,No,Reopened,4.0
+TCK-10244,2025-10-30 23:55:00,2025-11-01 04:05:12.000000,Remote/Branch,Software/Access,Medium,K. Nandy,28.17,24,No,Resolved,4.0
+TCK-10377,2025-07-26 01:50:00,2025-07-26 02:50:00.000000,Data Center,Email,Critical,M. Chen,1.0,4,Yes,Resolved,4.0
+TCK-10866,2026-06-17 19:33:00,2026-06-19 21:19:12.000000,Corporate Office,Network,Low,K. Nandy,49.77,72,Yes,Resolved,3.0
+TCK-10342,2025-04-14 16:49:00,,Remote/Branch,VoIP,Medium,,14.0,24,Yes,Escalated,3.0
+TCK-10035,2025-09-04 18:05:00,2025-09-05 16:16:24.000000,Corporate Office,Hardware,Low,S. Priya,22.19,72,Yes,Reopened,5.0
+TCK-11059,2025-02-04 19:32:00,2025-02-05 18:32:36.000000,Remote/Branch,VoIP,Medium,L. Costa,23.01,24,Yes,Reopened,5.0
+TCK-10535,2025-10-17 12:29:00,,Corporate Office,Email,Medium,L. Costa,15.6,24,Yes,Escalated,
+TCK-10490,2026-02-20 21:32:00,2026-02-21 02:32:00.000000,Corporate Office,Hardware,High,J. Alvarez,5.0,8,Yes,Resolved,3.0
+TCK-10695,2025-10-03 23:56:00,2025-10-06 19:00:48.000000,Maritime/Port,Hardware,Low,S. Priya,67.08,72,Yes,Resolved,3.0
+TCK-10463,2025-10-08 09:07:00,,Corporate Office,Hardware,Medium,,65.62,24,No,Escalated,1.0
+TCK-10411,2025-07-06 04:27:00,2025-07-06 05:21:00.000000,Data Center,Email,High,L. Costa,0.9,8,Yes,Resolved,4.0
+TCK-10518,2025-10-24 07:52:00,2025-10-24 11:05:12.000000,Remote/Branch,Hardware,Medium,D. Iyer,3.22,24,Yes,Resolved,3.0
+TCK-10293,2025-12-26 00:11:00,2025-12-29 10:29:36.000000,Corporate Office,Network,Low,R. Fernandes,82.31,72,No,Reopened,4.0
+TCK-10783,2025-04-09 01:25:00,2025-04-09 02:52:00.000000,Corporate Office,Printer,High,D. Iyer,1.45,8,Yes,Resolved,2.0
+TCK-10773,2026-01-20 03:53:00,2026-01-20 04:36:12.000000,Corporate Office,Printer,High,V. Rao,0.72,8,Yes,Resolved,2.0
+TCK-10060,2025-07-10 02:38:00,2025-07-12 02:24:12.000000,Corporate Office,Network,Medium,S. Priya,47.77,24,No,Resolved,5.0
+TCK-10084,2025-12-07 13:51:00,2025-12-12 12:33:36.000000,Data Center,Hardware,Low,M. Chen,118.71,72,No,Resolved,5.0
+TCK-10506,2026-02-23 05:49:00,2026-02-25 05:18:24.000000,Remote/Branch,Security,Low,R. Fernandes,47.49,72,Yes,Resolved,2.0
+TCK-11005,2025-01-11 21:15:00,2025-01-14 17:13:12.000000,Maritime/Port,VoIP,Low,D. Iyer,67.97,72,Yes,Resolved,4.0
+TCK-10283,2026-05-01 02:05:00,2026-05-08 07:17:09.822531,Maritime/Port,Software/Access,Low,S. Priya,-1.0,72,No,Resolved,
+TCK-10915,2026-01-08 22:28:00,2026-01-12 02:44:24.858480,Maritime/Port,Hardware,Medium,S. Priya,76.27357179991023,24,No,Resolved,5.0
+TCK-10722,2025-10-06 07:04:00,2025-10-06 14:46:36.000000,Data Center,Hardware,Low,M. Chen,7.71,72,Yes,Resolved,2.0
+TCK-10456,2026-06-16 06:35:00,2026-06-16 15:16:24.000000,Remote/Branch,Security,Medium,K. Nandy,8.69,24,Yes,Resolved,4.0
+TCK-10817,2025-04-02 06:28:00,,Corporate Office,Email,Low,M. Chen,3.45,72,Yes,Escalated,
+TCK-11078,2025-12-29 06:57:00,2025-12-31 12:16:48.000000,Data Center,software/access,Low,D. Iyer,53.33,72,Yes,Resolved,4.0
+TCK-11063,2026-06-15 00:47:00,2026-06-15 10:11:00.000000,Maritime/Port,Network,Medium,S. Priya,9.4,24,Yes,Resolved,5.0
+TCK-11056,2026-02-15 19:41:00,2026-02-16 01:59:00.000000,Data Center,Hardware,High,L. Costa,6.3,8,Yes,Resolved,4.0
+TCK-11097,2025-08-30 17:27:00,2025-08-30 18:44:24.000000,Corporate Office,Software/Access,High,T. Silva,1.29,8,Yes,Resolved,4.0
+TCK-10684,2026-02-12 16:18:00,2026-02-14 06:41:24.000000,Remote/Branch,Email,Low,L. Costa,38.39,72,Yes,Resolved,2.0
+TCK-10100,2025-11-05 12:35:00,2025-11-05 17:35:36.000000,Corporate Office,Hardware,Medium,A. Kumar,5.01,24,Yes,Resolved,4.0
+TCK-10453,2025-04-23 06:01:00,2025-04-23 06:45:24.000000,Remote/Branch,Software/Access,Medium,V. Rao,0.74,24,Yes,Resolved,3.0
+TCK-10864,2025-04-16 12:32:00,2025-04-16 13:14:36.000000,Maritime/Port,Hardware,Critical,D. Iyer,0.71,4,Yes,Resolved,5.0
+TCK-10321,2026-04-26 14:40:00,,Corporate Office,Network,Low,J. Alvarez,15.99,72,Yes,Escalated,
+TCK-10431,2026-05-26 16:29:00,2026-05-29 22:26:36.000000,Maritime/Port,Email,Low,V. Rao,77.96,72,No,Resolved,4.0
+TCK-10333,2025-12-09 02:21:00,2025-12-09 02:54:36.000000,Data Center,Network,High,S. Priya,0.56,8,Yes,Resolved,5.0
+TCK-10914,2026-04-11 10:35:00,2026-04-11 20:28:24.000000,Data Center,Printer,Medium,D. Iyer,9.89,24,Yes,Resolved,2.0
+TCK-10467,2026-05-06 06:12:00,2026-05-09 23:12:00.000000,Corporate Office,Network,Low,L. Costa,89.0,72,No,Resolved,4.0
+TCK-10339,2026-03-10 16:23:00,2026-03-16 03:05:00.000000,Remote/Branch,Network,Low,A. Kumar,130.7,72,No,Resolved,4.0
+TCK-10050,2026-04-05 04:27:00,2026-04-08 10:19:48.000000,Data Center,Network,Low,R. Fernandes,77.88,72,No,Resolved,5.0
+TCK-10209,2025-11-02 18:37:00,2025-11-02 20:48:24.000000,Data Center,Network,Medium,V. Rao,2.19,24,Yes,Resolved,4.0
+TCK-11119,2025-06-09 02:41:00,2025-06-10 13:12:48.000000,Maritime/Port,Printer,Low,T. Silva,34.53,72,Yes,Resolved,3.0
+TCK-11165,2026-07-22 05:04:00,,Corporate Office,Software/Access,High,L. Costa,0.3,8,Yes,Escalated,5.0
+TCK-10250,2026-07-29 10:58:00,2026-07-29 16:13:36.000000,Remote/Branch,Email,Low,D. Iyer,5.26,72,Yes,Resolved,3.0
+TCK-10706,2025-02-23 05:14:00,2025-02-24 16:26:36.000000,Remote/Branch,Network,Medium,L. Costa,35.21,24,No,Resolved,5.0
+TCK-10873,2025-01-21 01:44:00,2025-01-21 04:48:48.000000,Corporate Office,Security,Critical,S. Priya,3.08,4,Yes,Resolved,5.0
+TCK-10167,2026-05-18 03:55:00,2026-05-18 06:41:48.000000,Corporate Office,Software/Access,Low,A. Kumar,2.78,72,Yes,Resolved,5.0
+TCK-10932,2026-07-21 20:13:00,2026-07-21 20:59:12.000000,Data Center,Hardware,Critical,M. Chen,0.77,4,Yes,Resolved,4.0
+TCK-10003,2026-06-02 19:01:00,2026-06-06 13:55:00.000000,Corporate Office,Software/Access,Low,L. Costa,90.9,72,No,Resolved,5.0
+TCK-10842,2025-02-06 18:45:00,,Data Center,Printer,Medium,D. Iyer,8.64,24,Yes,Escalated,3.0
+TCK-10941,2026-07-09 01:22:00,,Remote/Branch,Network,High,V. Rao,4.97,8,Yes,Escalated,4.0
+TCK-10392,2026-03-25 01:08:00,2026-03-25 10:22:24.000000,Data Center,Hardware,Medium,S. Priya,9.24,24,Yes,Resolved,3.0
+TCK-10133,2025-12-25 07:41:00,2025-12-26 23:43:24.000000,Data Center,Printer,Low,S. Priya,40.04,72,Yes,Resolved,
+TCK-10703,2025-02-06 17:51:00,2025-02-08 01:51:00.000000,Data Center,Software/Access,Low,T. Silva,32.0,72,Yes,Reopened,4.0
+TCK-10637,2025-04-26 18:07:00,2025-04-27 00:36:24.000000,Data Center,Email,High,J. Alvarez,6.49,8,Yes,Resolved,4.0
+TCK-10638,2026-01-11 17:52:00,,Remote/Branch,Software/Access,Medium,A. Kumar,5.45,24,Yes,Escalated,5.0
+TCK-10709,2026-01-13 06:18:00,,Corporate Office,Network,Medium,D. Iyer,7.5,24,Yes,Escalated,3.0
+TCK-10608,2025-06-04 11:01:00,2025-06-07 01:56:48.000000,Corporate Office,Software/Access,Low,V. Rao,62.93,72,Yes,Resolved,5.0
+TCK-11031,2026-08-28 02:14:00,2026-08-28 08:33:48.000000,Remote/Branch,Software/Access,Medium,T. Silva,6.33,24,Yes,Resolved,4.0
+TCK-11010,2025-07-31 16:58:00,2025-07-31 19:00:24.000000,Remote/Branch,Software/Access,Medium,K. Nandy,2.04,24,Yes,Resolved,
+TCK-10775,2025-03-17 01:18:00,2025-03-17 02:57:36.000000,Corporate Office,Hardware,Medium,A. Kumar,1.66,24,Yes,Resolved,1.0
+TCK-10001,2025-05-23 23:06:00,2025-05-25 14:59:16.269560,Corporate Office,Software/Access,Medium,L. Costa,39.887852655649,24,No,Resolved,4.0
+TCK-10370,2026-06-04 17:01:00,2026-06-05 04:35:12.000000,Data Center,Network,Medium,T. Silva,11.57,24,Yes,Resolved,5.0
+TCK-10940,2025-03-05 22:50:00,2025-03-06 01:15:48.000000,Remote/Branch,Email,Critical,J. Alvarez,2.43,4,Yes,Reopened,3.0
+TCK-11188,2025-11-29 11:26:00,2025-11-29 17:13:24.000000,Maritime/Port,Hardware,High,T. Silva,5.79,8,Yes,Resolved,2.0
+TCK-11111,2025-12-18 07:20:00,,Remote/Branch,Printer,Critical,,2.68,4,Yes,Escalated,4.0
+TCK-11066,2025-07-19 14:59:00,2025-07-21 03:08:36.000000,Remote/Branch,VoIP,Medium,T. Silva,36.16,24,No,Resolved,5.0
+TCK-11002,2026-07-07 15:41:00,2026-07-08 07:11:00.000000,Remote/Branch,Software/Access,Low,R. Fernandes,15.5,72,Yes,Resolved,4.0
+TCK-10005,2025-01-07 05:44:00,2025-01-07 10:53:00.000000,Data Center,Network,High,T. Silva,5.15,8,Yes,Resolved,4.0
+TCK-10110,2026-06-15 14:03:00,2026-06-16 02:01:48.000000,Corporate Office,Network,Medium,L. Costa,11.98,24,Yes,Reopened,4.0
+TCK-10353,2025-10-19 02:48:00,2025-10-19 03:28:48.000000,Remote/Branch,Software/Access,Critical,R. Fernandes,0.68,4,Yes,Resolved,5.0
+TCK-10198,2026-01-06 19:48:00,2026-01-12 15:29:24.000000,Corporate Office,Security,Low,V. Rao,139.69,72,No,Resolved,
+TCK-10680,2025-01-13 11:59:00,2025-01-13 12:44:36.000000,Data Center,Printer,Critical,K. Nandy,0.76,4,Yes,Resolved,2.0
+TCK-10413,2025-06-15 10:59:00,2025-06-15 11:05:36.000000,Maritime/Port,Email,High,M. Chen,0.11,8,Yes,Resolved,5.0
+TCK-10664,2025-01-02 06:30:00,2025-01-02 06:52:12.000000,Corporate Office,Printer,Critical,S. Priya,0.37,4,Yes,Resolved,
+TCK-10768,2025-11-24 05:40:00,2025-11-28 14:59:12.000000,Maritime/Port,Software/Access,Medium,S. Priya,105.32,24,No,Resolved,3.0
+TCK-10662,2025-06-19 01:25:00,,Data Center,Hardware,Medium,J. Alvarez,2.92,24,Yes,Escalated,5.0
+TCK-10047,2025-04-10 21:27:00,2025-04-11 14:58:48.000000,Corporate Office,Software/Access,Low,K. Nandy,17.53,72,Yes,Resolved,
+TCK-10391,2025-06-13 00:09:00,2025-06-13 08:33:00.000000,Corporate Office,Network,Medium,D. Iyer,8.4,24,Yes,Resolved,2.0
+TCK-10034,2025-04-25 11:56:00,2025-04-25 14:38:36.000000,Remote/Branch,Email,High,J. Alvarez,2.71,8,Yes,Resolved,2.0
+TCK-10572,2026-01-20 13:11:00,,Corporate Office,Email,Low,D. Iyer,168.75,72,No,Escalated,1.0
+TCK-10564,2025-11-19 00:13:00,2025-11-20 13:34:00.000000,Data Center,Email,Medium,D. Iyer,37.35,24,No,Resolved,3.0
+TCK-10699,2026-08-04 05:23:00,2026-08-04 08:06:12.000000,Remote/Branch,Software/Access,Medium,R. Fernandes,2.72,24,Yes,Resolved,4.0
+TCK-11152,2025-08-12 03:15:00,2025-08-12 20:59:24.000000,Data Center,Printer,Low,T. Silva,17.74,72,Yes,Resolved,5.0
+TCK-10693,2025-06-17 15:22:00,2025-06-18 10:42:24.000000,Remote/Branch,Email,Low,L. Costa,19.34,72,Yes,Resolved,5.0
+TCK-10262,2025-02-21 10:15:00,,Remote/Branch,Network,Medium,R. Fernandes,23.44,24,Yes,Escalated,4.0
+TCK-10964,2026-06-05 14:31:00,2026-06-06 01:09:24.000000,Remote/Branch,Software/Access,Low,A. Kumar,10.64,72,Yes,Resolved,5.0
+TCK-10671,2025-06-18 14:22:00,2025-06-25 03:30:24.000000,Data Center,Network,Low,M. Chen,157.14,72,No,Resolved,2.0
+TCK-10067,2025-09-29 04:59:00,2025-09-29 22:30:12.000000,Corporate Office,Software/Access,Low,K. Nandy,17.52,72,Yes,Resolved,5.0
+TCK-11125,2026-08-01 13:33:00,2026-08-03 10:50:24.000000,Data Center,Network,Medium,L. Costa,45.29,24,No,Resolved,4.0
+TCK-10139,2025-11-16 18:43:00,2025-11-17 04:02:48.000000,Data Center,Software/Access,Medium,T. Silva,9.33,24,Yes,Resolved,3.0
+TCK-10029,2026-03-22 05:29:00,2026-03-29 04:48:12.000000,Remote/Branch,Software/Access,Low,A. Kumar,167.32,72,No,Resolved,5.0
+TCK-10425,2025-11-23 23:55:00,2025-11-24 03:39:24.000000,Remote/Branch,Hardware,Low,K. Nandy,3.74,72,Yes,Resolved,3.0
+TCK-10038,2026-03-10 06:59:00,2026-03-11 17:23:00.000000,Maritime/Port,Printer,Medium,L. Costa,34.4,24,No,Resolved,4.0
+TCK-10423,2025-06-11 14:26:00,2025-06-11 17:40:24.000000,Remote/Branch,VoIP,Medium,V. Rao,3.24,24,Yes,Resolved,5.0
+TCK-10389,2025-12-28 19:27:00,2025-12-29 09:35:24.000000,Corporate Office,Software/Access,Medium,J. Alvarez,14.14,24,Yes,Resolved,5.0
+TCK-10639,2026-03-28 17:13:00,2026-03-29 06:38:12.000000,Data Center,Software/Access,Low,T. Silva,13.42,72,Yes,Resolved,
+TCK-11126,2025-12-22 15:34:00,2025-12-22 22:43:00.000000,Corporate Office,Network,High,M. Chen,7.15,8,Yes,Resolved,
+TCK-11170,2026-07-19 04:39:00,2026-07-19 06:22:12.000000,Corporate Office,Security,High,J. Alvarez,1.72,8,Yes,Resolved,4.0
+TCK-10062,2025-02-10 19:05:00,2025-02-11 03:20:00.000000,Data Center,Hardware,High,T. Silva,8.25,8,No,Resolved,5.0
+TCK-11003,2025-08-17 18:46:00,2025-08-18 00:03:24.000000,Remote/Branch,Software/Access,Low,J. Alvarez,5.29,72,Yes,Resolved,4.0
+TCK-10099,2026-01-24 21:47:00,,Maritime/Port,Network,Low,R. Fernandes,161.32,72,No,Escalated,3.0
+TCK-10546,2025-03-18 21:03:00,2025-03-18 22:42:36.000000,Remote/Branch,Printer,Medium,A. Kumar,1.66,24,Yes,Resolved,4.0
+TCK-10788,2026-02-12 15:31:00,2026-02-13 03:38:18.293518,Maritime/Port,VoIP,High,J. Alvarez,12.121748199368469,8,No,Resolved,4.0
+TCK-11124,2026-07-07 05:37:00,2026-07-07 21:12:24.000000,Data Center,Hardware,Medium,D. Iyer,15.59,24,Yes,Resolved,5.0
+TCK-11048,2026-01-15 17:35:00,2026-01-16 13:06:12.000000,Corporate Office,Printer,Low,V. Rao,19.52,72,Yes,Resolved,5.0
+TCK-10991,2025-07-18 10:31:00,2025-07-18 11:49:00.000000,Data Center,Printer,High,V. Rao,1.3,8,Yes,Resolved,4.0
+TCK-10285,2026-07-24 01:37:00,2026-07-24 01:56:48.000000,Remote/Branch,Network,Medium,L. Costa,0.33,24,Yes,Resolved,3.0
+TCK-11161,2026-01-02 23:08:00,2026-01-02 23:27:48.000000,Corporate Office,Network,Critical,J. Alvarez,0.33,4,Yes,Resolved,4.0
+TCK-11169,2026-07-06 12:12:00,2026-07-06 17:39:36.000000,Remote/Branch,Email,Low,L. Costa,5.46,72,Yes,Reopened,5.0
+TCK-10912,2025-11-08 16:35:00,,Corporate Office,Email,Critical,M. Chen,1.31,4,Yes,Escalated,
+TCK-10170,2025-03-08 12:31:00,2025-03-10 04:50:48.000000,Maritime/Port,Network,High,S. Priya,40.33,8,No,Resolved,5.0
+TCK-10598,2025-11-07 07:16:00,,Corporate Office,Software/Access,Medium,R. Fernandes,7.79,24,Yes,Escalated,4.0
+TCK-10779,2025-02-01 13:41:00,2025-02-22 10:59:00.000000,Maritime/Port,VoIP,Low,R. Fernandes,501.3,72,No,Resolved,5.0
+TCK-10064,2025-11-18 07:16:00,2025-11-18 07:18:24.000000,Remote/Branch,Hardware,High,T. Silva,0.04,8,Yes,Resolved,5.0
+TCK-10981,2026-01-18 00:35:00,2026-01-18 02:05:36.000000,Remote/Branch,Software/Access,High,L. Costa,1.51,8,Yes,Resolved,4.0
+TCK-11018,2025-08-24 02:32:00,2025-08-25 08:52:24.000000,Remote/Branch,Network,Medium,J. Alvarez,30.34,24,No,Resolved,2.0
+TCK-10258,2026-04-01 07:54:00,2026-04-04 04:41:40.394621,Corporate Office,Hardware,Medium,K. Nandy,68.7945540613616,24,No,Resolved,
+TCK-10347,2026-04-05 07:34:00,2026-04-05 07:43:00.000000,Corporate Office,Printer,Medium,M. Chen,0.15,24,Yes,Resolved,
+TCK-10320,2025-11-27 20:20:00,2025-11-28 00:10:24.000000,Remote/Branch,Hardware,Medium,R. Fernandes,3.84,24,Yes,Resolved,
+TCK-11001,2025-08-06 01:35:00,2025-08-25 07:05:00.000000,Remote/Branch,Network,Low,J. Alvarez,461.5,72,No,Resolved,5.0
+TCK-10380,2025-07-15 09:22:00,2025-07-15 10:55:36.000000,Corporate Office,network,Medium,A. Kumar,1.56,24,Yes,Resolved,4.0
+TCK-10559,2025-03-26 15:54:00,2025-03-26 22:00:36.000000,Remote/Branch,Software/Access,High,T. Silva,6.11,8,Yes,Resolved,4.0
+TCK-10194,2025-10-23 21:25:00,2025-10-24 03:46:01.241858,Corporate Office,Printer,Critical,L. Costa,6.350344960522528,4,No,Reopened,5.0
+TCK-10479,2025-04-20 10:18:00,2025-04-21 00:03:00.000000,Corporate Office,Software/Access,Medium,V. Rao,13.75,24,Yes,Resolved,5.0
+TCK-10950,2025-02-11 13:17:00,2025-02-11 14:24:12.000000,Corporate Office,Hardware,Critical,L. Costa,1.12,4,Yes,Resolved,3.0
+TCK-11177,2025-03-23 14:51:00,2025-03-24 11:17:24.000000,Maritime/Port,Software/Access,Medium,A. Kumar,20.44,24,Yes,Resolved,4.0
+TCK-10272,2025-02-14 23:50:00,2025-02-15 21:56:00.000000,Maritime/Port,Network,High,L. Costa,22.1,8,No,Resolved,5.0
+TCK-10980,2026-07-13 09:40:00,2026-07-14 01:04:00.000000,Remote/Branch,Network,Medium,R. Fernandes,15.4,24,Yes,Resolved,2.0
+TCK-10982,2025-02-12 00:36:00,2025-02-13 12:12:36.000000,Corporate Office,Printer,Medium,D. Iyer,35.61,24,No,Resolved,4.0
+TCK-10475,2025-04-02 20:36:00,2025-04-03 11:58:48.000000,Corporate Office,Security,Low,M. Chen,15.38,72,Yes,Resolved,3.0
+TCK-10537,2026-04-23 03:51:00,2026-04-28 05:43:12.000000,Maritime/Port,Software/Access,Low,V. Rao,121.87,72,No,Resolved,
+TCK-10449,2025-01-28 19:30:00,2025-01-29 06:33:00.000000,Corporate Office,VoIP,Medium,J. Alvarez,11.05,24,Yes,Resolved,3.0
+TCK-10828,2026-08-09 06:54:00,2026-08-10 09:03:36.000000,Maritime/Port,Printer,Medium,M. Chen,26.16,24,No,Resolved,
+TCK-10961,2025-09-07 01:43:00,,Remote/Branch,Hardware,Low,K. Nandy,86.12,72,No,Escalated,4.0
+TCK-10677,2026-06-06 06:47:00,2026-06-06 11:17:36.000000,Remote/Branch,Software/Access,Low,T. Silva,4.51,72,Yes,Resolved,5.0
+TCK-10685,2026-03-10 22:25:00,2026-03-11 12:00:24.000000,Remote/Branch,email,High,S. Priya,13.59,8,No,Resolved,4.0
+TCK-10089,2026-06-06 12:43:00,2026-06-09 08:37:36.000000,Data Center,Network,Low,L. Costa,67.91,72,Yes,Resolved,5.0
+TCK-10814,2026-05-19 22:43:00,2026-05-19 22:45:24.000000,Corporate Office,Software/Access,Low,S. Priya,0.04,72,Yes,Resolved,1.0
+TCK-10104,2025-10-18 16:42:00,,Maritime/Port,Software/Access,Medium,D. Iyer,18.31,24,Yes,Escalated,2.0
+TCK-10656,2026-08-15 04:36:00,2026-08-16 12:31:48.000000,Data Center,Email,Low,V. Rao,31.93,72,Yes,Resolved,5.0
+TCK-10246,2026-02-11 17:23:00,,Data Center,Software/Access,High,S. Priya,5.42,8,Yes,Escalated,5.0
+TCK-10097,2025-11-04 16:19:00,2025-11-04 21:00:24.000000,Corporate Office,network,Medium,T. Silva,4.69,24,Yes,Resolved,4.0
+TCK-11042,2025-07-13 00:45:00,2025-07-14 15:57:00.000000,Data Center,Printer,Medium,A. Kumar,39.2,24,No,Resolved,5.0
+TCK-10611,2025-12-23 15:06:00,2025-12-23 18:15:00.000000,Data Center,Email,High,V. Rao,3.15,8,Yes,Resolved,5.0
+TCK-10896,2026-08-06 21:28:00,2026-08-07 02:35:48.000000,Data Center,Hardware,Medium,R. Fernandes,5.13,24,Yes,Resolved,5.0
+TCK-10697,2025-03-07 08:45:00,2025-03-07 21:22:12.000000,Maritime/Port,Hardware,Medium,D. Iyer,12.62,24,Yes,Resolved,4.0
+TCK-10770,2025-03-11 11:16:00,2025-03-11 20:44:48.000000,Corporate Office,VoIP,Medium,S. Priya,9.48,24,Yes,Resolved,3.0
+TCK-10749,2025-02-27 07:36:00,2025-02-27 13:15:00.000000,Maritime/Port,Hardware,High,T. Silva,5.65,8,Yes,Resolved,5.0
+TCK-10547,2025-08-25 02:45:00,2025-08-29 14:32:37.355520,Remote/Branch,Hardware,Low,R. Fernandes,107.7937098666205,72,No,Resolved,
+TCK-11184,2026-08-14 11:43:00,2026-08-14 21:10:36.000000,Corporate Office,Security,Medium,V. Rao,9.46,24,Yes,Resolved,1.0
+TCK-10144,2026-03-07 15:06:00,2026-03-07 21:31:48.000000,Remote/Branch,Hardware,Medium,T. Silva,6.43,24,Yes,Resolved,5.0
+TCK-11069,2026-06-10 08:56:00,2026-06-10 09:05:00.000000,Remote/Branch,Printer,Critical,L. Costa,0.15,4,Yes,Resolved,
+TCK-10599,2026-01-22 02:28:00,2026-01-23 15:19:36.000000,Corporate Office,Network,Medium,D. Iyer,36.86,24,No,Resolved,3.0
+TCK-10791,2026-04-22 08:14:00,2026-04-22 11:15:12.000000,Corporate Office,Hardware,Medium,J. Alvarez,3.02,24,Yes,Resolved,5.0
+TCK-10352,2026-07-22 03:45:00,2026-07-22 08:01:48.000000,Corporate Office,Software/Access,High,L. Costa,4.28,8,Yes,Resolved,4.0
+TCK-10120,2025-12-05 17:29:00,2025-12-07 17:19:36.201527,Corporate Office,Email,Medium,T. Silva,47.84338931295708,24,No,Resolved,
+TCK-11081,2025-09-13 19:22:00,2025-09-16 00:47:12.000000,Remote/Branch,Software/Access,Low,R. Fernandes,53.42,72,Yes,Resolved,5.0
+TCK-10938,2025-05-29 01:42:00,2025-05-29 05:04:12.000000,Data Center,Email,Medium,A. Kumar,3.37,24,Yes,Resolved,1.0
+TCK-11074,2025-08-14 21:44:00,2025-08-15 04:01:24.000000,Corporate Office,Hardware,Low,M. Chen,6.29,72,Yes,Resolved,4.0
+TCK-10451,2025-06-24 16:40:00,2025-06-25 20:17:48.000000,Corporate Office,Network,Low,D. Iyer,27.63,72,Yes,Resolved,3.0
+TCK-11047,2026-02-28 17:50:00,,Data Center,Printer,Medium,L. Costa,2.86,24,Yes,Escalated,5.0
+TCK-10491,2025-10-30 11:39:00,,Remote/Branch,Software/Access,High,M. Chen,0.06,8,Yes,Escalated,5.0
+TCK-10455,2026-04-28 23:46:00,2026-04-29 13:38:48.000000,Maritime/Port,Network,Critical,A. Kumar,13.88,4,No,Resolved,
+TCK-10327,2025-11-26 19:30:00,2025-11-26 22:42:36.000000,Remote/Branch,Software/Access,High,L. Costa,3.21,8,Yes,Resolved,1.0
+TCK-10863,2025-09-12 07:44:00,2025-09-12 09:31:24.000000,Corporate Office,VoIP,Medium,K. Nandy,1.79,24,Yes,Resolved,4.0
+TCK-10790,2026-01-14 05:28:00,2026-01-14 06:20:48.000000,Data Center,VoIP,High,A. Kumar,0.88,8,Yes,Resolved,4.0
+TCK-10474,2025-10-22 10:18:00,2025-10-22 12:36:36.000000,Corporate Office,Network,High,A. Kumar,2.31,8,Yes,Resolved,4.0
+TCK-10485,2025-04-08 05:08:00,2025-04-08 10:25:24.000000,Remote/Branch,Security,Medium,V. Rao,5.29,24,Yes,Resolved,5.0
+TCK-10984,2025-12-19 06:26:00,2025-12-19 09:17:00.000000,Data Center,Software/Access,High,L. Costa,2.85,8,Yes,Resolved,
+TCK-10549,2026-05-10 21:31:00,2026-05-11 14:13:08.985159,Remote/Branch,Email,High,A. Kumar,-1.0,8,No,Resolved,5.0
+TCK-10731,2026-04-19 03:51:00,2026-04-20 13:21:36.000000,Maritime/Port,Network,Medium,R. Fernandes,33.51,24,No,Resolved,4.0
+TCK-10807,2026-07-31 03:50:00,2026-08-01 19:30:48.000000,Maritime/Port,Software/Access,Medium,J. Alvarez,39.68,24,No,Resolved,4.0
+TCK-10688,2025-06-09 17:20:00,2025-06-09 20:42:48.000000,Remote/Branch,Software/Access,Low,T. Silva,3.38,72,Yes,Resolved,4.0
+TCK-10151,2026-05-22 10:11:00,,Corporate Office,Hardware,Low,V. Rao,5.36,72,Yes,Escalated,4.0
+TCK-10942,2026-07-30 07:47:00,2026-08-03 00:50:36.000000,Data Center,Software/Access,Low,L. Costa,89.06,72,No,Resolved,5.0
+TCK-10750,2025-06-27 05:15:00,2025-06-27 22:30:36.000000,Corporate Office,Network,Medium,D. Iyer,17.26,24,Yes,Resolved,3.0
+TCK-11021,2025-04-27 15:43:00,2025-05-01 10:23:12.000000,Maritime/Port,Printer,Low,V. Rao,90.67,72,No,Resolved,
+TCK-10978,2026-03-25 12:25:00,2026-03-25 12:34:00.000000,Corporate Office,Software/Access,Medium,A. Kumar,0.15,24,Yes,Resolved,5.0
+TCK-11100,2025-11-20 15:19:00,2025-11-20 18:05:48.000000,Data Center,Network,Low,J. Alvarez,2.78,72,Yes,Resolved,5.0
+TCK-11191,2026-04-09 14:25:00,2026-04-09 14:27:24.000000,Corporate Office,Hardware,Critical,A. Kumar,0.04,4,Yes,Resolved,4.0
+TCK-10031,2025-04-19 20:19:00,2025-04-25 07:59:12.000000,Remote/Branch,Email,Low,L. Costa,131.67,72,No,Resolved,4.0
+TCK-10632,2026-06-02 20:31:00,2026-06-03 08:10:00.000000,Corporate Office,Network,Medium,T. Silva,11.65,24,Yes,Resolved,
+TCK-10039,2025-07-25 22:19:00,2025-07-26 01:46:00.000000,Maritime/Port,Security,High,T. Silva,3.45,8,Yes,Resolved,5.0
+TCK-11163,2026-05-17 06:36:00,2026-05-17 08:10:48.000000,Corporate Office,Security,Medium,R. Fernandes,1.58,24,Yes,Resolved,1.0
+TCK-10216,2025-04-13 14:06:00,2025-04-14 14:27:36.000000,Remote/Branch,Email,Medium,L. Costa,24.36,24,No,Resolved,
+TCK-10946,2026-03-30 07:58:00,2026-04-01 18:49:36.000000,Data Center,Software/Access,Low,K. Nandy,58.86,72,Yes,Resolved,3.0
+TCK-10469,2026-08-24 07:15:00,2026-08-24 15:20:24.000000,Corporate Office,Hardware,High,A. Kumar,8.09,8,No,Reopened,4.0
+TCK-10172,2025-03-29 07:07:00,2025-03-29 13:29:48.000000,Maritime/Port,Security,High,L. Costa,6.38,8,Yes,Resolved,5.0
+TCK-10876,2025-04-14 21:33:00,2025-04-15 05:37:48.000000,Maritime/Port,Hardware,Medium,J. Alvarez,8.08,24,Yes,Resolved,3.0
+TCK-10213,2026-02-25 01:20:00,2026-02-25 18:50:36.000000,Remote/Branch,Network,High,V. Rao,17.51,8,No,Resolved,4.0
+TCK-10567,2025-05-24 22:46:00,2025-05-30 14:46:00.000000,Remote/Branch,Network,Low,S. Priya,136.0,72,No,Resolved,
+TCK-10284,2025-04-09 23:47:00,2025-04-10 00:11:00.000000,Remote/Branch,Network,Medium,K. Nandy,0.4,24,Yes,Resolved,3.0
+TCK-10802,2025-03-10 02:24:00,2025-03-10 11:30:36.000000,Corporate Office,Hardware,Critical,L. Costa,9.11,4,No,Resolved,3.0
+TCK-11193,2025-11-06 00:19:00,2025-11-06 13:44:12.000000,Corporate Office,Network,Medium,M. Chen,13.42,24,Yes,Resolved,4.0
+TCK-10466,2025-03-22 11:59:00,,Remote/Branch,Network,Low,V. Rao,11.49,72,Yes,Escalated,4.0
+TCK-10404,2026-06-05 07:07:00,2026-06-05 19:53:12.000000,Maritime/Port,Network,High,M. Chen,12.77,8,No,Resolved,3.0
+TCK-10206,2026-01-28 06:58:00,2026-01-31 02:04:36.000000,Data Center,Software/Access,Low,D. Iyer,67.11,72,Yes,Resolved,5.0
+TCK-11084,2025-11-19 15:57:00,,Data Center,Software/Access,Medium,D. Iyer,2.14,24,Yes,Escalated,5.0
+TCK-10233,2025-11-06 06:24:00,2025-11-07 03:30:36.000000,Maritime/Port,Software/Access,Medium,V. Rao,21.11,24,Yes,Resolved,3.0
+TCK-10036,2025-03-12 17:49:00,2025-03-13 07:11:12.000000,Remote/Branch,VoIP,Medium,R. Fernandes,13.37,24,Yes,Resolved,3.0
+TCK-10673,2025-03-30 03:08:00,2025-03-30 05:14:00.000000,Remote/Branch,Hardware,High,S. Priya,2.1,8,Yes,Resolved,5.0
+TCK-11027,2025-10-18 02:13:00,2025-10-18 18:27:24.000000,Corporate Office,Hardware,High,V. Rao,16.24,8,No,Resolved,4.0
+TCK-11019,2025-07-11 05:23:00,2025-07-14 04:35:00.000000,Maritime/Port,VoIP,Medium,D. Iyer,71.2,24,No,Resolved,4.0
+TCK-10654,2026-07-02 12:13:00,2026-07-02 13:50:48.000000,Data Center,hardware,Medium,T. Silva,1.63,24,Yes,Resolved,4.0
+TCK-11009,2025-08-26 02:16:00,2025-08-29 00:36:24.000000,Maritime/Port,network,Low,K. Nandy,70.34,72,Yes,Resolved,2.0
+TCK-10580,2025-11-29 12:00:00,,Data Center,Hardware,Medium,,2.21,24,Yes,Escalated,4.0
+TCK-10746,2025-08-13 00:57:00,2025-08-19 00:39:20.840543,Corporate Office,Printer,Low,J. Alvarez,143.70578903963354,72,No,Resolved,3.0
+TCK-10149,2025-03-30 08:56:00,2025-03-30 20:27:12.000000,Maritime/Port,VoIP,Medium,V. Rao,11.52,24,Yes,Resolved,4.0
+TCK-10322,2026-08-29 01:22:00,2026-09-10 16:39:21.180512,Corporate Office,Security,Low,L. Costa,303.2892168090102,72,No,Resolved,3.0
+TCK-10077,2026-03-14 17:00:00,,Data Center,Software/Access,Medium,,31.643116550213527,24,No,Escalated,5.0
+TCK-10552,2026-03-17 05:06:00,2026-03-17 17:58:48.000000,Corporate Office,Network,Medium,S. Priya,12.88,24,Yes,Resolved,1.0
+TCK-10554,2025-12-29 08:50:00,,Remote/Branch,Hardware,High,T. Silva,16.827687165523745,8,No,Escalated,5.0
+TCK-10101,2025-08-04 13:50:00,2025-08-10 18:03:12.000000,Remote/Branch,Network,Low,D. Iyer,148.22,72,No,Resolved,4.0
+TCK-11182,2025-09-12 18:40:00,2025-09-13 07:10:36.000000,Remote/Branch,Software/Access,High,R. Fernandes,12.51,8,No,Reopened,5.0
+TCK-11148,2025-04-07 16:42:00,2025-04-08 20:06:36.000000,Corporate Office,VoIP,Low,M. Chen,27.41,72,Yes,Resolved,5.0
+TCK-10009,2026-01-23 02:35:00,2026-01-24 00:44:00.000000,Data Center,Network,High,J. Alvarez,22.15,8,No,Resolved,5.0
+TCK-11153,2025-06-21 08:37:00,2025-06-24 21:13:36.000000,Remote/Branch,Hardware,Medium,S. Priya,84.61,24,No,Resolved,4.0
+TCK-11094,2026-03-06 22:48:00,2026-03-06 23:10:48.000000,Corporate Office,Printer,Low,K. Nandy,0.38,72,Yes,Resolved,4.0
+TCK-10251,2025-03-06 20:52:00,2025-03-06 23:33:24.000000,Remote/Branch,Network,Medium,V. Rao,2.69,24,Yes,Resolved,4.0
+TCK-10917,2025-10-26 17:33:00,2025-10-26 18:44:24.000000,Maritime/Port,Printer,Medium,K. Nandy,1.19,24,Yes,Resolved,5.0
+TCK-10125,2025-08-14 15:14:00,2025-08-16 05:06:12.000000,Corporate Office,VoIP,Low,J. Alvarez,37.87,72,Yes,Resolved,5.0
+TCK-10197,2026-07-10 14:26:00,2026-07-12 04:41:00.000000,Remote/Branch,Email,Low,A. Kumar,38.25,72,Yes,Resolved,5.0
+TCK-10929,2025-09-12 08:25:00,2025-09-17 04:37:00.000000,Remote/Branch,Network,Low,K. Nandy,116.2,72,No,Resolved,3.0
+TCK-10068,2025-09-08 11:18:00,2025-09-10 08:52:48.000000,Corporate Office,Network,Low,R. Fernandes,45.58,72,Yes,Resolved,2.0
+TCK-10952,2026-04-23 22:59:00,2026-04-24 22:26:53.934834,Maritime/Port,Software/Access,High,R. Fernandes,23.464981898292006,8,No,Resolved,3.0
+TCK-10075,2025-02-15 00:21:00,,Corporate Office,Security,Low,R. Fernandes,66.58,72,Yes,Escalated,5.0
+TCK-10903,2026-07-26 19:03:00,2026-07-27 04:02:24.000000,Remote/Branch,Printer,Medium,A. Kumar,8.99,24,Yes,Resolved,4.0
+TCK-10042,2026-07-22 07:37:00,2026-07-25 00:14:57.797300,Remote/Branch,Email,Medium,M. Chen,64.63272147230033,24,No,Resolved,5.0
+TCK-10944,2026-02-01 13:50:00,2026-02-01 21:00:12.000000,Maritime/Port,Email,High,K. Nandy,7.17,8,Yes,Resolved,1.0
+TCK-10536,2025-11-12 08:23:00,2025-11-12 09:16:24.000000,Data Center,Hardware,High,L. Costa,0.89,8,Yes,Resolved,5.0
+TCK-11147,2026-03-30 07:47:00,2026-03-30 10:47:00.000000,Corporate Office,hardware,Medium,A. Kumar,3.0,24,Yes,Resolved,3.0
+TCK-10918,2025-02-16 05:31:00,,Remote/Branch,Network,Medium,R. Fernandes,91.07,24,No,Escalated,3.0
+TCK-11106,2026-08-13 20:41:00,,Corporate Office,Network,Medium,L. Costa,12.5,24,Yes,Escalated,5.0
+TCK-10129,2026-03-15 04:55:00,2026-03-19 02:05:48.000000,Maritime/Port,Email,Low,V. Rao,93.18,72,No,Resolved,4.0
+TCK-10907,2026-01-23 12:52:00,2026-01-27 09:35:06.612915,Remote/Branch,Software/Access,Low,M. Chen,92.7185035874578,72,No,Resolved,3.0
+TCK-10778,2025-04-06 10:38:00,2025-04-08 20:04:24.000000,Maritime/Port,Network,High,D. Iyer,57.44,8,No,Resolved,4.0
+TCK-11087,2026-03-10 15:34:00,2026-03-11 00:36:24.000000,Data Center,VoIP,High,A. Kumar,9.04,8,No,Resolved,3.0
+TCK-10234,2026-01-26 18:22:00,2026-01-26 23:16:00.000000,Corporate Office,Hardware,High,D. Iyer,4.9,8,Yes,Resolved,5.0
+TCK-10326,2025-02-12 14:58:00,,Corporate Office,Hardware,Low,D. Iyer,11.31,72,Yes,Escalated,3.0
+TCK-10965,2025-07-17 10:32:00,2025-07-17 23:42:48.000000,Corporate Office,Security,Medium,S. Priya,13.18,24,Yes,Resolved,2.0
+TCK-11143,2026-05-26 11:29:00,2026-05-27 10:39:12.000000,Corporate Office,Network,Medium,A. Kumar,23.17,24,Yes,Reopened,5.0
+TCK-10057,2025-03-01 18:47:00,2025-03-04 14:10:42.559478,Remote/Branch,Hardware,Medium,L. Costa,67.3951554106366,24,No,Resolved,4.0
+TCK-10555,2026-02-20 14:36:00,2026-02-20 16:56:24.000000,Remote/Branch,Printer,Low,M. Chen,2.34,72,Yes,Resolved,
+TCK-10147,2026-07-06 15:29:00,2026-07-07 01:24:12.000000,Remote/Branch,Hardware,Medium,T. Silva,9.92,24,Yes,Resolved,4.0
+TCK-10319,2026-08-01 18:28:00,,Remote/Branch,Hardware,Medium,D. Iyer,3.5,24,Yes,Escalated,4.0
+TCK-10127,2026-04-24 04:39:00,2026-04-28 00:32:25.561229,Maritime/Port,Software/Access,Medium,L. Costa,91.89043367478592,24,No,Resolved,4.0
+TCK-11086,2025-08-16 18:08:00,,Data Center,Email,Low,A. Kumar,33.38,72,Yes,Escalated,2.0
+TCK-10644,2025-07-31 01:36:00,2025-07-31 22:40:48.000000,Data Center,Hardware,Low,K. Nandy,21.08,72,Yes,Resolved,5.0
+TCK-10939,2025-06-14 09:43:00,,Data Center,Printer,Medium,J. Alvarez,45.56,24,No,Escalated,3.0
+TCK-10342,2025-04-14 16:49:00,,Remote/Branch,VoIP,Medium,,14.0,24,Yes,Escalated,3.0
+TCK-10527,2025-05-18 12:15:00,,Corporate Office,Network,Low,J. Alvarez,13.86,72,Yes,Escalated,4.0
+TCK-10901,2025-12-13 16:33:00,2025-12-19 20:17:51.694013,Data Center,Hardware,Low,D. Iyer,147.74769278142932,72,No,Resolved,5.0
+TCK-11055,2025-03-23 19:02:00,2025-03-27 20:39:12.000000,Maritime/Port,Software/Access,Low,T. Silva,97.62,72,No,Resolved,5.0
+TCK-10987,2026-07-17 14:41:00,2026-07-23 04:34:00.745383,Corporate Office,VoIP,Low,L. Costa,133.88354038407508,72,No,Resolved,5.0
+TCK-10204,2025-10-26 16:45:00,2025-10-27 08:10:48.000000,Data Center,Network,Medium,J. Alvarez,15.43,24,Yes,Resolved,3.0
+TCK-10130,2025-09-24 12:20:00,2025-09-24 12:44:00.000000,Remote/Branch,Security,Critical,M. Chen,0.4,4,Yes,Resolved,5.0
+TCK-10324,2025-10-21 02:41:00,2025-10-21 03:38:36.000000,Data Center,Software/Access,High,S. Priya,0.96,8,Yes,Resolved,4.0
+TCK-10622,2025-11-17 19:24:00,2025-11-17 20:56:24.000000,Maritime/Port,Hardware,Critical,D. Iyer,1.54,4,Yes,Resolved,2.0
+TCK-11185,2026-03-14 03:10:00,2026-03-16 11:09:24.000000,Data Center,Hardware,Medium,R. Fernandes,55.99,24,No,Resolved,5.0
+TCK-10495,2025-03-25 16:28:00,2025-03-25 23:23:48.000000,Remote/Branch,Email,Medium,L. Costa,6.93,24,Yes,Resolved,5.0
+TCK-10026,2026-04-25 16:16:00,2026-04-26 07:02:48.000000,Remote/Branch,Email,Low,L. Costa,14.78,72,Yes,Resolved,4.0
+TCK-11099,2026-05-27 04:57:00,,Corporate Office,Email,High,L. Costa,2.11,8,Yes,Escalated,2.0
+TCK-10513,2025-10-10 06:59:00,2025-10-20 11:11:01.157409,Remote/Branch,Software/Access,Low,S. Priya,244.20032150253468,72,No,Resolved,4.0
+TCK-10318,2025-03-19 05:49:00,2025-03-25 02:02:48.000000,Corporate Office,Network,Medium,V. Rao,140.23,24,No,Resolved,5.0
+TCK-10848,2025-08-16 11:14:00,2025-08-19 00:57:12.000000,Corporate Office,VoIP,Low,J. Alvarez,61.72,72,Yes,Reopened,5.0
+TCK-10335,2025-12-08 02:37:00,2025-12-08 21:22:36.000000,Remote/Branch,Email,Medium,R. Fernandes,18.76,24,Yes,Resolved,
+TCK-10618,2026-04-06 18:27:00,2026-04-08 14:22:38.012810,Remote/Branch,Printer,Medium,T. Silva,43.927225780595144,24,No,Resolved,5.0
+TCK-10227,2025-03-22 19:55:00,2025-03-22 21:14:12.000000,Data Center,hardware,High,T. Silva,1.32,8,Yes,Resolved,4.0
+TCK-10713,2026-07-09 11:40:00,2026-07-09 21:11:48.000000,Corporate Office,Network,Medium,A. Kumar,9.53,24,Yes,Resolved,3.0
+TCK-10906,2025-12-05 08:03:00,2025-12-06 01:39:00.000000,Maritime/Port,Software/Access,Medium,L. Costa,17.6,24,Yes,Resolved,5.0
