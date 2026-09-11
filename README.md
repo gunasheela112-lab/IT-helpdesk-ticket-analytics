@@ -1,6 +1,6 @@
 # IT Helpdesk Ticket Analytics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nZ6OxRD-P_akkrgUnHwiF0A8yBjPMSjD?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/github/gunasheela112-lab/IT-helpdesk-ticket-analytics/blob/main/IT_helpdesk.ipynb)
 
 A data analysis project examining IT support ticket performance across a multi-site organization — corporate offices, data centers, remote branches, and a maritime/port location — with a machine learning model built to predict SLA breach risk before it happens.
 
