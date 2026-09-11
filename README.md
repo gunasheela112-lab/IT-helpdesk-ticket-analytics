@@ -58,7 +58,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn (Logistic Reg
 - `IT_helpdesk_ticket_analysis.ipynb` — full analysis notebook
 - `helpdesk_tickets.csv` — raw dataset
 - `helpdesk_tickets_clean.csv` — cleaned dataset
-- Chart PNGs — exported visualizations (category volume, SLA compliance, resolution time, technician load, monthly trend, heatmap, satisfaction, feature importance, confusion matrix, threshold trade-off)
+- `charts/` — exported visualizations (category volume, SLA compliance, resolution time, technician load, monthly trend, heatmap, satisfaction, feature importance, confusion matrix, threshold trade-off)
 
 ## Author
 
