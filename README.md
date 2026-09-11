@@ -33,21 +33,21 @@ IT helpdesk teams generate large volumes of support tickets, but few organizatio
 **SLA Compliance by Priority**
 
 
-![SLA Compliance](chart2_sla_by_priority.png)
+![SLA Compliance](charts/chart2_sla_by_priority.png)
 
 
 
 **Feature Importance for SLA Breach Prediction**
 
 
-![Feature Importance](chart8_feature_importance.png)
+![Feature Importance](charts/chart8_feature_importance.png)
 
 
 
 **Precision-Recall Trade-off Across Thresholds**
 
 
-![Threshold Trade-off](chart10_threshold_tradeoff.png)
+![Threshold Trade-off](charts/chart10_threshold_tradeoff.png)
 
 ## Tech Stack
 
